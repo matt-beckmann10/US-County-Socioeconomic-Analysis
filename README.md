@@ -12,7 +12,7 @@ This project examines the relationships between selected socioeconomic variables
 
 Project Contents
 ----------------
-- Task3_Paper.docx
+- Capstone_Project_Report.pdf
 Final written capstone report.
 
 - Crime_Analysis_Notebook.ipynb
