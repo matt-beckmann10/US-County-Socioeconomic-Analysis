@@ -1,0 +1,2181 @@
+state,county,2023_violent_crime,2023_property_crime,2024_violent_crime,2024_property_crime,metro_status
+Alabama,Autauga,47.0,220.0,54.0,221.0,Metro
+Alabama,Baldwin,108.0,196.0,137.0,170.0,Metro
+Alabama,Bibb,25.0,82.0,34.0,78.0,Metro
+Alabama,Blount,111.0,376.0,82.0,298.0,Metro
+Alabama,Calhoun,215.0,246.0,238.0,192.0,Metro
+Alabama,Chilton,93.0,312.0,64.0,419.0,Metro
+Alabama,Colbert,21.0,73.0,15.0,90.0,Metro
+Alabama,Elmore,35.0,226.0,41.0,314.0,Metro
+Alabama,Etowah,17.0,63.0,13.0,55.0,Metro
+Alabama,Greene,7.0,31.0,2.0,4.0,Metro
+Alabama,Henry,31.0,82.0,15.0,71.0,Metro
+Alabama,Houston,125.0,488.0,147.0,495.0,Metro
+Alabama,Jefferson,712.0,2916.0,650.0,2725.0,Metro
+Alabama,Lauderdale,110.0,393.0,95.0,274.0,Metro
+Alabama,Lawrence,27.0,82.0,19.0,50.0,Metro
+Alabama,Lee,170.0,740.0,216.0,539.0,Metro
+Alabama,Macon,14.0,55.0,10.0,12.0,Metro
+Alabama,Madison,300.0,1484.0,286.0,1288.0,Metro
+Alabama,Mobile,165.0,755.0,265.0,800.0,Metro
+Alabama,Montgomery,121.0,354.0,80.0,390.0,Metro
+Alabama,Pickens,23.0,55.0,28.0,55.0,Metro
+Alabama,St. Clair,85.0,248.0,79.0,334.0,Metro
+Alabama,Tuscaloosa,159.0,476.0,106.0,470.0,Metro
+Alabama,Walker,0.0,0.0,0.0,0.0,Metro
+Alabama,Barbour,8.0,26.0,11.0,15.0,Non-Metro
+Alabama,Bullock,14.0,32.0,11.0,38.0,Non-Metro
+Alabama,Chambers,26.0,89.0,26.0,147.0,Non-Metro
+Alabama,Cherokee,64.0,308.0,49.0,264.0,Non-Metro
+Alabama,Choctaw,23.0,86.0,9.0,51.0,Non-Metro
+Alabama,Clarke,62.0,92.0,36.0,73.0,Non-Metro
+Alabama,Clay,16.0,60.0,16.0,51.0,Non-Metro
+Alabama,Cleburne,10.0,114.0,19.0,111.0,Non-Metro
+Alabama,Coffee,31.0,137.0,26.0,122.0,Non-Metro
+Alabama,Conecuh,5.0,19.0,1.0,0.0,Non-Metro
+Alabama,Covington,5.0,20.0,1.0,8.0,Non-Metro
+Alabama,Crenshaw,23.0,92.0,5.0,18.0,Non-Metro
+Alabama,Cullman,103.0,687.0,78.0,644.0,Non-Metro
+Alabama,Dale,22.0,110.0,37.0,75.0,Non-Metro
+Alabama,Dallas,94.0,219.0,93.0,303.0,Non-Metro
+Alabama,DeKalb,22.0,131.0,27.0,157.0,Non-Metro
+Alabama,Fayette,5.0,39.0,10.0,17.0,Non-Metro
+Alabama,Franklin,56.0,184.0,35.0,129.0,Non-Metro
+Alabama,Lamar,2.0,4.0,3.0,14.0,Non-Metro
+Alabama,Marion,4.0,19.0,11.0,49.0,Non-Metro
+Alabama,Marshall,49.0,193.0,40.0,545.0,Non-Metro
+Alabama,Monroe,25.0,27.0,16.0,31.0,Non-Metro
+Alabama,Pike,17.0,67.0,14.0,53.0,Non-Metro
+Alabama,Randolph,46.0,165.0,49.0,149.0,Non-Metro
+Alabama,Talladega,76.0,386.0,79.0,311.0,Non-Metro
+Alabama,Tallapoosa,22.0,73.0,8.0,61.0,Non-Metro
+Alabama,Washington,23.0,74.0,24.0,78.0,Non-Metro
+Alabama,Winston,12.0,102.0,20.0,95.0,Non-Metro
+Arizona,Mohave,182.0,1428.0,206.0,1335.0,Metro
+Arizona,Pima,806.0,7152.0,759.0,7085.0,Metro
+Arizona,Pinal,271.0,1425.0,251.0,1238.0,Metro
+Arizona,Yavapai,226.0,500.0,237.0,428.0,Metro
+Arizona,Yuma,211.0,712.0,135.0,708.0,Metro
+Arizona,Apache,53.0,124.0,47.0,79.0,Non-Metro
+Arizona,Gila,59.0,87.0,54.0,106.0,Non-Metro
+Arizona,Graham,6.0,51.0,16.0,33.0,Non-Metro
+Arizona,Navajo,70.0,182.0,67.0,162.0,Non-Metro
+Arkansas,Benton,125.0,288.0,111.0,247.0,Metro
+Arkansas,Craighead,58.0,225.0,54.0,147.0,Metro
+Arkansas,Crawford,65.0,227.0,70.0,219.0,Metro
+Arkansas,Crittenden,134.0,250.0,135.0,216.0,Metro
+Arkansas,Garland,304.0,1175.0,322.0,919.0,Metro
+Arkansas,Grant,30.0,123.0,44.0,111.0,Metro
+Arkansas,Little River,29.0,48.0,29.0,62.0,Metro
+Arkansas,Lonoke,135.0,336.0,129.0,335.0,Metro
+Arkansas,Madison,28.0,94.0,73.0,97.0,Metro
+Arkansas,Miller,49.0,123.0,44.0,115.0,Metro
+Arkansas,Perry,33.0,104.0,23.0,80.0,Metro
+Arkansas,Poinsett,58.0,116.0,51.0,81.0,Metro
+Arkansas,Pulaski,465.0,1306.0,448.0,1166.0,Metro
+Arkansas,Saline,139.0,411.0,162.0,546.0,Metro
+Arkansas,Sebastian,36.0,108.0,22.0,62.0,Metro
+Arkansas,Washington,159.0,357.0,146.0,266.0,Metro
+Arkansas,Arkansas,14.0,51.0,31.0,57.0,Non-Metro
+Arkansas,Ashley,9.0,77.0,5.0,92.0,Non-Metro
+Arkansas,Baxter,39.0,231.0,40.0,143.0,Non-Metro
+Arkansas,Boone,49.0,162.0,49.0,136.0,Non-Metro
+Arkansas,Calhoun,17.0,32.0,14.0,23.0,Non-Metro
+Arkansas,Carroll,39.0,81.0,24.0,61.0,Non-Metro
+Arkansas,Chicot,5.0,49.0,2.0,54.0,Non-Metro
+Arkansas,Clark,8.0,64.0,12.0,31.0,Non-Metro
+Arkansas,Clay,20.0,50.0,35.0,28.0,Non-Metro
+Arkansas,Cleburne,167.0,203.0,140.0,257.0,Non-Metro
+Arkansas,Cleveland,25.0,39.0,15.0,38.0,Non-Metro
+Arkansas,Columbia,33.0,71.0,29.0,48.0,Non-Metro
+Arkansas,Conway,38.0,175.0,47.0,113.0,Non-Metro
+Arkansas,Desha,17.0,40.0,9.0,30.0,Non-Metro
+Arkansas,Drew,22.0,70.0,20.0,56.0,Non-Metro
+Arkansas,Franklin,67.0,97.0,40.0,61.0,Non-Metro
+Arkansas,Fulton,31.0,76.0,32.0,68.0,Non-Metro
+Arkansas,Greene,76.0,164.0,75.0,145.0,Non-Metro
+Arkansas,Hempstead,41.0,119.0,47.0,94.0,Non-Metro
+Arkansas,Howard,3.0,47.0,8.0,26.0,Non-Metro
+Arkansas,Independence,131.0,312.0,87.0,233.0,Non-Metro
+Arkansas,Izard,72.0,79.0,55.0,47.0,Non-Metro
+Arkansas,Jackson,21.0,83.0,23.0,58.0,Non-Metro
+Arkansas,Jefferson,70.0,387.0,76.0,321.0,Non-Metro
+Arkansas,Johnson,65.0,86.0,46.0,49.0,Non-Metro
+Arkansas,Lafayette,14.0,22.0,13.0,18.0,Non-Metro
+Arkansas,Lawrence,23.0,69.0,27.0,72.0,Non-Metro
+Arkansas,Lincoln,19.0,83.0,13.0,66.0,Non-Metro
+Arkansas,Logan,75.0,147.0,58.0,142.0,Non-Metro
+Arkansas,Marion,42.0,130.0,24.0,84.0,Non-Metro
+Arkansas,Mississippi,45.0,237.0,42.0,192.0,Non-Metro
+Arkansas,Montgomery,30.0,41.0,15.0,11.0,Non-Metro
+Arkansas,Newton,19.0,38.0,18.0,38.0,Non-Metro
+Arkansas,Pike,8.0,40.0,6.0,27.0,Non-Metro
+Arkansas,Polk,69.0,52.0,57.0,29.0,Non-Metro
+Arkansas,Pope,100.0,176.0,110.0,153.0,Non-Metro
+Arkansas,Prairie,27.0,66.0,38.0,40.0,Non-Metro
+Arkansas,Randolph,44.0,117.0,28.0,95.0,Non-Metro
+Arkansas,Scott,21.0,48.0,8.0,35.0,Non-Metro
+Arkansas,Searcy,16.0,24.0,23.0,21.0,Non-Metro
+Arkansas,Sevier,32.0,32.0,22.0,20.0,Non-Metro
+Arkansas,Stone,26.0,98.0,29.0,56.0,Non-Metro
+Arkansas,Union,73.0,185.0,81.0,189.0,Non-Metro
+Arkansas,Van Buren,64.0,163.0,81.0,131.0,Non-Metro
+Arkansas,White,232.0,477.0,211.0,412.0,Non-Metro
+Arkansas,Woodruff,8.0,22.0,10.0,27.0,Non-Metro
+Arkansas,Yell,46.0,79.0,47.0,45.0,Non-Metro
+California,Alameda,864.0,2944.0,776.0,2182.0,Metro
+California,Butte,439.0,870.0,362.0,652.0,Metro
+California,Contra Costa,514.0,1837.0,479.0,2333.0,Metro
+California,El Dorado,347.0,1241.0,281.0,786.0,Metro
+California,Fresno,1185.0,2952.0,1174.0,2857.0,Metro
+California,Imperial,175.0,413.0,108.0,267.0,Metro
+California,Kern,3194.0,7863.0,3160.0,7085.0,Metro
+California,Kings,116.0,334.0,154.0,401.0,Metro
+California,Los Angeles,6268.0,18148.0,5909.0,17982.0,Metro
+California,Madera,357.0,908.0,338.0,980.0,Metro
+California,Marin,61.0,339.0,79.0,403.0,Metro
+California,Merced,389.0,1483.0,365.0,1383.0,Metro
+California,Monterey,372.0,742.0,394.0,712.0,Metro
+California,Napa,70.0,218.0,74.0,158.0,Metro
+California,Orange,327.0,1070.0,423.0,894.0,Metro
+California,Placer,543.0,1027.0,357.0,851.0,Metro
+California,Riverside,1172.0,6780.0,998.0,5963.0,Metro
+California,Sacramento,2749.0,7642.0,2825.0,8631.0,Metro
+California,San Benito,62.0,131.0,62.0,133.0,Metro
+California,San Diego,1689.0,3831.0,1265.0,2453.0,Metro
+California,San Joaquin,824.0,2601.0,776.0,1849.0,Metro
+California,San Luis Obispo,705.0,635.0,569.0,566.0,Metro
+California,San Mateo,279.0,1839.0,239.0,1630.0,Metro
+California,Santa Barbara,291.0,1043.0,298.0,941.0,Metro
+California,Santa Clara,308.0,1288.0,274.0,1435.0,Metro
+California,Santa Cruz,339.0,899.0,282.0,995.0,Metro
+California,Sonoma,303.0,782.0,274.0,745.0,Metro
+California,Stanislaus,410.0,1022.0,383.0,878.0,Metro
+California,Sutter,126.0,395.0,116.0,383.0,Metro
+California,Tulare,686.0,1474.0,703.0,1687.0,Metro
+California,Ventura,127.0,569.0,174.0,603.0,Metro
+California,Yolo,41.0,233.0,42.0,211.0,Metro
+California,Yuba,247.0,547.0,359.0,483.0,Metro
+California,Alpine,9.0,10.0,12.0,21.0,Non-Metro
+California,Amador,64.0,237.0,82.0,182.0,Non-Metro
+California,Calaveras,167.0,500.0,161.0,418.0,Non-Metro
+California,Colusa,22.0,164.0,20.0,96.0,Non-Metro
+California,Del Norte,65.0,189.0,49.0,93.0,Non-Metro
+California,Glenn,117.0,199.0,101.0,277.0,Non-Metro
+California,Humboldt,201.0,551.0,202.0,568.0,Non-Metro
+California,Inyo,139.0,103.0,96.0,57.0,Non-Metro
+California,Lake,272.0,397.0,291.0,365.0,Non-Metro
+California,Lassen,73.0,186.0,47.0,119.0,Non-Metro
+California,Mariposa,99.0,230.0,94.0,177.0,Non-Metro
+California,Modoc,38.0,25.0,21.0,27.0,Non-Metro
+California,Mono,24.0,34.0,15.0,27.0,Non-Metro
+California,Nevada,185.0,322.0,168.0,302.0,Non-Metro
+California,Sierra,5.0,12.0,15.0,18.0,Non-Metro
+California,Siskiyou,114.0,59.0,72.0,32.0,Non-Metro
+California,Tehama,109.0,342.0,121.0,282.0,Non-Metro
+California,Trinity,96.0,139.0,82.0,140.0,Non-Metro
+California,Tuolumne,327.0,378.0,230.0,358.0,Non-Metro
+Colorado,Adams,374.0,1720.0,440.0,2180.0,Metro
+Colorado,Arapahoe,291.0,2234.0,332.0,1930.0,Metro
+Colorado,Boulder,105.0,730.0,85.0,760.0,Metro
+Colorado,Douglas,408.0,2393.0,426.0,2239.0,Metro
+Colorado,El Paso,558.0,2827.0,600.0,2810.0,Metro
+Colorado,Gilpin,4.0,38.0,9.0,51.0,Metro
+Colorado,Jefferson,347.0,2533.0,430.0,2356.0,Metro
+Colorado,Larimer,210.0,926.0,175.0,712.0,Metro
+Colorado,Mesa,151.0,945.0,165.0,886.0,Metro
+Colorado,Alamosa,17.0,136.0,11.0,115.0,Non-Metro
+Colorado,Archuleta,16.0,11.0,18.0,20.0,Non-Metro
+Colorado,Bent,10.0,81.0,11.0,90.0,Non-Metro
+Colorado,Chaffee,10.0,67.0,4.0,65.0,Non-Metro
+Colorado,Crowley,3.0,33.0,11.0,29.0,Non-Metro
+Colorado,Delta,4.0,113.0,9.0,108.0,Non-Metro
+Colorado,Dolores,6.0,34.0,8.0,17.0,Non-Metro
+Colorado,Eagle,17.0,123.0,19.0,126.0,Non-Metro
+Colorado,Garfield,69.0,203.0,92.0,170.0,Non-Metro
+Colorado,Kiowa,0.0,13.0,0.0,9.0,Non-Metro
+Colorado,Kit Carson,0.0,28.0,8.0,22.0,Non-Metro
+Colorado,La Plata,6.0,39.0,28.0,130.0,Non-Metro
+Colorado,Las Animas,8.0,54.0,15.0,50.0,Non-Metro
+Colorado,Logan,15.0,55.0,17.0,45.0,Non-Metro
+Colorado,Montezuma,23.0,124.0,29.0,99.0,Non-Metro
+Colorado,Montrose,15.0,107.0,37.0,76.0,Non-Metro
+Colorado,Morgan,21.0,152.0,1.0,62.0,Non-Metro
+Colorado,Otero,5.0,47.0,5.0,41.0,Non-Metro
+Colorado,Ouray,1.0,24.0,4.0,13.0,Non-Metro
+Colorado,Phillips,0.0,0.0,0.0,0.0,Non-Metro
+Colorado,Pitkin,6.0,31.0,5.0,15.0,Non-Metro
+Colorado,Prowers,10.0,45.0,12.0,40.0,Non-Metro
+Colorado,Rio Blanco,1.0,17.0,1.0,11.0,Non-Metro
+Colorado,Rio Grande,0.0,0.0,9.0,6.0,Non-Metro
+Colorado,Routt,10.0,64.0,18.0,42.0,Non-Metro
+Colorado,Saguache,3.0,48.0,8.0,44.0,Non-Metro
+Colorado,San Miguel,3.0,7.0,3.0,2.0,Non-Metro
+Colorado,Summit,29.0,161.0,30.0,150.0,Non-Metro
+Colorado,Washington,2.0,42.0,9.0,43.0,Non-Metro
+Colorado,Yuma,4.0,14.0,3.0,22.0,Non-Metro
+Florida,Alachua,246.0,997.0,219.0,1205.0,Metro
+Florida,Baker,102.0,174.0,79.0,174.0,Metro
+Florida,Bay,291.0,1240.0,246.0,1146.0,Metro
+Florida,Charlotte,222.0,1286.0,207.0,1392.0,Metro
+Florida,Clay,465.0,1822.0,437.0,1750.0,Metro
+Florida,Collier,617.0,2675.0,571.0,2636.0,Metro
+Florida,Flagler,222.0,697.0,147.0,726.0,Metro
+Florida,Hernando,444.0,1841.0,424.0,2109.0,Metro
+Florida,Jefferson,32.0,127.0,34.0,67.0,Metro
+Florida,Lee,1379.0,4976.0,1201.0,4575.0,Metro
+Florida,Leon,342.0,1226.0,481.0,1751.0,Metro
+Florida,Marion,797.0,2488.0,667.0,2370.0,Metro
+Florida,Martin,283.0,1297.0,247.0,1163.0,Metro
+Florida,Miami-Dade,5720.0,27468.0,4838.0,26623.0,Metro
+Florida,Nassau,125.0,105.0,128.0,107.0,Metro
+Florida,Palm Beach,1382.0,7299.0,1288.0,5926.0,Metro
+Florida,Pinellas,401.0,2517.0,386.0,2268.0,Metro
+Florida,Polk,1430.0,3950.0,1276.0,3095.0,Metro
+Florida,Santa Rosa,233.0,1117.0,232.0,878.0,Metro
+Florida,Sarasota,365.0,3007.0,349.0,2962.0,Metro
+Florida,Seminole,420.0,1852.0,357.0,1453.0,Metro
+Florida,Wakulla,25.0,113.0,56.0,244.0,Metro
+Florida,Walton,115.0,364.0,120.0,399.0,Metro
+Florida,Columbia,186.0,582.0,186.0,424.0,Non-Metro
+Florida,Hardee,34.0,187.0,51.0,177.0,Non-Metro
+Florida,Hendry,56.0,142.0,52.0,102.0,Non-Metro
+Florida,Madison,67.0,168.0,37.0,132.0,Non-Metro
+Florida,Monroe,161.0,381.0,125.0,392.0,Non-Metro
+Florida,Okeechobee,115.0,506.0,116.0,421.0,Non-Metro
+Florida,Putnam,44.0,401.0,41.0,355.0,Non-Metro
+Florida,Taylor,55.0,117.0,53.0,161.0,Non-Metro
+Georgia,Barrow,95.0,756.0,95.0,699.0,Metro
+Georgia,Bartow,152.0,1020.0,64.0,922.0,Metro
+Georgia,Brooks,23.0,80.0,10.0,96.0,Metro
+Georgia,Bryan,22.0,173.0,20.0,209.0,Metro
+Georgia,Burke,38.0,261.0,37.0,181.0,Metro
+Georgia,Butts,23.0,150.0,32.0,119.0,Metro
+Georgia,Carroll,116.0,731.0,97.0,485.0,Metro
+Georgia,Catoosa,71.0,280.0,75.0,204.0,Metro
+Georgia,Cherokee,173.0,851.0,180.0,776.0,Metro
+Georgia,Clarke,0.0,0.0,0.0,0.0,Metro
+Georgia,Columbia,113.0,1058.0,107.0,944.0,Metro
+Georgia,Coweta,682.0,825.0,404.0,697.0,Metro
+Georgia,Crawford,22.0,124.0,15.0,108.0,Metro
+Georgia,Dawson,35.0,209.0,50.0,268.0,Metro
+Georgia,DeKalb,23.0,0.0,20.0,0.0,Metro
+Georgia,Dougherty,5.0,9.0,0.0,15.0,Metro
+Georgia,Douglas,219.0,925.0,229.0,936.0,Metro
+Georgia,Effingham,41.0,226.0,28.0,165.0,Metro
+Georgia,Fayette,40.0,271.0,30.0,208.0,Metro
+Georgia,Floyd,4.0,0.0,2.0,1.0,Metro
+Georgia,Forsyth,156.0,1116.0,112.0,953.0,Metro
+Georgia,Fulton,78.0,14.0,14.0,11.0,Metro
+Georgia,Gwinnett,12.0,14.0,20.0,8.0,Metro
+Georgia,Hall,302.0,1338.0,290.0,1139.0,Metro
+Georgia,Haralson,43.0,291.0,59.0,276.0,Metro
+Georgia,Harris,9.0,102.0,5.0,32.0,Metro
+Georgia,Heard,7.0,95.0,7.0,83.0,Metro
+Georgia,Henry,4.0,2.0,9.0,1.0,Metro
+Georgia,Lanier,23.0,102.0,11.0,115.0,Metro
+Georgia,Lee,63.0,255.0,35.0,224.0,Metro
+Georgia,Lowndes,110.0,870.0,124.0,830.0,Metro
+Georgia,Lumpkin,34.0,175.0,60.0,132.0,Metro
+Georgia,Madison,57.0,267.0,75.0,194.0,Metro
+Georgia,Marion,4.0,30.0,5.0,26.0,Metro
+Georgia,McDuffie,44.0,148.0,29.0,126.0,Metro
+Georgia,McIntosh,30.0,193.0,12.0,106.0,Metro
+Georgia,Meriwether,31.0,104.0,41.0,123.0,Metro
+Georgia,Monroe,10.0,31.0,9.0,37.0,Metro
+Georgia,Murray,24.0,56.0,18.0,51.0,Metro
+Georgia,Newton,277.0,1306.0,303.0,1016.0,Metro
+Georgia,Oconee,24.0,593.0,28.0,511.0,Metro
+Georgia,Paulding,580.0,1248.0,412.0,1132.0,Metro
+Georgia,Peach,16.0,52.0,0.0,0.0,Metro
+Georgia,Pickens,11.0,147.0,15.0,172.0,Metro
+Georgia,Pike,21.0,102.0,18.0,68.0,Metro
+Georgia,Rockdale,76.0,337.0,129.0,726.0,Metro
+Georgia,Talbot,17.0,26.0,9.0,35.0,Metro
+Georgia,Twiggs,7.0,62.0,11.0,69.0,Metro
+Georgia,Walton,44.0,232.0,27.0,181.0,Metro
+Georgia,Whitfield,322.0,745.0,277.0,772.0,Metro
+Georgia,Worth,35.0,117.0,52.0,104.0,Metro
+Georgia,Atkinson,9.0,48.0,13.0,36.0,Non-Metro
+Georgia,Baldwin,99.0,444.0,108.0,437.0,Non-Metro
+Georgia,Ben Hill,67.0,100.0,36.0,64.0,Non-Metro
+Georgia,Berrien,29.0,114.0,25.0,124.0,Non-Metro
+Georgia,Bleckley,15.0,86.0,12.0,85.0,Non-Metro
+Georgia,Bulloch,31.0,253.0,28.0,223.0,Non-Metro
+Georgia,Candler,12.0,63.0,25.0,57.0,Non-Metro
+Georgia,Chattooga,19.0,208.0,30.0,221.0,Non-Metro
+Georgia,Clay,16.0,17.0,10.0,25.0,Non-Metro
+Georgia,Clinch,5.0,40.0,2.0,30.0,Non-Metro
+Georgia,Coffee,73.0,304.0,54.0,300.0,Non-Metro
+Georgia,Cook,13.0,120.0,7.0,90.0,Non-Metro
+Georgia,Crisp,30.0,215.0,32.0,167.0,Non-Metro
+Georgia,Decatur,41.0,169.0,42.0,149.0,Non-Metro
+Georgia,Early,12.0,27.0,8.0,35.0,Non-Metro
+Georgia,Fannin,42.0,186.0,28.0,151.0,Non-Metro
+Georgia,Gilmer,76.0,202.0,62.0,174.0,Non-Metro
+Georgia,Glascock,2.0,19.0,3.0,23.0,Non-Metro
+Georgia,Gordon,67.0,291.0,58.0,230.0,Non-Metro
+Georgia,Greene,8.0,58.0,16.0,76.0,Non-Metro
+Georgia,Habersham,26.0,164.0,19.0,178.0,Non-Metro
+Georgia,Hart,68.0,187.0,56.0,134.0,Non-Metro
+Georgia,Irwin,7.0,67.0,8.0,49.0,Non-Metro
+Georgia,Laurens,91.0,359.0,58.0,337.0,Non-Metro
+Georgia,Mitchell,16.0,149.0,32.0,122.0,Non-Metro
+Georgia,Pierce,32.0,142.0,25.0,102.0,Non-Metro
+Georgia,Polk,2.0,1.0,6.0,0.0,Non-Metro
+Georgia,Putnam,27.0,135.0,31.0,121.0,Non-Metro
+Georgia,Rabun,9.0,92.0,14.0,77.0,Non-Metro
+Georgia,Sumter,10.0,90.0,35.0,145.0,Non-Metro
+Georgia,Tattnall,26.0,138.0,16.0,122.0,Non-Metro
+Georgia,Thomas,60.0,331.0,32.0,310.0,Non-Metro
+Georgia,Tift,153.0,463.0,171.0,484.0,Non-Metro
+Georgia,Troup,56.0,456.0,57.0,397.0,Non-Metro
+Georgia,Turner,10.0,38.0,1.0,39.0,Non-Metro
+Georgia,Union,15.0,108.0,8.0,66.0,Non-Metro
+Georgia,Upson,11.0,49.0,6.0,32.0,Non-Metro
+Georgia,Ware,30.0,113.0,41.0,146.0,Non-Metro
+Georgia,White,7.0,170.0,11.0,102.0,Non-Metro
+Georgia,Wilkes,55.0,141.0,36.0,93.0,Non-Metro
+Idaho,Ada,257.0,482.0,216.0,538.0,Metro
+Idaho,Boise,20.0,19.0,22.0,13.0,Metro
+Idaho,Bonneville,133.0,567.0,139.0,523.0,Metro
+Idaho,Canyon,125.0,250.0,167.0,193.0,Metro
+Idaho,Franklin,0.0,15.0,6.0,9.0,Metro
+Idaho,Jefferson,10.0,117.0,11.0,94.0,Metro
+Idaho,Jerome,64.0,67.0,52.0,84.0,Metro
+Idaho,Kootenai,119.0,506.0,118.0,459.0,Metro
+Idaho,Nez Perce,5.0,36.0,9.0,33.0,Metro
+Idaho,Twin Falls,62.0,97.0,40.0,68.0,Metro
+Idaho,Adams,4.0,36.0,7.0,42.0,Non-Metro
+Idaho,Bear Lake,1.0,10.0,0.0,6.0,Non-Metro
+Idaho,Benewah,28.0,56.0,34.0,60.0,Non-Metro
+Idaho,Bingham,51.0,104.0,39.0,137.0,Non-Metro
+Idaho,Blaine,21.0,17.0,12.0,21.0,Non-Metro
+Idaho,Bonner,39.0,255.0,35.0,203.0,Non-Metro
+Idaho,Boundary,16.0,33.0,26.0,23.0,Non-Metro
+Idaho,Cassia,24.0,232.0,42.0,163.0,Non-Metro
+Idaho,Custer,1.0,32.0,2.0,7.0,Non-Metro
+Idaho,Elmore,24.0,22.0,16.0,46.0,Non-Metro
+Idaho,Fremont,16.0,44.0,9.0,42.0,Non-Metro
+Idaho,Gooding,20.0,49.0,19.0,23.0,Non-Metro
+Idaho,Idaho,47.0,32.0,10.0,51.0,Non-Metro
+Idaho,Latah,11.0,62.0,19.0,50.0,Non-Metro
+Idaho,Lincoln,25.0,29.0,16.0,18.0,Non-Metro
+Idaho,Madison,6.0,27.0,3.0,56.0,Non-Metro
+Idaho,Oneida,10.0,24.0,30.0,19.0,Non-Metro
+Idaho,Payette,27.0,54.0,27.0,53.0,Non-Metro
+Idaho,Shoshone,33.0,60.0,32.0,57.0,Non-Metro
+Idaho,Teton,22.0,32.0,9.0,33.0,Non-Metro
+Idaho,Valley,36.0,72.0,18.0,55.0,Non-Metro
+Idaho,Washington,6.0,6.0,4.0,8.0,Non-Metro
+Illinois,Bond,5.0,34.0,8.0,27.0,Metro
+Illinois,Boone,21.0,110.0,32.0,106.0,Metro
+Illinois,Calhoun,9.0,13.0,7.0,10.0,Metro
+Illinois,Champaign,111.0,339.0,80.0,314.0,Metro
+Illinois,Clinton,10.0,52.0,6.0,59.0,Metro
+Illinois,Cook,319.0,810.0,601.0,1585.0,Metro
+Illinois,DeKalb,28.0,84.0,34.0,94.0,Metro
+Illinois,DuPage,52.0,367.0,53.0,340.0,Metro
+Illinois,Ford,9.0,21.0,5.0,26.0,Metro
+Illinois,Grundy,27.0,81.0,22.0,75.0,Metro
+Illinois,Henry,15.0,74.0,14.0,64.0,Metro
+Illinois,Jersey,15.0,45.0,15.0,67.0,Metro
+Illinois,Kankakee,100.0,174.0,83.0,132.0,Metro
+Illinois,Kendall,44.0,124.0,36.0,135.0,Metro
+Illinois,Macoupin,18.0,47.0,17.0,60.0,Metro
+Illinois,Madison,82.0,709.0,100.0,665.0,Metro
+Illinois,Marshall,4.0,29.0,0.0,52.0,Metro
+Illinois,McHenry,41.0,172.0,33.0,181.0,Metro
+Illinois,McLean,26.0,82.0,25.0,90.0,Metro
+Illinois,Monroe,4.0,26.0,3.0,6.0,Metro
+Illinois,Peoria,167.0,553.0,153.0,526.0,Metro
+Illinois,Piatt,7.0,43.0,8.0,59.0,Metro
+Illinois,Rock Island,47.0,228.0,40.0,320.0,Metro
+Illinois,Sangamon,172.0,706.0,156.0,720.0,Metro
+Illinois,St. Clair,125.0,340.0,97.0,270.0,Metro
+Illinois,Tazewell,30.0,208.0,29.0,214.0,Metro
+Illinois,Will,197.0,557.0,164.0,563.0,Metro
+Illinois,Winnebago,121.0,281.0,131.0,269.0,Metro
+Illinois,Adams,24.0,195.0,25.0,175.0,Non-Metro
+Illinois,Bureau,4.0,76.0,2.0,94.0,Non-Metro
+Illinois,Carroll,1.0,35.0,0.0,25.0,Non-Metro
+Illinois,Cass,2.0,2.0,1.0,1.0,Non-Metro
+Illinois,Clark,2.0,41.0,2.0,51.0,Non-Metro
+Illinois,Coles,23.0,45.0,14.0,75.0,Non-Metro
+Illinois,Crawford,14.0,45.0,5.0,19.0,Non-Metro
+Illinois,Cumberland,4.0,6.0,3.0,0.0,Non-Metro
+Illinois,DeWitt,8.0,56.0,10.0,47.0,Non-Metro
+Illinois,Edgar,3.0,29.0,8.0,28.0,Non-Metro
+Illinois,Edwards,6.0,7.0,2.0,1.0,Non-Metro
+Illinois,Effingham,13.0,138.0,11.0,92.0,Non-Metro
+Illinois,Fayette,33.0,61.0,7.0,43.0,Non-Metro
+Illinois,Greene,3.0,12.0,4.0,13.0,Non-Metro
+Illinois,Hamilton,7.0,6.0,4.0,6.0,Non-Metro
+Illinois,Hancock,5.0,16.0,8.0,6.0,Non-Metro
+Illinois,Henderson,2.0,8.0,0.0,6.0,Non-Metro
+Illinois,Iroquois,26.0,129.0,31.0,114.0,Non-Metro
+Illinois,Jackson,16.0,216.0,39.0,198.0,Non-Metro
+Illinois,Jasper,7.0,37.0,3.0,39.0,Non-Metro
+Illinois,Jefferson,25.0,124.0,15.0,117.0,Non-Metro
+Illinois,Jo Daviess,7.0,65.0,6.0,55.0,Non-Metro
+Illinois,La Salle,37.0,151.0,34.0,120.0,Non-Metro
+Illinois,Lawrence,8.0,16.0,9.0,8.0,Non-Metro
+Illinois,Livingston,33.0,67.0,22.0,43.0,Non-Metro
+Illinois,Logan,6.0,45.0,16.0,116.0,Non-Metro
+Illinois,Marion,30.0,144.0,34.0,112.0,Non-Metro
+Illinois,Mason,1.0,0.0,4.0,2.0,Non-Metro
+Illinois,Montgomery,25.0,71.0,14.0,74.0,Non-Metro
+Illinois,Morgan,6.0,25.0,2.0,19.0,Non-Metro
+Illinois,Moultrie,3.0,13.0,8.0,10.0,Non-Metro
+Illinois,Perry,9.0,17.0,5.0,13.0,Non-Metro
+Illinois,Pike,8.0,29.0,6.0,15.0,Non-Metro
+Illinois,Pulaski,10.0,27.0,4.0,16.0,Non-Metro
+Illinois,Putnam,0.0,14.0,0.0,8.0,Non-Metro
+Illinois,Randolph,2.0,7.0,0.0,3.0,Non-Metro
+Illinois,Saline,5.0,26.0,19.0,62.0,Non-Metro
+Illinois,Scott,3.0,6.0,1.0,7.0,Non-Metro
+Illinois,Shelby,21.0,44.0,11.0,40.0,Non-Metro
+Illinois,Stephenson,10.0,70.0,22.0,81.0,Non-Metro
+Illinois,Vermilion,95.0,366.0,80.0,400.0,Non-Metro
+Illinois,Warren,14.0,53.0,11.0,57.0,Non-Metro
+Illinois,Wayne,12.0,68.0,10.0,70.0,Non-Metro
+Illinois,White,2.0,69.0,3.0,60.0,Non-Metro
+Illinois,Whiteside,8.0,81.0,11.0,115.0,Non-Metro
+Indiana,Allen,59.0,588.0,104.0,634.0,Metro
+Indiana,Bartholomew,2.0,25.0,0.0,23.0,Metro
+Indiana,Clark,52.0,212.0,31.0,179.0,Metro
+Indiana,Delaware,45.0,223.0,22.0,184.0,Metro
+Indiana,Elkhart,137.0,700.0,127.0,805.0,Metro
+Indiana,Franklin,6.0,81.0,3.0,66.0,Metro
+Indiana,Hamilton,35.0,103.0,27.0,99.0,Metro
+Indiana,Hancock,55.0,184.0,46.0,118.0,Metro
+Indiana,Harrison,72.0,170.0,85.0,149.0,Metro
+Indiana,Hendricks,60.0,470.0,33.0,410.0,Metro
+Indiana,Howard,38.0,65.0,41.0,100.0,Metro
+Indiana,Johnson,28.0,227.0,17.0,208.0,Metro
+Indiana,Lake,33.0,158.0,47.0,175.0,Metro
+Indiana,Madison,20.0,181.0,30.0,151.0,Metro
+Indiana,Monroe,30.0,462.0,21.0,377.0,Metro
+Indiana,Porter,64.0,190.0,29.0,82.0,Metro
+Indiana,Posey,20.0,75.0,27.0,52.0,Metro
+Indiana,Shelby,26.0,136.0,78.0,95.0,Metro
+Indiana,St. Joseph,119.0,795.0,109.0,645.0,Metro
+Indiana,Tippecanoe,76.0,324.0,100.0,261.0,Metro
+Indiana,Vanderburgh,193.0,455.0,204.0,451.0,Metro
+Indiana,Vigo,98.0,704.0,90.0,524.0,Metro
+Indiana,Warrick,165.0,427.0,200.0,341.0,Metro
+Indiana,Washington,22.0,70.0,17.0,59.0,Metro
+Indiana,Wells,12.0,9.0,8.0,8.0,Metro
+Indiana,Clinton,7.0,52.0,8.0,36.0,Non-Metro
+Indiana,DeKalb,16.0,35.0,20.0,45.0,Non-Metro
+Indiana,Grant,11.0,142.0,8.0,92.0,Non-Metro
+Indiana,Jackson,6.0,18.0,4.0,17.0,Non-Metro
+Indiana,Jennings,7.0,65.0,16.0,59.0,Non-Metro
+Indiana,Knox,25.0,37.0,37.0,69.0,Non-Metro
+Indiana,Kosciusko,64.0,319.0,79.0,237.0,Non-Metro
+Indiana,Lawrence,18.0,19.0,45.0,40.0,Non-Metro
+Indiana,Montgomery,8.0,101.0,14.0,121.0,Non-Metro
+Indiana,Noble,11.0,135.0,15.0,102.0,Non-Metro
+Indiana,Perry,15.0,30.0,15.0,29.0,Non-Metro
+Indiana,Steuben,9.0,171.0,8.0,155.0,Non-Metro
+Iowa,Benton,34.0,68.0,24.0,69.0,Metro
+Iowa,Black Hawk,15.0,57.0,7.0,97.0,Metro
+Iowa,Boone,6.0,16.0,11.0,16.0,Metro
+Iowa,Bremer,5.0,20.0,8.0,18.0,Metro
+Iowa,Dallas,46.0,59.0,42.0,47.0,Metro
+Iowa,Dubuque,30.0,140.0,42.0,98.0,Metro
+Iowa,Grundy,5.0,15.0,13.0,38.0,Metro
+Iowa,Guthrie,6.0,17.0,5.0,20.0,Metro
+Iowa,Jasper,12.0,44.0,6.0,67.0,Metro
+Iowa,Johnson,24.0,127.0,52.0,121.0,Metro
+Iowa,Jones,14.0,35.0,5.0,25.0,Metro
+Iowa,Linn,28.0,165.0,31.0,118.0,Metro
+Iowa,Madison,12.0,34.0,21.0,22.0,Metro
+Iowa,Mills,5.0,68.0,7.0,50.0,Metro
+Iowa,Polk,66.0,525.0,63.0,593.0,Metro
+Iowa,Pottawattamie,53.0,152.0,38.0,128.0,Metro
+Iowa,Scott,37.0,137.0,30.0,154.0,Metro
+Iowa,Story,10.0,90.0,11.0,65.0,Metro
+Iowa,Warren,24.0,88.0,31.0,68.0,Metro
+Iowa,Washington,40.0,82.0,32.0,60.0,Metro
+Iowa,Woodbury,29.0,76.0,30.0,63.0,Metro
+Iowa,Adair,4.0,6.0,0.0,12.0,Non-Metro
+Iowa,Adams,15.0,4.0,1.0,2.0,Non-Metro
+Iowa,Allamakee,8.0,15.0,7.0,15.0,Non-Metro
+Iowa,Appanoose,7.0,63.0,2.0,52.0,Non-Metro
+Iowa,Buchanan,11.0,40.0,22.0,45.0,Non-Metro
+Iowa,Buena Vista,7.0,27.0,9.0,26.0,Non-Metro
+Iowa,Butler,2.0,5.0,2.0,12.0,Non-Metro
+Iowa,Carroll,0.0,7.0,3.0,4.0,Non-Metro
+Iowa,Cass,6.0,39.0,5.0,47.0,Non-Metro
+Iowa,Cedar,6.0,39.0,11.0,35.0,Non-Metro
+Iowa,Cerro Gordo,9.0,27.0,5.0,30.0,Non-Metro
+Iowa,Cherokee,1.0,9.0,1.0,4.0,Non-Metro
+Iowa,Chickasaw,16.0,27.0,6.0,19.0,Non-Metro
+Iowa,Clarke,6.0,28.0,4.0,19.0,Non-Metro
+Iowa,Clay,2.0,12.0,2.0,11.0,Non-Metro
+Iowa,Clayton,16.0,22.0,7.0,14.0,Non-Metro
+Iowa,Clinton,36.0,91.0,17.0,78.0,Non-Metro
+Iowa,Crawford,3.0,7.0,2.0,12.0,Non-Metro
+Iowa,Davis,7.0,3.0,1.0,3.0,Non-Metro
+Iowa,Delaware,16.0,12.0,17.0,8.0,Non-Metro
+Iowa,Des Moines,17.0,83.0,24.0,76.0,Non-Metro
+Iowa,Emmet,0.0,2.0,0.0,2.0,Non-Metro
+Iowa,Fayette,24.0,22.0,10.0,8.0,Non-Metro
+Iowa,Floyd,2.0,23.0,11.0,12.0,Non-Metro
+Iowa,Franklin,7.0,5.0,8.0,7.0,Non-Metro
+Iowa,Fremont,31.0,52.0,19.0,35.0,Non-Metro
+Iowa,Greene,4.0,33.0,8.0,31.0,Non-Metro
+Iowa,Hamilton,11.0,26.0,4.0,29.0,Non-Metro
+Iowa,Hancock,10.0,31.0,5.0,29.0,Non-Metro
+Iowa,Hardin,47.0,61.0,10.0,62.0,Non-Metro
+Iowa,Henry,12.0,19.0,13.0,19.0,Non-Metro
+Iowa,Humboldt,5.0,35.0,8.0,44.0,Non-Metro
+Iowa,Ida,7.0,32.0,6.0,22.0,Non-Metro
+Iowa,Iowa,14.0,46.0,6.0,39.0,Non-Metro
+Iowa,Jackson,3.0,51.0,15.0,34.0,Non-Metro
+Iowa,Jefferson,5.0,18.0,4.0,12.0,Non-Metro
+Iowa,Keokuk,16.0,34.0,12.0,36.0,Non-Metro
+Iowa,Lee,15.0,68.0,19.0,62.0,Non-Metro
+Iowa,Louisa,25.0,29.0,18.0,36.0,Non-Metro
+Iowa,Lucas,18.0,69.0,8.0,70.0,Non-Metro
+Iowa,Lyon,4.0,33.0,1.0,18.0,Non-Metro
+Iowa,Mahaska,11.0,16.0,3.0,18.0,Non-Metro
+Iowa,Marion,20.0,30.0,20.0,42.0,Non-Metro
+Iowa,Mitchell,0.0,9.0,3.0,10.0,Non-Metro
+Iowa,Monona,10.0,43.0,12.0,34.0,Non-Metro
+Iowa,Muscatine,14.0,55.0,20.0,39.0,Non-Metro
+Iowa,O'Brien,9.0,30.0,12.0,37.0,Non-Metro
+Iowa,Osceola,5.0,7.0,5.0,7.0,Non-Metro
+Iowa,Page,7.0,34.0,5.0,16.0,Non-Metro
+Iowa,Palo Alto,9.0,30.0,6.0,31.0,Non-Metro
+Iowa,Plymouth,1.0,33.0,6.0,28.0,Non-Metro
+Iowa,Pocahontas,2.0,17.0,3.0,8.0,Non-Metro
+Iowa,Poweshiek,26.0,54.0,19.0,45.0,Non-Metro
+Iowa,Sac,12.0,15.0,7.0,9.0,Non-Metro
+Iowa,Shelby,4.0,28.0,2.0,16.0,Non-Metro
+Iowa,Sioux,19.0,56.0,15.0,35.0,Non-Metro
+Iowa,Tama,15.0,43.0,7.0,30.0,Non-Metro
+Iowa,Taylor,7.0,20.0,3.0,16.0,Non-Metro
+Iowa,Union,10.0,23.0,9.0,7.0,Non-Metro
+Iowa,Van Buren,11.0,26.0,9.0,17.0,Non-Metro
+Iowa,Wayne,6.0,21.0,7.0,20.0,Non-Metro
+Iowa,Webster,36.0,55.0,29.0,66.0,Non-Metro
+Iowa,Winneshiek,26.0,7.0,23.0,6.0,Non-Metro
+Iowa,Worth,0.0,17.0,3.0,6.0,Non-Metro
+Iowa,Wright,5.0,11.0,3.0,12.0,Non-Metro
+Kansas,Butler,46.0,162.0,38.0,133.0,Metro
+Kansas,Cherokee,28.0,140.0,25.0,100.0,Metro
+Kansas,Douglas,21.0,53.0,27.0,67.0,Metro
+Kansas,Geary,6.0,34.0,13.0,26.0,Metro
+Kansas,Harvey,10.0,48.0,13.0,27.0,Metro
+Kansas,Jackson,31.0,41.0,20.0,54.0,Metro
+Kansas,Jefferson,34.0,156.0,21.0,154.0,Metro
+Kansas,Johnson,59.0,258.0,65.0,191.0,Metro
+Kansas,Leavenworth,20.0,86.0,34.0,37.0,Metro
+Kansas,Linn,15.0,57.0,10.0,52.0,Metro
+Kansas,Miami,23.0,112.0,22.0,95.0,Metro
+Kansas,Pottawatomie,48.0,96.0,42.0,84.0,Metro
+Kansas,Shawnee,128.0,550.0,104.0,476.0,Metro
+Kansas,Sumner,28.0,110.0,18.0,66.0,Metro
+Kansas,Wabaunsee,19.0,56.0,24.0,44.0,Metro
+Kansas,Wyandotte,29.0,53.0,25.0,44.0,Metro
+Kansas,Allen,8.0,35.0,6.0,35.0,Non-Metro
+Kansas,Anderson,2.0,18.0,7.0,15.0,Non-Metro
+Kansas,Atchison,6.0,12.0,4.0,34.0,Non-Metro
+Kansas,Barber,4.0,26.0,2.0,15.0,Non-Metro
+Kansas,Barton,19.0,119.0,24.0,41.0,Non-Metro
+Kansas,Bourbon,32.0,39.0,31.0,55.0,Non-Metro
+Kansas,Brown,9.0,16.0,7.0,6.0,Non-Metro
+Kansas,Chase,7.0,26.0,4.0,26.0,Non-Metro
+Kansas,Cheyenne,3.0,22.0,5.0,15.0,Non-Metro
+Kansas,Clark,11.0,12.0,8.0,9.0,Non-Metro
+Kansas,Clay,7.0,7.0,10.0,7.0,Non-Metro
+Kansas,Coffey,10.0,43.0,15.0,28.0,Non-Metro
+Kansas,Cowley,16.0,71.0,9.0,39.0,Non-Metro
+Kansas,Crawford,34.0,66.0,28.0,85.0,Non-Metro
+Kansas,Dickinson,21.0,52.0,6.0,32.0,Non-Metro
+Kansas,Edwards,17.0,33.0,4.0,15.0,Non-Metro
+Kansas,Ellis,12.0,51.0,16.0,46.0,Non-Metro
+Kansas,Ellsworth,7.0,38.0,3.0,33.0,Non-Metro
+Kansas,Finney,31.0,103.0,57.0,94.0,Non-Metro
+Kansas,Ford,21.0,34.0,12.0,25.0,Non-Metro
+Kansas,Franklin,33.0,81.0,24.0,87.0,Non-Metro
+Kansas,Gove,6.0,11.0,0.0,10.0,Non-Metro
+Kansas,Gray,5.0,56.0,2.0,28.0,Non-Metro
+Kansas,Greenwood,23.0,58.0,21.0,56.0,Non-Metro
+Kansas,Harper,4.0,24.0,1.0,6.0,Non-Metro
+Kansas,Marion,19.0,48.0,7.0,66.0,Non-Metro
+Kansas,Marshall,15.0,14.0,10.0,19.0,Non-Metro
+Kansas,Montgomery,18.0,78.0,15.0,256.0,Non-Metro
+Kansas,Nemaha,2.0,16.0,5.0,12.0,Non-Metro
+Kansas,Neosho,14.0,70.0,4.0,54.0,Non-Metro
+Kansas,Reno,42.0,140.0,30.0,114.0,Non-Metro
+Kansas,Rooks,6.0,48.0,5.0,28.0,Non-Metro
+Kansas,Rush,7.0,26.0,6.0,19.0,Non-Metro
+Kansas,Russell,4.0,31.0,10.0,25.0,Non-Metro
+Kansas,Saline,25.0,46.0,22.0,62.0,Non-Metro
+Kansas,Scott,1.0,2.0,0.0,1.0,Non-Metro
+Kansas,Thomas,3.0,14.0,10.0,12.0,Non-Metro
+Kansas,Washington,4.0,21.0,8.0,12.0,Non-Metro
+Kansas,Woodson,5.0,15.0,8.0,16.0,Non-Metro
+Kentucky,Allen,6.0,64.0,7.0,47.0,Metro
+Kentucky,Ballard,9.0,61.0,4.0,56.0,Metro
+Kentucky,Boone,80.0,617.0,67.0,531.0,Metro
+Kentucky,Bourbon,9.0,32.0,5.0,28.0,Metro
+Kentucky,Boyd,24.0,145.0,15.0,135.0,Metro
+Kentucky,Bracken,3.0,27.0,0.0,25.0,Metro
+Kentucky,Bullitt,17.0,228.0,20.0,211.0,Metro
+Kentucky,Butler,3.0,21.0,5.0,20.0,Metro
+Kentucky,Campbell,0.0,1.0,0.0,0.0,Metro
+Kentucky,Carlisle,3.0,16.0,3.0,6.0,Metro
+Kentucky,Carter,11.0,48.0,3.0,33.0,Metro
+Kentucky,Christian,28.0,184.0,13.0,129.0,Metro
+Kentucky,Clark,7.0,141.0,11.0,74.0,Metro
+Kentucky,Daviess,33.0,341.0,22.0,276.0,Metro
+Kentucky,Edmonson,5.0,37.0,8.0,41.0,Metro
+Kentucky,Fayette,1.0,2.0,0.0,1.0,Metro
+Kentucky,Gallatin,5.0,29.0,6.0,29.0,Metro
+Kentucky,Grant,6.0,100.0,16.0,76.0,Metro
+Kentucky,Greenup,2.0,25.0,5.0,18.0,Metro
+Kentucky,Hardin,18.0,189.0,28.0,139.0,Metro
+Kentucky,Henry,2.0,18.0,2.0,10.0,Metro
+Kentucky,Jefferson,1.0,6.0,2.0,0.0,Metro
+Kentucky,Jessamine,10.0,157.0,10.0,107.0,Metro
+Kentucky,Kenton,2.0,1.0,1.0,0.0,Metro
+Kentucky,Larue,5.0,19.0,2.0,21.0,Metro
+Kentucky,Lawrence,5.0,42.0,4.0,35.0,Metro
+Kentucky,Livingston,4.0,55.0,9.0,48.0,Metro
+Kentucky,McCracken,36.0,320.0,41.0,328.0,Metro
+Kentucky,McLean,4.0,18.0,0.0,25.0,Metro
+Kentucky,Meade,16.0,54.0,10.0,63.0,Metro
+Kentucky,Nelson,9.0,146.0,26.0,131.0,Metro
+Kentucky,Oldham,0.0,7.0,0.0,2.0,Metro
+Kentucky,Pendleton,1.0,53.0,2.0,38.0,Metro
+Kentucky,Scott,16.0,106.0,17.0,67.0,Metro
+Kentucky,Shelby,16.0,158.0,18.0,159.0,Metro
+Kentucky,Spencer,6.0,30.0,5.0,66.0,Metro
+Kentucky,Trigg,4.0,58.0,4.0,60.0,Metro
+Kentucky,Warren,56.0,442.0,45.0,432.0,Metro
+Kentucky,Woodford,0.0,13.0,1.0,5.0,Metro
+Kentucky,Adair,6.0,21.0,2.0,5.0,Non-Metro
+Kentucky,Anderson,3.0,29.0,3.0,28.0,Non-Metro
+Kentucky,Barren,9.0,164.0,12.0,103.0,Non-Metro
+Kentucky,Bath,1.0,45.0,1.0,13.0,Non-Metro
+Kentucky,Bell,11.0,50.0,8.0,27.0,Non-Metro
+Kentucky,Boyle,9.0,21.0,0.0,21.0,Non-Metro
+Kentucky,Breathitt,3.0,15.0,1.0,10.0,Non-Metro
+Kentucky,Breckinridge,5.0,50.0,4.0,35.0,Non-Metro
+Kentucky,Caldwell,1.0,31.0,3.0,31.0,Non-Metro
+Kentucky,Calloway,10.0,98.0,9.0,98.0,Non-Metro
+Kentucky,Carroll,6.0,47.0,9.0,36.0,Non-Metro
+Kentucky,Casey,2.0,20.0,9.0,12.0,Non-Metro
+Kentucky,Clay,3.0,65.0,9.0,71.0,Non-Metro
+Kentucky,Clinton,1.0,19.0,4.0,13.0,Non-Metro
+Kentucky,Crittenden,1.0,7.0,4.0,12.0,Non-Metro
+Kentucky,Cumberland,0.0,17.0,2.0,7.0,Non-Metro
+Kentucky,Elliott,2.0,6.0,0.0,4.0,Non-Metro
+Kentucky,Estill,3.0,17.0,2.0,11.0,Non-Metro
+Kentucky,Fleming,8.0,21.0,2.0,16.0,Non-Metro
+Kentucky,Floyd,15.0,40.0,12.0,60.0,Non-Metro
+Kentucky,Franklin,21.0,111.0,17.0,98.0,Non-Metro
+Kentucky,Fulton,2.0,12.0,3.0,7.0,Non-Metro
+Kentucky,Garrard,4.0,47.0,6.0,31.0,Non-Metro
+Kentucky,Graves,17.0,126.0,24.0,104.0,Non-Metro
+Kentucky,Grayson,3.0,55.0,9.0,61.0,Non-Metro
+Kentucky,Green,0.0,4.0,2.0,4.0,Non-Metro
+Kentucky,Hancock,2.0,16.0,5.0,14.0,Non-Metro
+Kentucky,Harlan,5.0,35.0,4.0,23.0,Non-Metro
+Kentucky,Harrison,3.0,26.0,3.0,28.0,Non-Metro
+Kentucky,Hart,6.0,42.0,2.0,43.0,Non-Metro
+Kentucky,Henderson,15.0,113.0,20.0,82.0,Non-Metro
+Kentucky,Hickman,3.0,17.0,3.0,13.0,Non-Metro
+Kentucky,Hopkins,11.0,100.0,20.0,130.0,Non-Metro
+Kentucky,Jackson,3.0,39.0,1.0,25.0,Non-Metro
+Kentucky,Johnson,6.0,56.0,3.0,23.0,Non-Metro
+Kentucky,Knott,0.0,9.0,0.0,3.0,Non-Metro
+Kentucky,Knox,11.0,55.0,8.0,30.0,Non-Metro
+Kentucky,Laurel,28.0,303.0,45.0,281.0,Non-Metro
+Kentucky,Lee,3.0,26.0,1.0,6.0,Non-Metro
+Kentucky,Leslie,6.0,10.0,4.0,5.0,Non-Metro
+Kentucky,Letcher,0.0,5.0,1.0,9.0,Non-Metro
+Kentucky,Lewis,7.0,50.0,4.0,27.0,Non-Metro
+Kentucky,Lincoln,11.0,94.0,23.0,59.0,Non-Metro
+Kentucky,Logan,12.0,49.0,8.0,43.0,Non-Metro
+Kentucky,Lyon,7.0,16.0,8.0,38.0,Non-Metro
+Kentucky,Madison,18.0,146.0,28.0,132.0,Non-Metro
+Kentucky,Magoffin,1.0,21.0,1.0,9.0,Non-Metro
+Kentucky,Marion,1.0,32.0,5.0,13.0,Non-Metro
+Kentucky,Marshall,14.0,146.0,22.0,116.0,Non-Metro
+Kentucky,Martin,0.0,3.0,1.0,0.0,Non-Metro
+Kentucky,Mason,7.0,44.0,8.0,27.0,Non-Metro
+Kentucky,McCreary,1.0,8.0,3.0,13.0,Non-Metro
+Kentucky,Menifee,3.0,18.0,0.0,12.0,Non-Metro
+Kentucky,Mercer,2.0,29.0,1.0,20.0,Non-Metro
+Kentucky,Metcalfe,0.0,23.0,1.0,22.0,Non-Metro
+Kentucky,Monroe,4.0,11.0,1.0,13.0,Non-Metro
+Kentucky,Montgomery,15.0,130.0,13.0,94.0,Non-Metro
+Kentucky,Morgan,4.0,30.0,3.0,13.0,Non-Metro
+Kentucky,Muhlenberg,7.0,70.0,16.0,63.0,Non-Metro
+Kentucky,Nicholas,3.0,6.0,0.0,6.0,Non-Metro
+Kentucky,Ohio,22.0,98.0,17.0,72.0,Non-Metro
+Kentucky,Owen,0.0,27.0,2.0,11.0,Non-Metro
+Kentucky,Owsley,0.0,0.0,0.0,0.0,Non-Metro
+Kentucky,Perry,7.0,30.0,23.0,28.0,Non-Metro
+Kentucky,Pike,5.0,25.0,1.0,23.0,Non-Metro
+Kentucky,Powell,1.0,7.0,1.0,6.0,Non-Metro
+Kentucky,Pulaski,38.0,243.0,50.0,147.0,Non-Metro
+Kentucky,Robertson,0.0,2.0,0.0,0.0,Non-Metro
+Kentucky,Rockcastle,2.0,20.0,8.0,34.0,Non-Metro
+Kentucky,Rowan,5.0,52.0,7.0,39.0,Non-Metro
+Kentucky,Russell,3.0,24.0,2.0,19.0,Non-Metro
+Kentucky,Simpson,8.0,14.0,7.0,20.0,Non-Metro
+Kentucky,Taylor,1.0,87.0,5.0,73.0,Non-Metro
+Kentucky,Todd,1.0,34.0,3.0,28.0,Non-Metro
+Kentucky,Trimble,1.0,11.0,0.0,8.0,Non-Metro
+Kentucky,Union,5.0,32.0,1.0,22.0,Non-Metro
+Kentucky,Washington,3.0,14.0,2.0,32.0,Non-Metro
+Kentucky,Wayne,9.0,32.0,5.0,11.0,Non-Metro
+Kentucky,Webster,9.0,23.0,6.0,22.0,Non-Metro
+Kentucky,Whitley,15.0,125.0,18.0,103.0,Non-Metro
+Kentucky,Wolfe,3.0,18.0,0.0,16.0,Non-Metro
+Louisiana,Acadia,96.0,423.0,142.0,453.0,Metro
+Louisiana,Ascension,333.0,1908.0,299.0,1520.0,Metro
+Louisiana,Bossier,158.0,465.0,159.0,381.0,Metro
+Louisiana,Caddo,33.0,526.0,44.0,529.0,Metro
+Louisiana,Calcasieu,807.0,3237.0,627.0,2627.0,Metro
+Louisiana,Cameron,14.0,77.0,18.0,78.0,Metro
+Louisiana,De Soto,41.0,207.0,71.0,152.0,Metro
+Louisiana,East Baton Rouge,507.0,5195.0,433.0,5063.0,Metro
+Louisiana,Grant,41.0,214.0,32.0,159.0,Metro
+Louisiana,Iberville,57.0,212.0,62.0,209.0,Metro
+Louisiana,Jefferson,1146.0,7807.0,1007.0,7139.0,Metro
+Louisiana,Jefferson Davis,56.0,210.0,23.0,104.0,Metro
+Louisiana,Lafayette,264.0,967.0,219.0,810.0,Metro
+Louisiana,Lafourche,194.0,1354.0,210.0,1400.0,Metro
+Louisiana,Livingston,539.0,2105.0,484.0,1858.0,Metro
+Louisiana,Morehouse,65.0,259.0,68.0,194.0,Metro
+Louisiana,Ouachita,521.0,2400.0,478.0,2157.0,Metro
+Louisiana,Plaquemines,96.0,100.0,80.0,113.0,Metro
+Louisiana,Rapides,342.0,1317.0,384.0,1243.0,Metro
+Louisiana,St. Bernard,236.0,903.0,218.0,849.0,Metro
+Louisiana,St. Charles,106.0,545.0,123.0,528.0,Metro
+Louisiana,St. Helena,102.0,186.0,63.0,149.0,Metro
+Louisiana,St. James,58.0,219.0,55.0,191.0,Metro
+Louisiana,St. John the Baptist,104.0,522.0,113.0,533.0,Metro
+Louisiana,St. Martin,143.0,541.0,152.0,510.0,Metro
+Louisiana,St. Tammany,259.0,1356.0,252.0,1188.0,Metro
+Louisiana,Tangipahoa,506.0,1480.0,655.0,1402.0,Metro
+Louisiana,Terrebonne,239.0,1819.0,227.0,1726.0,Metro
+Louisiana,Vermilion,37.0,191.0,34.0,165.0,Metro
+Louisiana,West Baton Rouge,68.0,470.0,71.0,535.0,Metro
+Louisiana,West Feliciana,36.0,13.0,39.0,19.0,Metro
+Louisiana,Beauregard,58.0,192.0,24.0,89.0,Non-Metro
+Louisiana,Bienville,34.0,105.0,27.0,79.0,Non-Metro
+Louisiana,Caldwell,63.0,88.0,39.0,80.0,Non-Metro
+Louisiana,Catahoula,24.0,84.0,24.0,81.0,Non-Metro
+Louisiana,Claiborne,21.0,33.0,31.0,27.0,Non-Metro
+Louisiana,Concordia,65.0,107.0,61.0,129.0,Non-Metro
+Louisiana,East Carroll,31.0,25.0,47.0,40.0,Non-Metro
+Louisiana,Evangeline,29.0,224.0,38.0,88.0,Non-Metro
+Louisiana,Franklin,117.0,225.0,60.0,114.0,Non-Metro
+Louisiana,La Salle,16.0,48.0,4.0,30.0,Non-Metro
+Louisiana,Lincoln,26.0,149.0,38.0,158.0,Non-Metro
+Louisiana,Madison,39.0,19.0,33.0,30.0,Non-Metro
+Louisiana,St. Mary,63.0,415.0,89.0,433.0,Non-Metro
+Louisiana,Tensas,23.0,34.0,27.0,46.0,Non-Metro
+Louisiana,Washington,137.0,353.0,113.0,336.0,Non-Metro
+Louisiana,Webster,62.0,214.0,59.0,163.0,Non-Metro
+Louisiana,West Carroll,8.0,30.0,8.0,30.0,Non-Metro
+Louisiana,Winn,22.0,30.0,20.0,35.0,Non-Metro
+Maine,Androscoggin,20.0,151.0,25.0,131.0,Metro
+Maine,Cumberland,37.0,348.0,40.0,292.0,Metro
+Maine,Penobscot,29.0,303.0,20.0,294.0,Metro
+Maine,Sagadahoc,3.0,60.0,6.0,55.0,Metro
+Maine,York,30.0,182.0,37.0,183.0,Metro
+Maine,Aroostook,16.0,96.0,10.0,79.0,Non-Metro
+Maine,Franklin,9.0,60.0,7.0,64.0,Non-Metro
+Maine,Hancock,13.0,93.0,12.0,74.0,Non-Metro
+Maine,Kennebec,27.0,223.0,29.0,210.0,Non-Metro
+Maine,Knox,11.0,121.0,8.0,152.0,Non-Metro
+Maine,Lincoln,12.0,104.0,27.0,92.0,Non-Metro
+Maine,Oxford,11.0,199.0,26.0,241.0,Non-Metro
+Maine,Piscataquis,2.0,48.0,3.0,33.0,Non-Metro
+Maine,Somerset,23.0,383.0,37.0,370.0,Non-Metro
+Maine,Waldo,2.0,48.0,2.0,21.0,Non-Metro
+Maine,Washington,12.0,115.0,13.0,97.0,Non-Metro
+Maryland,Carroll,324.0,653.0,173.0,588.0,Metro
+Maryland,Cecil,141.0,419.0,110.0,340.0,Metro
+Maryland,Charles,537.0,1755.0,517.0,1673.0,Metro
+Maryland,Frederick,219.0,1335.0,184.0,1029.0,Metro
+Maryland,Harford,400.0,1543.0,365.0,1550.0,Metro
+Maryland,Howard,0.0,0.0,0.0,0.0,Metro
+Maryland,Montgomery,0.0,0.0,0.0,0.0,Metro
+Maryland,Queen Anne's,29.0,286.0,42.0,274.0,Metro
+Maryland,St. Mary's,173.0,1013.0,257.0,1187.0,Metro
+Maryland,Washington,215.0,766.0,153.0,782.0,Metro
+Maryland,Wicomico,101.0,368.0,71.0,450.0,Metro
+Maryland,Allegany,21.0,54.0,17.0,79.0,Non-Metro
+Maryland,Caroline,29.0,158.0,27.0,134.0,Non-Metro
+Maryland,Dorchester,23.0,107.0,22.0,114.0,Non-Metro
+Maryland,Garrett,8.0,113.0,7.0,127.0,Non-Metro
+Maryland,Talbot,32.0,113.0,20.0,99.0,Non-Metro
+Maryland,Worcester,26.0,153.0,32.0,166.0,Non-Metro
+Michigan,Bay,55.0,385.0,30.0,421.0,Metro
+Michigan,Benzie,31.0,64.0,45.0,51.0,Metro
+Michigan,Berrien,110.0,598.0,92.0,486.0,Metro
+Michigan,Calhoun,161.0,572.0,127.0,435.0,Metro
+Michigan,Cass,48.0,386.0,45.0,323.0,Metro
+Michigan,Clinton,23.0,120.0,35.0,136.0,Metro
+Michigan,Eaton,131.0,787.0,99.0,716.0,Metro
+Michigan,Genesee,84.0,324.0,93.0,264.0,Metro
+Michigan,Ingham,151.0,519.0,165.0,395.0,Metro
+Michigan,Jackson,171.0,497.0,157.0,376.0,Metro
+Michigan,Kalamazoo,332.0,2010.0,339.0,1950.0,Metro
+Michigan,Kent,484.0,2650.0,409.0,2171.0,Metro
+Michigan,Lapeer,69.0,141.0,51.0,181.0,Metro
+Michigan,Leelanau,11.0,60.0,19.0,43.0,Metro
+Michigan,Livingston,82.0,420.0,94.0,420.0,Metro
+Michigan,Macomb,262.0,990.0,229.0,837.0,Metro
+Michigan,Midland,62.0,172.0,63.0,170.0,Metro
+Michigan,Montcalm,79.0,193.0,69.0,153.0,Metro
+Michigan,Muskegon,77.0,338.0,42.0,234.0,Metro
+Michigan,Oakland,27.0,41.0,27.0,60.0,Metro
+Michigan,Ottawa,570.0,1922.0,524.0,1714.0,Metro
+Michigan,St. Clair,183.0,476.0,161.0,418.0,Metro
+Michigan,Washtenaw,632.0,1223.0,639.0,1057.0,Metro
+Michigan,Wayne,21.0,0.0,63.0,0.0,Metro
+Michigan,Alcona,9.0,60.0,11.0,58.0,Non-Metro
+Michigan,Alger,5.0,4.0,2.0,5.0,Non-Metro
+Michigan,Allegan,83.0,590.0,84.0,594.0,Non-Metro
+Michigan,Alpena,11.0,48.0,22.0,60.0,Non-Metro
+Michigan,Arenac,33.0,61.0,36.0,70.0,Non-Metro
+Michigan,Charlevoix,38.0,54.0,33.0,37.0,Non-Metro
+Michigan,Cheboygan,16.0,20.0,20.0,21.0,Non-Metro
+Michigan,Chippewa,12.0,8.0,14.0,10.0,Non-Metro
+Michigan,Crawford,28.0,46.0,26.0,20.0,Non-Metro
+Michigan,Delta,11.0,29.0,10.0,17.0,Non-Metro
+Michigan,Emmet,36.0,47.0,26.0,67.0,Non-Metro
+Michigan,Gladwin,44.0,83.0,35.0,69.0,Non-Metro
+Michigan,Gogebic,5.0,18.0,4.0,5.0,Non-Metro
+Michigan,Gratiot,44.0,260.0,29.0,157.0,Non-Metro
+Michigan,Hillsdale,45.0,165.0,29.0,139.0,Non-Metro
+Michigan,Houghton,17.0,15.0,13.0,29.0,Non-Metro
+Michigan,Huron,25.0,66.0,13.0,48.0,Non-Metro
+Michigan,Iosco,3.0,5.0,1.0,4.0,Non-Metro
+Michigan,Isabella,51.0,318.0,39.0,177.0,Non-Metro
+Michigan,Lenawee,58.0,148.0,50.0,179.0,Non-Metro
+Michigan,Luce,8.0,45.0,9.0,37.0,Non-Metro
+Michigan,Mackinac,7.0,48.0,4.0,65.0,Non-Metro
+Michigan,Manistee,19.0,87.0,25.0,64.0,Non-Metro
+Michigan,Marquette,27.0,87.0,27.0,120.0,Non-Metro
+Michigan,Mason,36.0,128.0,33.0,113.0,Non-Metro
+Michigan,Missaukee,36.0,85.0,29.0,81.0,Non-Metro
+Michigan,Montmorency,5.0,20.0,2.0,10.0,Non-Metro
+Michigan,Oceana,50.0,164.0,56.0,136.0,Non-Metro
+Michigan,Ogemaw,19.0,93.0,16.0,76.0,Non-Metro
+Michigan,Ontonagon,3.0,3.0,1.0,3.0,Non-Metro
+Michigan,Oscoda,19.0,37.0,18.0,35.0,Non-Metro
+Michigan,Otsego,12.0,18.0,17.0,35.0,Non-Metro
+Michigan,Presque Isle,7.0,21.0,5.0,22.0,Non-Metro
+Michigan,Roscommon,29.0,64.0,29.0,79.0,Non-Metro
+Michigan,Sanilac,52.0,55.0,53.0,58.0,Non-Metro
+Michigan,Shiawassee,30.0,194.0,36.0,161.0,Non-Metro
+Michigan,St. Joseph,66.0,137.0,78.0,212.0,Non-Metro
+Michigan,Tuscola,54.0,139.0,64.0,110.0,Non-Metro
+Minnesota,Anoka,45.0,528.0,58.0,462.0,Metro
+Minnesota,Benton,17.0,79.0,14.0,49.0,Metro
+Minnesota,Blue Earth,19.0,84.0,22.0,79.0,Metro
+Minnesota,Carlton,25.0,106.0,25.0,91.0,Metro
+Minnesota,Carver,55.0,342.0,60.0,330.0,Metro
+Minnesota,Chisago,47.0,122.0,27.0,94.0,Metro
+Minnesota,Clay,11.0,37.0,4.0,51.0,Metro
+Minnesota,Dakota,8.0,1.0,15.0,12.0,Metro
+Minnesota,Dodge,15.0,64.0,13.0,44.0,Metro
+Minnesota,Fillmore,7.0,47.0,8.0,8.0,Metro
+Minnesota,Hennepin,31.0,19.0,46.0,16.0,Metro
+Minnesota,Houston,2.0,44.0,6.0,51.0,Metro
+Minnesota,Isanti,30.0,124.0,21.0,106.0,Metro
+Minnesota,Le Sueur,3.0,47.0,5.0,34.0,Metro
+Minnesota,Mille Lacs,71.0,195.0,47.0,148.0,Metro
+Minnesota,Nicollet,3.0,29.0,4.0,6.0,Metro
+Minnesota,Olmsted,29.0,178.0,25.0,150.0,Metro
+Minnesota,Polk,10.0,52.0,18.0,35.0,Metro
+Minnesota,Ramsey,183.0,949.0,169.0,892.0,Metro
+Minnesota,Scott,11.0,50.0,8.0,35.0,Metro
+Minnesota,Sherburne,32.0,234.0,26.0,147.0,Metro
+Minnesota,Stearns,36.0,157.0,35.0,96.0,Metro
+Minnesota,St. Louis,82.0,446.0,68.0,434.0,Metro
+Minnesota,Wabasha,2.0,33.0,4.0,11.0,Metro
+Minnesota,Washington,56.0,411.0,63.0,397.0,Metro
+Minnesota,Wright,88.0,514.0,66.0,546.0,Metro
+Minnesota,Aitkin,10.0,111.0,12.0,183.0,Non-Metro
+Minnesota,Becker,32.0,87.0,36.0,88.0,Non-Metro
+Minnesota,Beltrami,51.0,208.0,48.0,155.0,Non-Metro
+Minnesota,Big Stone,7.0,28.0,7.0,53.0,Non-Metro
+Minnesota,Brown,2.0,16.0,5.0,29.0,Non-Metro
+Minnesota,Cass,31.0,49.0,61.0,91.0,Non-Metro
+Minnesota,Chippewa,2.0,1.0,1.0,0.0,Non-Metro
+Minnesota,Clearwater,8.0,20.0,10.0,9.0,Non-Metro
+Minnesota,Cook,11.0,51.0,4.0,35.0,Non-Metro
+Minnesota,Cottonwood,2.0,2.0,2.0,6.0,Non-Metro
+Minnesota,Crow Wing,38.0,92.0,33.0,100.0,Non-Metro
+Minnesota,Douglas,11.0,57.0,19.0,95.0,Non-Metro
+Minnesota,Faribault,14.0,15.0,26.0,13.0,Non-Metro
+Minnesota,Freeborn,8.0,95.0,5.0,91.0,Non-Metro
+Minnesota,Goodhue,18.0,106.0,21.0,114.0,Non-Metro
+Minnesota,Hubbard,28.0,65.0,39.0,77.0,Non-Metro
+Minnesota,Itasca,26.0,68.0,47.0,85.0,Non-Metro
+Minnesota,Jackson,13.0,22.0,6.0,38.0,Non-Metro
+Minnesota,Kanabec,15.0,158.0,18.0,113.0,Non-Metro
+Minnesota,Kandiyohi,21.0,141.0,33.0,134.0,Non-Metro
+Minnesota,Kittson,3.0,7.0,2.0,9.0,Non-Metro
+Minnesota,Koochiching,10.0,17.0,6.0,12.0,Non-Metro
+Minnesota,Lac qui Parle,3.0,20.0,0.0,17.0,Non-Metro
+Minnesota,Lake,3.0,17.0,2.0,8.0,Non-Metro
+Minnesota,Lincoln,1.0,5.0,1.0,2.0,Non-Metro
+Minnesota,Lyon,13.0,29.0,7.0,33.0,Non-Metro
+Minnesota,Mahnomen,49.0,33.0,38.0,34.0,Non-Metro
+Minnesota,Marshall,6.0,7.0,8.0,2.0,Non-Metro
+Minnesota,Martin,9.0,6.0,4.0,17.0,Non-Metro
+Minnesota,McLeod,18.0,58.0,9.0,63.0,Non-Metro
+Minnesota,Meeker,12.0,96.0,12.0,48.0,Non-Metro
+Minnesota,Morrison,21.0,176.0,20.0,153.0,Non-Metro
+Minnesota,Mower,18.0,76.0,5.0,84.0,Non-Metro
+Minnesota,Murray,3.0,11.0,4.0,20.0,Non-Metro
+Minnesota,Nobles,6.0,15.0,12.0,12.0,Non-Metro
+Minnesota,Norman,3.0,1.0,1.0,2.0,Non-Metro
+Minnesota,Otter Tail,28.0,145.0,25.0,150.0,Non-Metro
+Minnesota,Pennington,1.0,45.0,1.0,30.0,Non-Metro
+Minnesota,Pine,63.0,340.0,74.0,316.0,Non-Metro
+Minnesota,Pipestone,7.0,18.0,7.0,29.0,Non-Metro
+Minnesota,Pope,3.0,28.0,2.0,31.0,Non-Metro
+Minnesota,Red Lake,3.0,4.0,4.0,8.0,Non-Metro
+Minnesota,Redwood,15.0,54.0,7.0,25.0,Non-Metro
+Minnesota,Renville,17.0,54.0,8.0,34.0,Non-Metro
+Minnesota,Rice,20.0,55.0,16.0,24.0,Non-Metro
+Minnesota,Sibley,2.0,11.0,2.0,27.0,Non-Metro
+Minnesota,Steele,4.0,38.0,6.0,58.0,Non-Metro
+Minnesota,Stevens,9.0,49.0,6.0,80.0,Non-Metro
+Minnesota,Swift,1.0,0.0,1.0,1.0,Non-Metro
+Minnesota,Todd,36.0,71.0,15.0,81.0,Non-Metro
+Minnesota,Traverse,3.0,6.0,4.0,7.0,Non-Metro
+Minnesota,Wadena,5.0,1.0,4.0,3.0,Non-Metro
+Minnesota,Waseca,4.0,34.0,5.0,44.0,Non-Metro
+Minnesota,Watonwan,5.0,26.0,7.0,22.0,Non-Metro
+Minnesota,Wilkin,0.0,4.0,0.0,4.0,Non-Metro
+Minnesota,Winona,17.0,41.0,10.0,35.0,Non-Metro
+Minnesota,Yellow Medicine,2.0,17.0,19.0,12.0,Non-Metro
+Mississippi,DeSoto,31.0,248.0,32.0,180.0,Metro
+Mississippi,Forrest,30.0,246.0,29.0,252.0,Metro
+Mississippi,Hancock,12.0,379.0,15.0,299.0,Metro
+Mississippi,Harrison,42.0,586.0,49.0,490.0,Metro
+Mississippi,Madison,53.0,113.0,63.0,127.0,Metro
+Mississippi,Stone,39.0,152.0,39.0,161.0,Metro
+Mississippi,Tate,34.0,135.0,35.0,141.0,Metro
+Mississippi,Tunica,79.0,495.0,51.0,383.0,Metro
+Mississippi,Alcorn,13.0,219.0,9.0,174.0,Non-Metro
+Mississippi,Attala,6.0,64.0,9.0,36.0,Non-Metro
+Mississippi,Calhoun,10.0,29.0,9.0,19.0,Non-Metro
+Mississippi,Coahoma,5.0,36.0,12.0,19.0,Non-Metro
+Mississippi,George,52.0,293.0,74.0,293.0,Non-Metro
+Mississippi,Grenada,47.0,221.0,20.0,159.0,Non-Metro
+Mississippi,Jasper,24.0,67.0,20.0,52.0,Non-Metro
+Mississippi,Kemper,16.0,56.0,14.0,33.0,Non-Metro
+Mississippi,Lafayette,17.0,136.0,25.0,97.0,Non-Metro
+Mississippi,Leake,49.0,97.0,54.0,86.0,Non-Metro
+Mississippi,Lee,76.0,449.0,51.0,366.0,Non-Metro
+Mississippi,Lincoln,29.0,236.0,25.0,199.0,Non-Metro
+Mississippi,Lowndes,60.0,305.0,57.0,311.0,Non-Metro
+Mississippi,Marion,34.0,96.0,29.0,97.0,Non-Metro
+Mississippi,Monroe,60.0,113.0,33.0,178.0,Non-Metro
+Mississippi,Neshoba,19.0,93.0,14.0,61.0,Non-Metro
+Mississippi,Noxubee,21.0,34.0,22.0,25.0,Non-Metro
+Mississippi,Oktibbeha,57.0,253.0,46.0,211.0,Non-Metro
+Mississippi,Pike,93.0,321.0,68.0,276.0,Non-Metro
+Mississippi,Pontotoc,50.0,115.0,46.0,132.0,Non-Metro
+Mississippi,Prentiss,22.0,91.0,51.0,64.0,Non-Metro
+Mississippi,Smith,3.0,34.0,5.0,23.0,Non-Metro
+Mississippi,Sunflower,9.0,67.0,6.0,54.0,Non-Metro
+Mississippi,Tallahatchie,25.0,119.0,16.0,97.0,Non-Metro
+Mississippi,Tishomingo,22.0,102.0,30.0,101.0,Non-Metro
+Mississippi,Union,36.0,138.0,31.0,130.0,Non-Metro
+Mississippi,Walthall,17.0,77.0,24.0,61.0,Non-Metro
+Mississippi,Wayne,23.0,65.0,48.0,149.0,Non-Metro
+Mississippi,Webster,15.0,58.0,12.0,14.0,Non-Metro
+Mississippi,Winston,24.0,62.0,33.0,68.0,Non-Metro
+Missouri,Bates,66.0,118.0,25.0,70.0,Metro
+Missouri,Bollinger,47.0,66.0,26.0,39.0,Metro
+Missouri,Boone,87.0,593.0,82.0,405.0,Metro
+Missouri,Buchanan,32.0,147.0,30.0,108.0,Metro
+Missouri,Caldwell,2.0,15.0,2.0,28.0,Metro
+Missouri,Callaway,54.0,303.0,50.0,137.0,Metro
+Missouri,Cape Girardeau,34.0,118.0,50.0,119.0,Metro
+Missouri,Christian,38.0,174.0,45.0,151.0,Metro
+Missouri,Clay,45.0,133.0,76.0,151.0,Metro
+Missouri,Franklin,24.0,193.0,28.0,186.0,Metro
+Missouri,Greene,93.0,595.0,174.0,633.0,Metro
+Missouri,Howard,26.0,32.0,20.0,40.0,Metro
+Missouri,Jackson,102.0,350.0,68.0,359.0,Metro
+Missouri,Jasper,71.0,393.0,95.0,353.0,Metro
+Missouri,Jefferson,534.0,1413.0,454.0,1346.0,Metro
+Missouri,Lafayette,41.0,78.0,39.0,58.0,Metro
+Missouri,Lincoln,131.0,222.0,133.0,157.0,Metro
+Missouri,Newton,76.0,524.0,95.0,491.0,Metro
+Missouri,Osage,9.0,67.0,8.0,42.0,Metro
+Missouri,Platte,59.0,220.0,78.0,191.0,Metro
+Missouri,Polk,62.0,200.0,44.0,168.0,Metro
+Missouri,Ray,91.0,110.0,70.0,77.0,Metro
+Missouri,St. Charles,0.0,1.0,1.0,0.0,Metro
+Missouri,Webster,56.0,99.0,61.0,68.0,Metro
+Missouri,Audrain,23.0,89.0,15.0,19.0,Non-Metro
+Missouri,Barry,39.0,186.0,73.0,247.0,Non-Metro
+Missouri,Barton,17.0,95.0,18.0,79.0,Non-Metro
+Missouri,Butler,82.0,416.0,94.0,416.0,Non-Metro
+Missouri,Camden,79.0,243.0,76.0,165.0,Non-Metro
+Missouri,Cedar,47.0,149.0,32.0,66.0,Non-Metro
+Missouri,Chariton,31.0,47.0,15.0,25.0,Non-Metro
+Missouri,Clark,0.0,67.0,2.0,52.0,Non-Metro
+Missouri,Dade,41.0,83.0,29.0,88.0,Non-Metro
+Missouri,Daviess,7.0,70.0,11.0,46.0,Non-Metro
+Missouri,Dent,19.0,51.0,15.0,47.0,Non-Metro
+Missouri,Dunklin,29.0,84.0,37.0,93.0,Non-Metro
+Missouri,Grundy,1.0,5.0,5.0,3.0,Non-Metro
+Missouri,Henry,106.0,292.0,105.0,161.0,Non-Metro
+Missouri,Hickory,2.0,41.0,2.0,13.0,Non-Metro
+Missouri,Howell,46.0,194.0,54.0,194.0,Non-Metro
+Missouri,Johnson,38.0,199.0,37.0,156.0,Non-Metro
+Missouri,Laclede,19.0,126.0,12.0,129.0,Non-Metro
+Missouri,Lawrence,36.0,184.0,27.0,153.0,Non-Metro
+Missouri,Lewis,0.0,18.0,1.0,12.0,Non-Metro
+Missouri,Livingston,8.0,19.0,12.0,26.0,Non-Metro
+Missouri,McDonald,110.0,147.0,84.0,163.0,Non-Metro
+Missouri,Mississippi,1.0,51.0,4.0,33.0,Non-Metro
+Missouri,Monroe,21.0,42.0,8.0,10.0,Non-Metro
+Missouri,Montgomery,8.0,49.0,19.0,33.0,Non-Metro
+Missouri,New Madrid,40.0,117.0,37.0,151.0,Non-Metro
+Missouri,Nodaway,13.0,52.0,27.0,35.0,Non-Metro
+Missouri,Ozark,25.0,25.0,8.0,12.0,Non-Metro
+Missouri,Perry,25.0,21.0,28.0,23.0,Non-Metro
+Missouri,Pettis,39.0,171.0,58.0,167.0,Non-Metro
+Missouri,Phelps,41.0,213.0,30.0,120.0,Non-Metro
+Missouri,Pike,23.0,62.0,21.0,68.0,Non-Metro
+Missouri,Ralls,8.0,26.0,0.0,22.0,Non-Metro
+Missouri,Randolph,43.0,25.0,38.0,23.0,Non-Metro
+Missouri,Ripley,4.0,38.0,11.0,34.0,Non-Metro
+Missouri,Saline,66.0,68.0,50.0,68.0,Non-Metro
+Missouri,Schuyler,17.0,35.0,14.0,35.0,Non-Metro
+Missouri,St. Clair,12.0,69.0,9.0,81.0,Non-Metro
+Missouri,Ste. Genevieve,53.0,90.0,32.0,66.0,Non-Metro
+Missouri,St. Francois,69.0,246.0,48.0,155.0,Non-Metro
+Missouri,Stoddard,46.0,136.0,40.0,93.0,Non-Metro
+Missouri,Stone,40.0,305.0,71.0,268.0,Non-Metro
+Missouri,Taney,104.0,228.0,106.0,242.0,Non-Metro
+Missouri,Texas,38.0,137.0,27.0,115.0,Non-Metro
+Missouri,Vernon,30.0,145.0,39.0,127.0,Non-Metro
+Missouri,Wayne,35.0,89.0,36.0,72.0,Non-Metro
+Missouri,Wright,15.0,13.0,10.0,25.0,Non-Metro
+Montana,Broadwater,30.0,15.0,23.0,32.0,Metro
+Montana,Carbon,8.0,30.0,9.0,30.0,Metro
+Montana,Cascade,90.0,203.0,107.0,171.0,Metro
+Montana,Gallatin,195.0,425.0,158.0,383.0,Metro
+Montana,Jefferson,32.0,95.0,46.0,115.0,Metro
+Montana,Lewis and Clark,74.0,228.0,88.0,240.0,Metro
+Montana,Missoula,105.0,307.0,132.0,142.0,Metro
+Montana,Stillwater,20.0,45.0,19.0,38.0,Metro
+Montana,Yellowstone,149.0,600.0,223.0,579.0,Metro
+Montana,Beaverhead,10.0,15.0,24.0,6.0,Non-Metro
+Montana,Big Horn,59.0,79.0,44.0,73.0,Non-Metro
+Montana,Butte-Silver Bow,126.0,808.0,176.0,854.0,Non-Metro
+Montana,Carter,0.0,0.0,0.0,0.0,Non-Metro
+Montana,Chouteau,8.0,10.0,8.0,20.0,Non-Metro
+Montana,Dawson,13.0,35.0,6.0,10.0,Non-Metro
+Montana,Fergus,7.0,8.0,14.0,31.0,Non-Metro
+Montana,Flathead,215.0,652.0,227.0,608.0,Non-Metro
+Montana,Glacier,10.0,23.0,4.0,17.0,Non-Metro
+Montana,Golden Valley,2.0,0.0,0.0,3.0,Non-Metro
+Montana,Granite,16.0,34.0,6.0,30.0,Non-Metro
+Montana,Hill,32.0,117.0,34.0,125.0,Non-Metro
+Montana,Judith Basin,2.0,1.0,2.0,0.0,Non-Metro
+Montana,Lake,137.0,244.0,78.0,189.0,Non-Metro
+Montana,Liberty,3.0,6.0,4.0,1.0,Non-Metro
+Montana,Lincoln,29.0,52.0,15.0,83.0,Non-Metro
+Montana,Madison,16.0,18.0,15.0,25.0,Non-Metro
+Montana,McCone,1.0,2.0,2.0,6.0,Non-Metro
+Montana,Mineral,17.0,24.0,10.0,18.0,Metro
+Montana,Musselshell,9.0,25.0,16.0,21.0,Non-Metro
+Montana,Park,21.0,41.0,12.0,37.0,Non-Metro
+Montana,Petroleum,0.0,1.0,4.0,2.0,Non-Metro
+Montana,Phillips,18.0,32.0,18.0,30.0,Non-Metro
+Montana,Pondera,2.0,19.0,4.0,16.0,Non-Metro
+Montana,Powder River,0.0,1.0,0.0,0.0,Non-Metro
+Montana,Powell,25.0,11.0,15.0,13.0,Non-Metro
+Montana,Prairie,2.0,1.0,1.0,1.0,Non-Metro
+Montana,Ravalli,90.0,201.0,83.0,219.0,Non-Metro
+Montana,Richland,2.0,15.0,8.0,5.0,Non-Metro
+Montana,Roosevelt,33.0,27.0,25.0,42.0,Non-Metro
+Montana,Rosebud,8.0,6.0,2.0,8.0,Non-Metro
+Montana,Sanders,35.0,29.0,21.0,29.0,Non-Metro
+Montana,Sheridan,13.0,45.0,9.0,51.0,Non-Metro
+Montana,Sweet Grass,7.0,26.0,5.0,6.0,Non-Metro
+Montana,Teton,9.0,25.0,11.0,36.0,Non-Metro
+Montana,Toole,18.0,58.0,17.0,39.0,Non-Metro
+Montana,Treasure,2.0,0.0,4.0,5.0,Non-Metro
+Montana,Valley,3.0,9.0,7.0,7.0,Non-Metro
+Montana,Wheatland,7.0,2.0,1.0,4.0,Non-Metro
+Nebraska,Cass,16.0,99.0,14.0,75.0,Metro
+Nebraska,Dakota,17.0,20.0,36.0,40.0,Metro
+Nebraska,Douglas,74.0,670.0,86.0,560.0,Metro
+Nebraska,Hall,7.0,96.0,8.0,73.0,Metro
+Nebraska,Lancaster,7.0,170.0,9.0,165.0,Metro
+Nebraska,Sarpy,23.0,753.0,27.0,679.0,Metro
+Nebraska,Saunders,6.0,44.0,10.0,43.0,Metro
+Nebraska,Seward,5.0,21.0,9.0,11.0,Metro
+Nebraska,Adams,6.0,45.0,6.0,27.0,Non-Metro
+Nebraska,Buffalo,27.0,75.0,23.0,61.0,Non-Metro
+Nebraska,Cedar,0.0,27.0,2.0,16.0,Non-Metro
+Nebraska,Cheyenne,8.0,10.0,4.0,13.0,Non-Metro
+Nebraska,Colfax,1.0,8.0,2.0,3.0,Non-Metro
+Nebraska,Custer,3.0,11.0,6.0,15.0,Non-Metro
+Nebraska,Dawes,2.0,2.0,0.0,1.0,Non-Metro
+Nebraska,Dixon,3.0,8.0,7.0,7.0,Non-Metro
+Nebraska,Furnas,6.0,27.0,2.0,33.0,Non-Metro
+Nebraska,Gosper,0.0,0.0,0.0,0.0,Non-Metro
+Nebraska,Jefferson,8.0,68.0,4.0,27.0,Non-Metro
+Nebraska,Keith,3.0,13.0,2.0,6.0,Non-Metro
+Nebraska,Madison,13.0,12.0,4.0,27.0,Non-Metro
+Nebraska,Morrill,2.0,19.0,1.0,11.0,Non-Metro
+Nebraska,Otoe,4.0,29.0,4.0,19.0,Non-Metro
+Nebraska,Pierce,3.0,18.0,2.0,20.0,Non-Metro
+Nebraska,Polk,2.0,16.0,3.0,17.0,Non-Metro
+Nebraska,Red Willow,0.0,18.0,1.0,12.0,Non-Metro
+Nebraska,Richardson,3.0,8.0,7.0,3.0,Non-Metro
+Nebraska,Saline,4.0,28.0,7.0,31.0,Non-Metro
+Nebraska,Stanton,0.0,0.0,0.0,2.0,Non-Metro
+Nebraska,Thayer,3.0,12.0,4.0,9.0,Non-Metro
+Nebraska,Thomas,1.0,0.0,0.0,0.0,Non-Metro
+Nebraska,York,8.0,19.0,6.0,10.0,Non-Metro
+Nevada,Carson City,158.0,502.0,186.0,474.0,Metro
+Nevada,Lyon,190.0,401.0,206.0,326.0,Metro
+Nevada,Washoe,351.0,680.0,405.0,690.0,Metro
+Nevada,Churchill,16.0,113.0,33.0,93.0,Non-Metro
+Nevada,Douglas,58.0,367.0,70.0,367.0,Non-Metro
+Nevada,Elko,55.0,147.0,57.0,118.0,Non-Metro
+Nevada,Eureka,16.0,39.0,18.0,27.0,Non-Metro
+Nevada,Humboldt,20.0,100.0,23.0,74.0,Non-Metro
+Nevada,Lander,22.0,81.0,15.0,40.0,Non-Metro
+Nevada,Mineral,5.0,33.0,7.0,49.0,Non-Metro
+Nevada,Nye,140.0,800.0,148.0,606.0,Non-Metro
+Nevada,White Pine,23.0,77.0,27.0,38.0,Non-Metro
+New Hampshire,Rockingham,3.0,6.0,16.0,8.0,Metro
+New Hampshire,Strafford,6.0,2.0,4.0,0.0,Metro
+New Hampshire,Belknap,3.0,10.0,2.0,8.0,Non-Metro
+New Hampshire,Carroll,0.0,21.0,1.0,33.0,Non-Metro
+New Hampshire,Cheshire,0.0,3.0,1.0,6.0,Non-Metro
+New Hampshire,Merrimack,1.0,0.0,2.0,1.0,Non-Metro
+New Jersey,Atlantic,0.0,0.0,0.0,0.0,Metro
+New Jersey,Bergen,0.0,0.0,0.0,0.0,Metro
+New Jersey,Burlington,0.0,0.0,0.0,0.0,Metro
+New Jersey,Camden,0.0,25.0,9.0,24.0,Metro
+New Jersey,Cape May,0.0,0.0,0.0,0.0,Metro
+New Jersey,Cumberland,0.0,0.0,0.0,0.0,Metro
+New Jersey,Essex,50.0,101.0,54.0,96.0,Metro
+New Jersey,Gloucester,0.0,2.0,0.0,4.0,Metro
+New Jersey,Hudson,0.0,0.0,0.0,0.0,Metro
+New Jersey,Hunterdon,0.0,0.0,0.0,0.0,Metro
+New Jersey,Mercer,3.0,5.0,3.0,3.0,Metro
+New Jersey,Middlesex,0.0,0.0,0.0,0.0,Metro
+New Jersey,Monmouth,14.0,1.0,1.0,2.0,Metro
+New Jersey,Passaic,0.0,4.0,1.0,15.0,Metro
+New Jersey,Salem,0.0,0.0,0.0,0.0,Metro
+New Jersey,Somerset,0.0,0.0,0.0,0.0,Metro
+New Jersey,Sussex,0.0,0.0,0.0,0.0,Metro
+New Jersey,Warren,0.0,0.0,0.0,0.0,Metro
+New Mexico,Bernalillo,779.0,2018.0,675.0,1954.0,Metro
+New Mexico,Dona Ana,274.0,1017.0,338.0,1106.0,Metro
+New Mexico,San Juan,270.0,481.0,271.0,457.0,Metro
+New Mexico,Santa Fe,104.0,323.0,110.0,414.0,Metro
+New Mexico,Torrance,53.0,146.0,24.0,151.0,Metro
+New Mexico,Valencia,200.0,554.0,232.0,516.0,Metro
+New Mexico,Chaves,81.0,156.0,75.0,134.0,Non-Metro
+New Mexico,Curry,26.0,103.0,20.0,91.0,Non-Metro
+New Mexico,De Baca,12.0,12.0,12.0,19.0,Non-Metro
+New Mexico,Guadalupe,0.0,9.0,0.0,8.0,Non-Metro
+New Mexico,Hidalgo,3.0,9.0,5.0,7.0,Non-Metro
+New Mexico,Lea,78.0,582.0,103.0,653.0,Non-Metro
+New Mexico,McKinley,65.0,159.0,84.0,155.0,Non-Metro
+New Mexico,Mora,13.0,7.0,10.0,11.0,Non-Metro
+New Mexico,Socorro,24.0,66.0,24.0,46.0,Non-Metro
+New York,Broome,44.0,552.0,43.0,525.0,Metro
+New York,Chemung,14.0,167.0,16.0,126.0,Metro
+New York,Dutchess,40.0,337.0,24.0,326.0,Metro
+New York,Erie,53.0,525.0,45.0,560.0,Metro
+New York,Herkimer,0.0,22.0,0.0,11.0,Metro
+New York,Jefferson,11.0,164.0,17.0,131.0,Metro
+New York,Livingston,21.0,218.0,17.0,192.0,Metro
+New York,Madison,15.0,101.0,18.0,79.0,Metro
+New York,Monroe,199.0,2258.0,157.0,2491.0,Metro
+New York,Nassau,1868.0,14609.0,1744.0,11887.0,Metro
+New York,Niagara,38.0,570.0,34.0,505.0,Metro
+New York,Oneida,54.0,202.0,39.0,191.0,Metro
+New York,Onondaga,211.0,1481.0,209.0,1188.0,Metro
+New York,Ontario,48.0,627.0,67.0,504.0,Metro
+New York,Oswego,52.0,200.0,27.0,246.0,Metro
+New York,Putnam,13.0,192.0,23.0,225.0,Metro
+New York,Rensselaer,29.0,223.0,18.0,146.0,Metro
+New York,Saratoga,102.0,1325.0,76.0,995.0,Metro
+New York,Schenectady,0.0,5.0,5.0,18.0,Metro
+New York,Schoharie,0.0,14.0,3.0,31.0,Metro
+New York,Suffolk,39.0,0.0,45.0,0.0,Metro
+New York,Tioga,16.0,115.0,18.0,257.0,Metro
+New York,Tompkins,35.0,270.0,21.0,269.0,Metro
+New York,Ulster,14.0,99.0,20.0,111.0,Metro
+New York,Warren,34.0,565.0,22.0,503.0,Metro
+New York,Wayne,63.0,318.0,38.0,256.0,Metro
+New York,Westchester Public Safety,10.0,153.0,11.0,122.0,Metro
+New York,Cattaraugus,32.0,189.0,31.0,146.0,Non-Metro
+New York,Chautauqua,39.0,339.0,26.0,232.0,Non-Metro
+New York,Cortland,10.0,258.0,27.0,187.0,Non-Metro
+New York,Delaware,14.0,72.0,12.0,52.0,Non-Metro
+New York,Fulton,14.0,151.0,23.0,193.0,Non-Metro
+New York,Genesee,25.0,295.0,29.0,173.0,Non-Metro
+New York,Greene,4.0,27.0,17.0,23.0,Non-Metro
+New York,Lewis,6.0,43.0,9.0,49.0,Non-Metro
+New York,Montgomery,14.0,205.0,14.0,231.0,Non-Metro
+New York,Otsego,1.0,19.0,8.0,26.0,Non-Metro
+New York,Schuyler,3.0,29.0,7.0,36.0,Non-Metro
+New York,Seneca,6.0,94.0,5.0,63.0,Non-Metro
+New York,Steuben,23.0,118.0,21.0,101.0,Non-Metro
+New York,St. Lawrence,12.0,37.0,7.0,27.0,Non-Metro
+New York,Sullivan,21.0,254.0,21.0,280.0,Non-Metro
+New York,Wyoming,12.0,92.0,6.0,83.0,Non-Metro
+New York,Yates,12.0,67.0,8.0,70.0,Non-Metro
+North Carolina,Alamance,179.0,556.0,152.0,476.0,Metro
+North Carolina,Alexander,99.0,303.0,80.0,283.0,Metro
+North Carolina,Anson,36.0,137.0,28.0,134.0,Metro
+North Carolina,Brunswick,189.0,785.0,195.0,877.0,Metro
+North Carolina,Buncombe,178.0,1140.0,176.0,1216.0,Metro
+North Carolina,Burke,169.0,809.0,94.0,715.0,Metro
+North Carolina,Cabarrus,58.0,498.0,55.0,481.0,Metro
+North Carolina,Caldwell,65.0,718.0,64.0,635.0,Metro
+North Carolina,Camden,12.0,70.0,25.0,70.0,Metro
+North Carolina,Chatham,121.0,498.0,70.0,501.0,Metro
+North Carolina,Currituck,80.0,238.0,69.0,235.0,Metro
+North Carolina,Davie,135.0,645.0,139.0,517.0,Metro
+North Carolina,Edgecombe,75.0,234.0,76.0,240.0,Metro
+North Carolina,Forsyth,270.0,1347.0,298.0,1205.0,Metro
+North Carolina,Gaston,7.0,2.0,7.0,2.0,Metro
+North Carolina,Gates,14.0,84.0,19.0,99.0,Metro
+North Carolina,Guilford,271.0,965.0,295.0,803.0,Metro
+North Carolina,Henderson,114.0,641.0,89.0,715.0,Metro
+North Carolina,Hoke,288.0,715.0,292.0,853.0,Metro
+North Carolina,Iredell,166.0,690.0,185.0,587.0,Metro
+North Carolina,Johnston,147.0,1418.0,168.0,1292.0,Metro
+North Carolina,Lincoln,119.0,823.0,78.0,634.0,Metro
+North Carolina,Madison,19.0,87.0,9.0,61.0,Metro
+North Carolina,Moore,80.0,371.0,70.0,382.0,Metro
+North Carolina,New Hanover,133.0,1208.0,146.0,1239.0,Metro
+North Carolina,Orange,92.0,414.0,95.0,392.0,Metro
+North Carolina,Pender,77.0,437.0,83.0,380.0,Metro
+North Carolina,Person,74.0,322.0,58.0,236.0,Metro
+North Carolina,Pitt,183.0,621.0,193.0,580.0,Metro
+North Carolina,Rockingham,77.0,476.0,65.0,364.0,Metro
+North Carolina,Rowan,126.0,709.0,171.0,601.0,Metro
+North Carolina,Union,186.0,1309.0,202.0,1240.0,Metro
+North Carolina,Wake,242.0,1138.0,277.0,1034.0,Metro
+North Carolina,Wayne,186.0,1189.0,280.0,1108.0,Metro
+North Carolina,Yadkin,43.0,268.0,34.0,259.0,Metro
+North Carolina,Ashe,35.0,162.0,27.0,106.0,Non-Metro
+North Carolina,Avery,29.0,135.0,23.0,171.0,Non-Metro
+North Carolina,Bladen,40.0,264.0,41.0,301.0,Non-Metro
+North Carolina,Carteret,44.0,447.0,58.0,343.0,Non-Metro
+North Carolina,Caswell,16.0,75.0,20.0,51.0,Non-Metro
+North Carolina,Cherokee,70.0,517.0,65.0,295.0,Non-Metro
+North Carolina,Chowan,13.0,68.0,31.0,53.0,Non-Metro
+North Carolina,Clay,9.0,205.0,14.0,149.0,Non-Metro
+North Carolina,Cleveland,180.0,587.0,146.0,488.0,Non-Metro
+North Carolina,Craven,118.0,492.0,90.0,378.0,Non-Metro
+North Carolina,Dare,40.0,149.0,41.0,166.0,Non-Metro
+North Carolina,Granville,70.0,257.0,68.0,273.0,Non-Metro
+North Carolina,Halifax,110.0,353.0,136.0,379.0,Non-Metro
+North Carolina,Harnett,277.0,1325.0,288.0,1383.0,Non-Metro
+North Carolina,Haywood,87.0,537.0,70.0,390.0,Non-Metro
+North Carolina,Hertford,24.0,92.0,13.0,67.0,Non-Metro
+North Carolina,Lee,32.0,182.0,29.0,200.0,Non-Metro
+North Carolina,Martin,60.0,163.0,31.0,161.0,Non-Metro
+North Carolina,McDowell,57.0,520.0,53.0,587.0,Non-Metro
+North Carolina,Montgomery,105.0,194.0,55.0,153.0,Non-Metro
+North Carolina,Pamlico,23.0,152.0,22.0,124.0,Non-Metro
+North Carolina,Pasquotank,71.0,206.0,77.0,151.0,Non-Metro
+North Carolina,Perquimans,35.0,132.0,27.0,109.0,Non-Metro
+North Carolina,Polk,27.0,151.0,39.0,121.0,Non-Metro
+North Carolina,Richmond,179.0,835.0,136.0,860.0,Non-Metro
+North Carolina,Robeson,1159.0,2180.0,900.0,1885.0,Non-Metro
+North Carolina,Rutherford,71.0,291.0,80.0,428.0,Non-Metro
+North Carolina,Sampson,108.0,734.0,105.0,690.0,Non-Metro
+North Carolina,Scotland,110.0,238.0,84.0,263.0,Non-Metro
+North Carolina,Swain,23.0,74.0,24.0,103.0,Non-Metro
+North Carolina,Transylvania,35.0,190.0,26.0,140.0,Non-Metro
+North Carolina,Tyrrell,6.0,46.0,9.0,34.0,Non-Metro
+North Carolina,Warren,92.0,289.0,61.0,199.0,Non-Metro
+North Carolina,Watauga,26.0,191.0,19.0,134.0,Non-Metro
+North Carolina,Wilkes,116.0,484.0,121.0,429.0,Non-Metro
+North Carolina,Wilson,43.0,228.0,49.0,274.0,Non-Metro
+North Carolina,Yancey,10.0,85.0,6.0,55.0,Non-Metro
+North Dakota,Burleigh,14.0,109.0,14.0,70.0,Metro
+North Dakota,Cass,23.0,146.0,12.0,153.0,Metro
+North Dakota,Grand Forks,20.0,74.0,12.0,56.0,Metro
+North Dakota,McHenry,0.0,21.0,3.0,27.0,Metro
+North Dakota,Morton,10.0,65.0,5.0,74.0,Metro
+North Dakota,Ward,40.0,72.0,34.0,49.0,Metro
+North Dakota,Barnes,0.0,3.0,0.0,5.0,Non-Metro
+North Dakota,Billings,0.0,4.0,0.0,2.0,Non-Metro
+North Dakota,Cavalier,2.0,14.0,2.0,15.0,Non-Metro
+North Dakota,Dunn,2.0,22.0,1.0,16.0,Non-Metro
+North Dakota,Emmons,1.0,47.0,0.0,20.0,Non-Metro
+North Dakota,McIntosh,1.0,10.0,0.0,5.0,Non-Metro
+North Dakota,McKenzie,23.0,81.0,12.0,80.0,Non-Metro
+North Dakota,McLean,12.0,51.0,9.0,49.0,Non-Metro
+North Dakota,Mercer,1.0,19.0,2.0,14.0,Non-Metro
+North Dakota,Mountrail,5.0,48.0,2.0,54.0,Non-Metro
+North Dakota,Pembina,4.0,19.0,5.0,20.0,Non-Metro
+North Dakota,Ransom,1.0,33.0,2.0,19.0,Non-Metro
+North Dakota,Richland,2.0,53.0,2.0,28.0,Non-Metro
+North Dakota,Rolette,4.0,13.0,7.0,12.0,Non-Metro
+North Dakota,Sargent,3.0,12.0,5.0,9.0,Non-Metro
+North Dakota,Sheridan,0.0,7.0,0.0,9.0,Non-Metro
+North Dakota,Stark,4.0,62.0,13.0,67.0,Non-Metro
+North Dakota,Stutsman,4.0,30.0,5.0,30.0,Non-Metro
+North Dakota,Towner,0.0,5.0,0.0,5.0,Non-Metro
+North Dakota,Traill,4.0,24.0,3.0,45.0,Non-Metro
+North Dakota,Walsh,7.0,30.0,10.0,37.0,Non-Metro
+North Dakota,Williams,15.0,113.0,16.0,122.0,Non-Metro
+Ohio,Allen,79.0,677.0,79.0,439.0,Metro
+Ohio,Ashtabula,57.0,457.0,79.0,238.0,Metro
+Ohio,Belmont,73.0,111.0,99.0,90.0,Metro
+Ohio,Butler,57.0,693.0,54.0,684.0,Metro
+Ohio,Clermont,64.0,514.0,35.0,318.0,Metro
+Ohio,Delaware,66.0,958.0,85.0,839.0,Metro
+Ohio,Erie,9.0,78.0,8.0,67.0,Metro
+Ohio,Fairfield,95.0,870.0,59.0,605.0,Metro
+Ohio,Franklin,148.0,908.0,101.0,708.0,Metro
+Ohio,Greene,32.0,258.0,24.0,282.0,Metro
+Ohio,Hamilton,184.0,1750.0,197.0,1687.0,Metro
+Ohio,Lucas,47.0,739.0,40.0,501.0,Metro
+Ohio,Madison,34.0,230.0,29.0,162.0,Metro
+Ohio,Mahoning,12.0,70.0,12.0,70.0,Metro
+Ohio,Medina,23.0,236.0,22.0,185.0,Metro
+Ohio,Miami,31.0,280.0,51.0,212.0,Metro
+Ohio,Montgomery,228.0,1191.0,260.0,1087.0,Metro
+Ohio,Morrow,43.0,79.0,49.0,57.0,Metro
+Ohio,Perry,11.0,73.0,15.0,72.0,Metro
+Ohio,Pickaway,32.0,388.0,30.0,367.0,Metro
+Ohio,Portage,79.0,549.0,49.0,526.0,Metro
+Ohio,Richland,57.0,456.0,209.0,371.0,Metro
+Ohio,Stark,141.0,1217.0,214.0,1216.0,Metro
+Ohio,Summit,137.0,824.0,112.0,697.0,Metro
+Ohio,Trumbull,26.0,250.0,30.0,204.0,Metro
+Ohio,Union,38.0,173.0,56.0,152.0,Metro
+Ohio,Warren,47.0,984.0,62.0,840.0,Metro
+Ohio,Wood,31.0,218.0,23.0,197.0,Metro
+Ohio,Adams,8.0,73.0,12.0,33.0,Non-Metro
+Ohio,Ashland,62.0,54.0,32.0,42.0,Non-Metro
+Ohio,Athens,22.0,321.0,26.0,161.0,Non-Metro
+Ohio,Champaign,30.0,134.0,21.0,129.0,Non-Metro
+Ohio,Clinton,12.0,49.0,5.0,35.0,Non-Metro
+Ohio,Columbiana,34.0,122.0,39.0,91.0,Non-Metro
+Ohio,Coshocton,34.0,355.0,33.0,312.0,Non-Metro
+Ohio,Crawford,13.0,38.0,12.0,34.0,Non-Metro
+Ohio,Darke,0.0,167.0,8.0,126.0,Non-Metro
+Ohio,Defiance,9.0,86.0,9.0,93.0,Non-Metro
+Ohio,Fayette,25.0,188.0,25.0,148.0,Non-Metro
+Ohio,Gallia,29.0,97.0,37.0,72.0,Non-Metro
+Ohio,Hancock,39.0,146.0,32.0,156.0,Non-Metro
+Ohio,Harrison,9.0,64.0,6.0,52.0,Non-Metro
+Ohio,Henry,6.0,102.0,17.0,78.0,Non-Metro
+Ohio,Highland,32.0,173.0,26.0,155.0,Non-Metro
+Ohio,Holmes,2.0,188.0,0.0,118.0,Non-Metro
+Ohio,Jackson,24.0,147.0,21.0,106.0,Non-Metro
+Ohio,Meigs,28.0,159.0,18.0,89.0,Non-Metro
+Ohio,Mercer,7.0,16.0,8.0,18.0,Non-Metro
+Ohio,Monroe,10.0,15.0,6.0,9.0,Non-Metro
+Ohio,Morgan,29.0,70.0,14.0,61.0,Non-Metro
+Ohio,Paulding,18.0,102.0,18.0,54.0,Non-Metro
+Ohio,Pike,40.0,237.0,30.0,257.0,Non-Metro
+Ohio,Preble,13.0,117.0,14.0,92.0,Non-Metro
+Ohio,Ross,65.0,640.0,62.0,656.0,Non-Metro
+Ohio,Scioto,84.0,509.0,89.0,394.0,Non-Metro
+Ohio,Seneca,14.0,150.0,14.0,124.0,Non-Metro
+Ohio,Shelby,10.0,86.0,12.0,84.0,Non-Metro
+Ohio,Tuscarawas,43.0,291.0,33.0,250.0,Non-Metro
+Ohio,Van Wert,15.0,102.0,21.0,95.0,Non-Metro
+Ohio,Vinton,27.0,72.0,7.0,44.0,Non-Metro
+Ohio,Washington,34.0,142.0,28.0,124.0,Non-Metro
+Oklahoma,Canadian,16.0,134.0,14.0,128.0,Metro
+Oklahoma,Cleveland,41.0,214.0,46.0,174.0,Metro
+Oklahoma,Comanche,4.0,78.0,1.0,35.0,Metro
+Oklahoma,Cotton,13.0,42.0,9.0,33.0,Metro
+Oklahoma,Creek,33.0,281.0,19.0,246.0,Metro
+Oklahoma,Garfield,5.0,84.0,11.0,94.0,Metro
+Oklahoma,Grady,26.0,165.0,40.0,170.0,Metro
+Oklahoma,Lincoln,67.0,271.0,69.0,198.0,Metro
+Oklahoma,Logan,32.0,278.0,37.0,217.0,Metro
+Oklahoma,McClain,15.0,176.0,29.0,161.0,Metro
+Oklahoma,Oklahoma,25.0,113.0,30.0,114.0,Metro
+Oklahoma,Okmulgee,44.0,181.0,26.0,179.0,Metro
+Oklahoma,Osage,52.0,273.0,30.0,244.0,Metro
+Oklahoma,Pawnee,21.0,75.0,7.0,82.0,Metro
+Oklahoma,Rogers,62.0,298.0,39.0,249.0,Metro
+Oklahoma,Sequoyah,71.0,194.0,56.0,161.0,Metro
+Oklahoma,Tulsa,192.0,621.0,185.0,545.0,Metro
+Oklahoma,Wagoner,87.0,263.0,80.0,238.0,Metro
+Oklahoma,Adair,22.0,99.0,24.0,102.0,Non-Metro
+Oklahoma,Alfalfa,10.0,21.0,2.0,52.0,Non-Metro
+Oklahoma,Atoka,18.0,75.0,14.0,59.0,Non-Metro
+Oklahoma,Beaver,2.0,13.0,6.0,15.0,Non-Metro
+Oklahoma,Beckham,5.0,59.0,8.0,38.0,Non-Metro
+Oklahoma,Blaine,24.0,87.0,11.0,46.0,Non-Metro
+Oklahoma,Bryan,46.0,277.0,45.0,214.0,Non-Metro
+Oklahoma,Caddo,15.0,165.0,28.0,155.0,Non-Metro
+Oklahoma,Carter,23.0,150.0,13.0,173.0,Non-Metro
+Oklahoma,Cherokee,46.0,296.0,57.0,264.0,Non-Metro
+Oklahoma,Choctaw,19.0,89.0,18.0,59.0,Non-Metro
+Oklahoma,Cimarron,0.0,3.0,0.0,3.0,Non-Metro
+Oklahoma,Coal,4.0,38.0,8.0,44.0,Non-Metro
+Oklahoma,Craig,19.0,130.0,22.0,115.0,Non-Metro
+Oklahoma,Custer,16.0,34.0,6.0,59.0,Non-Metro
+Oklahoma,Delaware,74.0,284.0,99.0,312.0,Non-Metro
+Oklahoma,Dewey,2.0,49.0,1.0,30.0,Non-Metro
+Oklahoma,Ellis,6.0,30.0,10.0,34.0,Non-Metro
+Oklahoma,Garvin,36.0,191.0,39.0,165.0,Non-Metro
+Oklahoma,Grant,1.0,16.0,2.0,38.0,Non-Metro
+Oklahoma,Greer,4.0,10.0,8.0,13.0,Non-Metro
+Oklahoma,Harmon,4.0,7.0,2.0,2.0,Non-Metro
+Oklahoma,Harper,3.0,10.0,2.0,7.0,Non-Metro
+Oklahoma,Haskell,27.0,63.0,9.0,43.0,Non-Metro
+Oklahoma,Hughes,9.0,102.0,12.0,96.0,Non-Metro
+Oklahoma,Jackson,10.0,18.0,6.0,16.0,Non-Metro
+Oklahoma,Jefferson,7.0,29.0,3.0,13.0,Non-Metro
+Oklahoma,Johnston,12.0,40.0,23.0,30.0,Non-Metro
+Oklahoma,Kay,23.0,102.0,24.0,70.0,Non-Metro
+Oklahoma,Kingfisher,19.0,70.0,6.0,49.0,Non-Metro
+Oklahoma,Kiowa,5.0,18.0,2.0,12.0,Non-Metro
+Oklahoma,Latimer,4.0,49.0,7.0,41.0,Non-Metro
+Oklahoma,Le Flore,43.0,166.0,44.0,128.0,Non-Metro
+Oklahoma,Love,4.0,76.0,9.0,90.0,Non-Metro
+Oklahoma,Major,7.0,43.0,15.0,41.0,Non-Metro
+Oklahoma,Marshall,28.0,124.0,11.0,159.0,Non-Metro
+Oklahoma,Mayes,63.0,292.0,51.0,198.0,Non-Metro
+Oklahoma,McCurtain,56.0,344.0,46.0,298.0,Non-Metro
+Oklahoma,McIntosh,27.0,169.0,38.0,197.0,Non-Metro
+Oklahoma,Murray,6.0,45.0,9.0,35.0,Non-Metro
+Oklahoma,Muskogee,81.0,186.0,81.0,180.0,Non-Metro
+Oklahoma,Noble,9.0,47.0,13.0,41.0,Non-Metro
+Oklahoma,Nowata,17.0,58.0,10.0,70.0,Non-Metro
+Oklahoma,Okfuskee,14.0,121.0,11.0,62.0,Non-Metro
+Oklahoma,Ottawa,35.0,227.0,29.0,203.0,Non-Metro
+Oklahoma,Payne,31.0,202.0,27.0,165.0,Non-Metro
+Oklahoma,Pittsburg,40.0,307.0,49.0,261.0,Non-Metro
+Oklahoma,Pontotoc,0.0,64.0,0.0,51.0,Non-Metro
+Oklahoma,Pottawatomie,64.0,323.0,95.0,354.0,Non-Metro
+Oklahoma,Pushmataha,11.0,97.0,10.0,50.0,Non-Metro
+Oklahoma,Roger Mills,3.0,21.0,3.0,17.0,Non-Metro
+Oklahoma,Seminole,22.0,184.0,23.0,198.0,Non-Metro
+Oklahoma,Stephens,31.0,115.0,20.0,118.0,Non-Metro
+Oklahoma,Texas,5.0,44.0,4.0,45.0,Non-Metro
+Oklahoma,Tillman,3.0,20.0,5.0,17.0,Non-Metro
+Oklahoma,Washington,22.0,91.0,15.0,88.0,Non-Metro
+Oklahoma,Washita,2.0,33.0,3.0,44.0,Non-Metro
+Oklahoma,Woods,2.0,40.0,8.0,40.0,Non-Metro
+Oklahoma,Woodward,13.0,41.0,5.0,21.0,Non-Metro
+Oregon,Benton,22.0,182.0,25.0,137.0,Metro
+Oregon,Clackamas,541.0,4555.0,536.0,4127.0,Metro
+Oregon,Columbia,40.0,97.0,50.0,78.0,Metro
+Oregon,Crook,9.0,4.0,18.0,3.0,Metro
+Oregon,Deschutes,64.0,489.0,61.0,468.0,Metro
+Oregon,Jackson,182.0,841.0,215.0,835.0,Metro
+Oregon,Jefferson,7.0,89.0,7.0,66.0,Metro
+Oregon,Josephine,94.0,178.0,94.0,205.0,Metro
+Oregon,Lane,271.0,1236.0,247.0,1032.0,Metro
+Oregon,Linn,79.0,760.0,99.0,652.0,Metro
+Oregon,Marion,151.0,1780.0,140.0,1654.0,Metro
+Oregon,Multnomah,273.0,1471.0,285.0,1338.0,Metro
+Oregon,Polk,59.0,241.0,43.0,204.0,Metro
+Oregon,Washington,490.0,2416.0,465.0,2404.0,Metro
+Oregon,Yamhill,59.0,307.0,62.0,295.0,Metro
+Oregon,Baker,4.0,79.0,20.0,144.0,Non-Metro
+Oregon,Clatsop,26.0,150.0,36.0,166.0,Non-Metro
+Oregon,Douglas,118.0,610.0,100.0,557.0,Non-Metro
+Oregon,Gilliam,1.0,35.0,4.0,41.0,Non-Metro
+Oregon,Hood River,15.0,138.0,14.0,144.0,Non-Metro
+Oregon,Klamath,156.0,459.0,195.0,471.0,Non-Metro
+Oregon,Lincoln,42.0,162.0,31.0,169.0,Non-Metro
+Oregon,Morrow,27.0,139.0,12.0,104.0,Non-Metro
+Oregon,Sherman,1.0,23.0,3.0,31.0,Non-Metro
+Oregon,Tillamook,20.0,145.0,24.0,169.0,Non-Metro
+Oregon,Umatilla,33.0,460.0,41.0,307.0,Non-Metro
+Oregon,Union,16.0,147.0,12.0,181.0,Non-Metro
+Oregon,Wasco,32.0,83.0,17.0,93.0,Non-Metro
+Pennsylvania,Allegheny,9.0,5.0,5.0,1.0,Metro
+Pennsylvania,Franklin,0.0,0.0,0.0,0.0,Metro
+Pennsylvania,Lehigh,0.0,0.0,0.0,0.0,Metro
+Pennsylvania,Lycoming,0.0,0.0,0.0,0.0,Metro
+Pennsylvania,Montgomery,0.0,0.0,0.0,0.0,Metro
+Pennsylvania,Northampton,0.0,0.0,1.0,0.0,Metro
+Pennsylvania,Washington,2.0,1.0,0.0,1.0,Metro
+Pennsylvania,Westmoreland,0.0,0.0,0.0,0.0,Metro
+Pennsylvania,Wyoming,0.0,0.0,0.0,0.0,Metro
+Pennsylvania,York,2.0,0.0,3.0,0.0,Metro
+Pennsylvania,Bradford,0.0,0.0,0.0,0.0,Non-Metro
+Pennsylvania,Greene,0.0,0.0,0.0,0.0,Non-Metro
+Pennsylvania,Mercer,0.0,0.0,0.0,0.0,Non-Metro
+Pennsylvania,Northumberland,0.0,0.0,0.0,0.0,Non-Metro
+Pennsylvania,Pike,0.0,1.0,0.0,0.0,Non-Metro
+Pennsylvania,Schuylkill,0.0,0.0,1.0,0.0,Non-Metro
+Pennsylvania,Snyder,0.0,0.0,0.0,0.0,Non-Metro
+Pennsylvania,Tioga,0.0,0.0,0.0,0.0,Non-Metro
+Pennsylvania,Union,0.0,0.0,0.0,0.0,Non-Metro
+Pennsylvania,Warren,0.0,0.0,0.0,0.0,Non-Metro
+Pennsylvania,Wayne,0.0,0.0,0.0,0.0,Non-Metro
+South Carolina,Aiken,328.0,2248.0,301.0,2058.0,Metro
+South Carolina,Anderson,629.0,3624.0,640.0,3399.0,Metro
+South Carolina,Beaufort,538.0,1744.0,433.0,1659.0,Metro
+South Carolina,Berkeley,542.0,2579.0,493.0,2236.0,Metro
+South Carolina,Charleston,252.0,1074.0,164.0,745.0,Metro
+South Carolina,Chester,116.0,332.0,91.0,274.0,Metro
+South Carolina,Clarendon,151.0,563.0,147.0,450.0,Metro
+South Carolina,Darlington,400.0,1405.0,332.0,1141.0,Metro
+South Carolina,Dorchester,236.0,1314.0,259.0,1212.0,Metro
+South Carolina,Edgefield,6.0,125.0,9.0,103.0,Metro
+South Carolina,Fairfield,154.0,325.0,127.0,291.0,Metro
+South Carolina,Florence,583.0,2114.0,634.0,1943.0,Metro
+South Carolina,Greenville,1654.0,7212.0,1480.0,6979.0,Metro
+South Carolina,Horry,0.0,0.0,5.0,5.0,Metro
+South Carolina,Jasper,207.0,481.0,210.0,340.0,Metro
+South Carolina,Lancaster,284.0,1089.0,277.0,1065.0,Metro
+South Carolina,Laurens,194.0,638.0,136.0,713.0,Metro
+South Carolina,Lexington,668.0,4106.0,629.0,3567.0,Metro
+South Carolina,Pickens,147.0,756.0,131.0,595.0,Metro
+South Carolina,Richland,2046.0,6911.0,1468.0,5086.0,Metro
+South Carolina,Saluda,38.0,80.0,28.0,102.0,Metro
+South Carolina,Spartanburg,1244.0,4456.0,1153.0,2976.0,Metro
+South Carolina,Sumter,395.0,1303.0,389.0,1204.0,Metro
+South Carolina,York,256.0,1496.0,334.0,1624.0,Metro
+South Carolina,Abbeville,27.0,168.0,39.0,119.0,Non-Metro
+South Carolina,Allendale,11.0,33.0,10.0,32.0,Non-Metro
+South Carolina,Bamberg,19.0,89.0,9.0,107.0,Non-Metro
+South Carolina,Barnwell,68.0,180.0,57.0,163.0,Non-Metro
+South Carolina,Cherokee,115.0,627.0,119.0,604.0,Non-Metro
+South Carolina,Chesterfield,202.0,617.0,214.0,614.0,Non-Metro
+South Carolina,Colleton,185.0,529.0,162.0,445.0,Non-Metro
+South Carolina,Dillon,183.0,408.0,166.0,351.0,Non-Metro
+South Carolina,Greenwood,115.0,615.0,96.0,574.0,Non-Metro
+South Carolina,Hampton,58.0,214.0,49.0,172.0,Non-Metro
+South Carolina,Lee,82.0,308.0,124.0,295.0,Non-Metro
+South Carolina,Marion,118.0,395.0,126.0,347.0,Non-Metro
+South Carolina,Marlboro,121.0,426.0,132.0,365.0,Non-Metro
+South Carolina,McCormick,9.0,50.0,13.0,58.0,Non-Metro
+South Carolina,Newberry,61.0,191.0,65.0,226.0,Non-Metro
+South Carolina,Oconee,179.0,1181.0,173.0,1034.0,Non-Metro
+South Carolina,Orangeburg,913.0,1656.0,714.0,1969.0,Non-Metro
+South Carolina,Williamsburg,175.0,445.0,125.0,494.0,Non-Metro
+South Dakota,Custer,15.0,60.0,7.0,33.0,Metro
+South Dakota,Lincoln,24.0,172.0,21.0,155.0,Metro
+South Dakota,McCook,4.0,18.0,5.0,16.0,Metro
+South Dakota,Meade,20.0,110.0,18.0,152.0,Metro
+South Dakota,Minnehaha,55.0,193.0,37.0,157.0,Metro
+South Dakota,Pennington,116.0,327.0,142.0,241.0,Metro
+South Dakota,Union,10.0,35.0,10.0,13.0,Metro
+South Dakota,Bon Homme,4.0,3.0,3.0,1.0,Non-Metro
+South Dakota,Brookings,12.0,40.0,6.0,35.0,Non-Metro
+South Dakota,Clay,1.0,26.0,2.0,20.0,Non-Metro
+South Dakota,Codington,5.0,39.0,7.0,30.0,Non-Metro
+South Dakota,Corson,7.0,17.0,5.0,18.0,Non-Metro
+South Dakota,Davison,12.0,6.0,6.0,6.0,Non-Metro
+South Dakota,Day,3.0,22.0,4.0,3.0,Non-Metro
+South Dakota,Deuel,6.0,12.0,3.0,7.0,Non-Metro
+South Dakota,Fall River,16.0,49.0,2.0,6.0,Non-Metro
+South Dakota,Hamlin,9.0,35.0,4.0,31.0,Non-Metro
+South Dakota,Hughes,12.0,20.0,10.0,11.0,Non-Metro
+South Dakota,Kingsbury,0.0,5.0,1.0,8.0,Non-Metro
+South Dakota,Lake,4.0,23.0,5.0,11.0,Non-Metro
+South Dakota,Lawrence,15.0,21.0,10.0,34.0,Non-Metro
+South Dakota,Marshall,3.0,15.0,3.0,9.0,Non-Metro
+South Dakota,McPherson,1.0,18.0,0.0,14.0,Non-Metro
+South Dakota,Miner,2.0,9.0,1.0,2.0,Non-Metro
+South Dakota,Moody,3.0,2.0,2.0,1.0,Non-Metro
+South Dakota,Perkins,3.0,3.0,1.0,11.0,Non-Metro
+South Dakota,Roberts,14.0,5.0,14.0,7.0,Non-Metro
+South Dakota,Spink,8.0,15.0,8.0,11.0,Non-Metro
+South Dakota,Yankton,9.0,52.0,10.0,21.0,Non-Metro
+Tennessee,Anderson,118.0,274.0,66.0,236.0,Metro
+Tennessee,Blount,279.0,477.0,332.0,351.0,Metro
+Tennessee,Bradley,147.0,439.0,138.0,366.0,Metro
+Tennessee,Campbell,39.0,157.0,26.0,97.0,Metro
+Tennessee,Cannon,4.0,10.0,1.0,17.0,Metro
+Tennessee,Carter,127.0,493.0,117.0,409.0,Metro
+Tennessee,Cheatham,133.0,198.0,96.0,193.0,Metro
+Tennessee,Chester,19.0,66.0,27.0,41.0,Metro
+Tennessee,Crockett,21.0,71.0,26.0,49.0,Metro
+Tennessee,Dickson,135.0,216.0,115.0,230.0,Metro
+Tennessee,Fayette,104.0,162.0,95.0,142.0,Metro
+Tennessee,Gibson,32.0,112.0,38.0,78.0,Metro
+Tennessee,Grainger,62.0,158.0,20.0,102.0,Metro
+Tennessee,Hamblen,152.0,313.0,102.0,273.0,Metro
+Tennessee,Hamilton,201.0,495.0,323.0,644.0,Metro
+Tennessee,Hartsville/Trousdale,18.0,99.0,30.0,78.0,Metro
+Tennessee,Hawkins,37.0,247.0,51.0,254.0,Metro
+Tennessee,Hickman,99.0,215.0,80.0,148.0,Metro
+Tennessee,Jefferson,98.0,335.0,82.0,277.0,Metro
+Tennessee,Knox,566.0,2417.0,555.0,2126.0,Metro
+Tennessee,Loudon,102.0,197.0,62.0,143.0,Metro
+Tennessee,Macon,46.0,28.0,44.0,13.0,Metro
+Tennessee,Madison,81.0,221.0,88.0,219.0,Metro
+Tennessee,Marion,41.0,99.0,44.0,66.0,Metro
+Tennessee,Maury,113.0,287.0,100.0,227.0,Metro
+Tennessee,Montgomery,101.0,400.0,183.0,388.0,Metro
+Tennessee,Morgan,59.0,108.0,56.0,103.0,Metro
+Tennessee,Polk,38.0,211.0,47.0,164.0,Metro
+Tennessee,Roane,71.0,165.0,39.0,156.0,Metro
+Tennessee,Robertson,102.0,159.0,93.0,95.0,Metro
+Tennessee,Rutherford,269.0,432.0,244.0,428.0,Metro
+Tennessee,Sequatchie,60.0,99.0,38.0,97.0,Metro
+Tennessee,Shelby,610.0,2768.0,630.0,2660.0,Metro
+Tennessee,Smith,7.0,93.0,26.0,49.0,Metro
+Tennessee,Stewart,22.0,45.0,35.0,68.0,Metro
+Tennessee,Sullivan,324.0,664.0,305.0,626.0,Metro
+Tennessee,Sumner,118.0,227.0,113.0,202.0,Metro
+Tennessee,Tipton,134.0,264.0,111.0,192.0,Metro
+Tennessee,Unicoi,18.0,41.0,13.0,29.0,Metro
+Tennessee,Union,28.0,124.0,18.0,145.0,Metro
+Tennessee,Washington,139.0,616.0,153.0,489.0,Metro
+Tennessee,Williamson,165.0,265.0,125.0,231.0,Metro
+Tennessee,Wilson,40.0,380.0,53.0,335.0,Metro
+Tennessee,Bedford,85.0,168.0,71.0,146.0,Non-Metro
+Tennessee,Benton,38.0,80.0,33.0,77.0,Non-Metro
+Tennessee,Bledsoe,3.0,27.0,3.0,33.0,Non-Metro
+Tennessee,Carroll,25.0,73.0,19.0,47.0,Non-Metro
+Tennessee,Clay,16.0,21.0,1.0,8.0,Non-Metro
+Tennessee,Cocke,154.0,331.0,108.0,288.0,Non-Metro
+Tennessee,Coffee,108.0,308.0,114.0,279.0,Non-Metro
+Tennessee,Cumberland,68.0,352.0,68.0,316.0,Non-Metro
+Tennessee,Decatur,13.0,59.0,15.0,60.0,Non-Metro
+Tennessee,DeKalb,34.0,82.0,31.0,53.0,Non-Metro
+Tennessee,Dyer,40.0,153.0,26.0,101.0,Non-Metro
+Tennessee,Fentress,49.0,152.0,76.0,155.0,Non-Metro
+Tennessee,Franklin,56.0,155.0,51.0,26.0,Non-Metro
+Tennessee,Giles,46.0,177.0,45.0,181.0,Non-Metro
+Tennessee,Greene,167.0,564.0,175.0,473.0,Non-Metro
+Tennessee,Grundy,60.0,119.0,49.0,97.0,Non-Metro
+Tennessee,Hancock,20.0,100.0,12.0,86.0,Non-Metro
+Tennessee,Hardeman,69.0,148.0,40.0,134.0,Non-Metro
+Tennessee,Hardin,68.0,234.0,60.0,186.0,Non-Metro
+Tennessee,Haywood,30.0,132.0,31.0,103.0,Non-Metro
+Tennessee,Henderson,62.0,197.0,75.0,132.0,Non-Metro
+Tennessee,Henry,39.0,177.0,34.0,159.0,Non-Metro
+Tennessee,Houston,18.0,29.0,25.0,35.0,Non-Metro
+Tennessee,Humphreys,75.0,94.0,54.0,59.0,Non-Metro
+Tennessee,Jackson,12.0,39.0,27.0,58.0,Non-Metro
+Tennessee,Johnson,45.0,95.0,51.0,112.0,Non-Metro
+Tennessee,Lake,9.0,20.0,2.0,22.0,Non-Metro
+Tennessee,Lauderdale,65.0,134.0,81.0,145.0,Non-Metro
+Tennessee,Lawrence,37.0,92.0,22.0,75.0,Non-Metro
+Tennessee,Lewis,14.0,65.0,9.0,57.0,Non-Metro
+Tennessee,Lincoln,69.0,193.0,52.0,148.0,Non-Metro
+Tennessee,Marshall,43.0,79.0,25.0,48.0,Non-Metro
+Tennessee,McMinn,79.0,220.0,81.0,221.0,Non-Metro
+Tennessee,McNairy,46.0,254.0,56.0,124.0,Non-Metro
+Tennessee,Meigs,29.0,137.0,34.0,101.0,Non-Metro
+Tennessee,Monroe,139.0,395.0,103.0,401.0,Non-Metro
+Tennessee,Moore,14.0,44.0,5.0,45.0,Non-Metro
+Tennessee,Obion,40.0,149.0,52.0,93.0,Non-Metro
+Tennessee,Overton,59.0,105.0,48.0,72.0,Non-Metro
+Tennessee,Perry,12.0,37.0,10.0,31.0,Non-Metro
+Tennessee,Putnam,65.0,277.0,59.0,191.0,Non-Metro
+Tennessee,Rhea,33.0,140.0,46.0,93.0,Non-Metro
+Tennessee,Scott,45.0,108.0,28.0,44.0,Non-Metro
+Tennessee,Sevier,148.0,553.0,130.0,368.0,Non-Metro
+Tennessee,Van Buren,11.0,18.0,7.0,33.0,Non-Metro
+Tennessee,Warren,89.0,225.0,108.0,176.0,Non-Metro
+Tennessee,Wayne,9.0,63.0,13.0,37.0,Non-Metro
+Tennessee,Weakley,26.0,93.0,37.0,69.0,Non-Metro
+Tennessee,White,28.0,96.0,33.0,79.0,Non-Metro
+Texas,Aransas,79.0,137.0,44.0,108.0,Metro
+Texas,Armstrong,2.0,11.0,2.0,7.0,Metro
+Texas,Atascosa,74.0,470.0,82.0,425.0,Metro
+Texas,Austin,40.0,108.0,27.0,122.0,Metro
+Texas,Bandera,27.0,154.0,14.0,127.0,Metro
+Texas,Bastrop,237.0,611.0,270.0,803.0,Metro
+Texas,Bell,64.0,593.0,65.0,519.0,Metro
+Texas,Bexar,973.0,6871.0,1061.0,6223.0,Metro
+Texas,Bowie,53.0,321.0,32.0,200.0,Metro
+Texas,Brazoria,201.0,1381.0,221.0,1171.0,Metro
+Texas,Brazos,54.0,237.0,28.0,134.0,Metro
+Texas,Burleson,23.0,90.0,28.0,62.0,Metro
+Texas,Caldwell,56.0,138.0,39.0,151.0,Metro
+Texas,Callahan,10.0,51.0,22.0,46.0,Metro
+Texas,Cameron,285.0,778.0,247.0,687.0,Metro
+Texas,Carson,9.0,31.0,2.0,21.0,Metro
+Texas,Chambers,104.0,722.0,104.0,628.0,Metro
+Texas,Clay,26.0,82.0,17.0,50.0,Metro
+Texas,Cochran,5.0,21.0,3.0,5.0,Metro
+Texas,Collin,70.0,369.0,53.0,397.0,Metro
+Texas,Comal,119.0,775.0,129.0,679.0,Metro
+Texas,Coryell,24.0,75.0,7.0,50.0,Metro
+Texas,Crosby,1.0,32.0,5.0,32.0,Metro
+Texas,Dallas,20.0,165.0,38.0,171.0,Metro
+Texas,Denton,69.0,470.0,74.0,479.0,Metro
+Texas,Ector,72.0,224.0,85.0,375.0,Metro
+Texas,Ellis,75.0,329.0,120.0,391.0,Metro
+Texas,El Paso,351.0,1024.0,329.0,961.0,Metro
+Texas,Fort Bend,852.0,4956.0,823.0,5192.0,Metro
+Texas,Galveston,130.0,463.0,149.0,384.0,Metro
+Texas,Garza,7.0,23.0,10.0,29.0,Metro
+Texas,Goliad,13.0,64.0,15.0,28.0,Metro
+Texas,Grayson,71.0,262.0,86.0,234.0,Metro
+Texas,Gregg,43.0,227.0,47.0,239.0,Metro
+Texas,Hardin,48.0,207.0,47.0,173.0,Metro
+Texas,Harris,10173.0,50545.0,7666.0,33050.0,Metro
+Texas,Harrison,49.0,398.0,72.0,365.0,Metro
+Texas,Hays,170.0,822.0,186.0,1014.0,Metro
+Texas,Hidalgo,600.0,2962.0,874.0,2548.0,Metro
+Texas,Hockley,1.0,53.0,7.0,53.0,Metro
+Texas,Hudspeth,3.0,7.0,4.0,3.0,Metro
+Texas,Hunt,176.0,480.0,153.0,451.0,Metro
+Texas,Irion,0.0,9.0,2.0,14.0,Metro
+Texas,Jefferson,74.0,303.0,62.0,298.0,Metro
+Texas,Johnson,171.0,411.0,161.0,434.0,Metro
+Texas,Jones,6.0,39.0,12.0,46.0,Metro
+Texas,Kaufman,141.0,503.0,136.0,427.0,Metro
+Texas,Kendall,18.0,102.0,24.0,103.0,Metro
+Texas,Lampasas,12.0,28.0,15.0,68.0,Metro
+Texas,Liberty,204.0,800.0,210.0,945.0,Metro
+Texas,Lubbock,148.0,450.0,143.0,442.0,Metro
+Texas,Lynn,2.0,8.0,5.0,12.0,Metro
+Texas,Martin,2.0,195.0,4.0,115.0,Metro
+Texas,Maverick,90.0,413.0,101.0,383.0,Metro
+Texas,McLennan,103.0,364.0,70.0,308.0,Metro
+Texas,Medina,63.0,234.0,68.0,189.0,Metro
+Texas,Midland,192.0,787.0,236.0,839.0,Metro
+Texas,Montgomery,1193.0,5239.0,1091.0,5336.0,Metro
+Texas,Nueces,46.0,127.0,63.0,139.0,Metro
+Texas,Oldham,1.0,8.0,1.0,14.0,Metro
+Texas,Orange,69.0,300.0,61.0,273.0,Metro
+Texas,Parker,148.0,994.0,157.0,760.0,Metro
+Texas,Potter,48.0,129.0,41.0,124.0,Metro
+Texas,Randall,50.0,80.0,49.0,94.0,Metro
+Texas,Robertson,15.0,81.0,13.0,83.0,Metro
+Texas,Rockwall,25.0,57.0,27.0,79.0,Metro
+Texas,Rusk,36.0,221.0,60.0,286.0,Metro
+Texas,San Jacinto,18.0,147.0,23.0,211.0,Metro
+Texas,Smith,271.0,770.0,290.0,796.0,Metro
+Texas,Tarrant,132.0,801.0,149.0,687.0,Metro
+Texas,Taylor,30.0,111.0,27.0,93.0,Metro
+Texas,Tom Green,38.0,148.0,33.0,109.0,Metro
+Texas,Travis,932.0,4239.0,834.0,3952.0,Metro
+Texas,Victoria,65.0,188.0,84.0,183.0,Metro
+Texas,Waller,73.0,416.0,63.0,437.0,Metro
+Texas,Webb,54.0,132.0,53.0,167.0,Metro
+Texas,Wichita,8.0,58.0,22.0,49.0,Metro
+Texas,Williamson,217.0,1603.0,210.0,1816.0,Metro
+Texas,Wilson,62.0,347.0,45.0,384.0,Metro
+Texas,Wise,110.0,471.0,77.0,527.0,Metro
+Texas,Andrews,4.0,116.0,3.0,66.0,Non-Metro
+Texas,Angelina,175.0,571.0,150.0,500.0,Non-Metro
+Texas,Bailey,2.0,11.0,6.0,16.0,Non-Metro
+Texas,Baylor,0.0,6.0,0.0,3.0,Non-Metro
+Texas,Bee,30.0,132.0,27.0,100.0,Non-Metro
+Texas,Blanco,8.0,32.0,21.0,47.0,Non-Metro
+Texas,Borden,2.0,7.0,0.0,15.0,Non-Metro
+Texas,Brewster,4.0,15.0,6.0,11.0,Non-Metro
+Texas,Briscoe,1.0,11.0,2.0,3.0,Non-Metro
+Texas,Brooks,3.0,7.0,10.0,11.0,Non-Metro
+Texas,Brown,30.0,189.0,48.0,190.0,Non-Metro
+Texas,Burnet,62.0,148.0,58.0,141.0,Non-Metro
+Texas,Calhoun,22.0,45.0,17.0,46.0,Non-Metro
+Texas,Camp,14.0,43.0,10.0,46.0,Non-Metro
+Texas,Castro,1.0,11.0,0.0,7.0,Non-Metro
+Texas,Cherokee,78.0,258.0,50.0,237.0,Non-Metro
+Texas,Childress,1.0,4.0,3.0,3.0,Non-Metro
+Texas,Collingsworth,2.0,2.0,2.0,1.0,Non-Metro
+Texas,Colorado,16.0,161.0,13.0,146.0,Non-Metro
+Texas,Comanche,14.0,61.0,15.0,68.0,Non-Metro
+Texas,Concho,0.0,12.0,1.0,11.0,Non-Metro
+Texas,Cooke,15.0,68.0,19.0,75.0,Non-Metro
+Texas,Crane,0.0,27.0,4.0,45.0,Non-Metro
+Texas,Crockett,6.0,34.0,6.0,24.0,Non-Metro
+Texas,Dallam,0.0,2.0,0.0,0.0,Non-Metro
+Texas,Dawson,2.0,27.0,1.0,33.0,Non-Metro
+Texas,Deaf Smith,11.0,61.0,13.0,42.0,Non-Metro
+Texas,Delta,17.0,42.0,13.0,17.0,Non-Metro
+Texas,DeWitt,16.0,59.0,15.0,54.0,Non-Metro
+Texas,Dimmit,24.0,122.0,40.0,173.0,Non-Metro
+Texas,Donley,8.0,16.0,6.0,24.0,Non-Metro
+Texas,Eastland,30.0,46.0,20.0,57.0,Non-Metro
+Texas,Edwards,6.0,25.0,1.0,19.0,Non-Metro
+Texas,Erath,20.0,47.0,25.0,64.0,Non-Metro
+Texas,Fannin,62.0,117.0,54.0,117.0,Non-Metro
+Texas,Fayette,26.0,85.0,9.0,78.0,Non-Metro
+Texas,Fisher,7.0,23.0,2.0,15.0,Non-Metro
+Texas,Floyd,7.0,23.0,18.0,51.0,Non-Metro
+Texas,Foard,0.0,0.0,0.0,0.0,Non-Metro
+Texas,Franklin,14.0,38.0,11.0,31.0,Non-Metro
+Texas,Freestone,30.0,65.0,31.0,51.0,Non-Metro
+Texas,Frio,8.0,84.0,4.0,62.0,Non-Metro
+Texas,Gaines,12.0,70.0,9.0,78.0,Non-Metro
+Texas,Gillespie,10.0,30.0,4.0,23.0,Non-Metro
+Texas,Glasscock,0.0,57.0,0.0,41.0,Non-Metro
+Texas,Gonzales,38.0,105.0,27.0,87.0,Non-Metro
+Texas,Gray,4.0,37.0,5.0,17.0,Non-Metro
+Texas,Grimes,60.0,169.0,55.0,151.0,Non-Metro
+Texas,Hall,0.0,7.0,0.0,2.0,Non-Metro
+Texas,Hamilton,4.0,3.0,4.0,18.0,Non-Metro
+Texas,Hansford,0.0,7.0,2.0,11.0,Non-Metro
+Texas,Hardeman,0.0,14.0,4.0,0.0,Non-Metro
+Texas,Hartley,3.0,14.0,0.0,2.0,Non-Metro
+Texas,Haskell,1.0,16.0,1.0,8.0,Non-Metro
+Texas,Hemphill,0.0,14.0,8.0,12.0,Non-Metro
+Texas,Henderson,161.0,522.0,125.0,499.0,Non-Metro
+Texas,Hill,44.0,229.0,40.0,155.0,Non-Metro
+Texas,Hood,94.0,329.0,84.0,346.0,Non-Metro
+Texas,Hopkins,19.0,33.0,12.0,21.0,Non-Metro
+Texas,Houston,19.0,104.0,19.0,100.0,Non-Metro
+Texas,Howard,49.0,284.0,44.0,288.0,Non-Metro
+Texas,Hutchinson,13.0,39.0,15.0,27.0,Non-Metro
+Texas,Jack,10.0,8.0,8.0,21.0,Non-Metro
+Texas,Jackson,7.0,39.0,14.0,43.0,Non-Metro
+Texas,Jasper,21.0,171.0,19.0,133.0,Non-Metro
+Texas,Jim Hogg,6.0,34.0,3.0,27.0,Non-Metro
+Texas,Jim Wells,80.0,228.0,37.0,199.0,Non-Metro
+Texas,Karnes,5.0,38.0,9.0,68.0,Non-Metro
+Texas,Kenedy,1.0,1.0,0.0,3.0,Non-Metro
+Texas,Kerr,37.0,175.0,44.0,141.0,Non-Metro
+Texas,Kimble,0.0,8.0,1.0,6.0,Non-Metro
+Texas,King,0.0,0.0,0.0,0.0,Non-Metro
+Texas,Kinney,1.0,5.0,1.0,6.0,Non-Metro
+Texas,Kleberg,13.0,40.0,9.0,14.0,Non-Metro
+Texas,Lamar,47.0,92.0,29.0,90.0,Non-Metro
+Texas,Lamb,6.0,40.0,7.0,38.0,Non-Metro
+Texas,Lavaca,15.0,50.0,15.0,55.0,Non-Metro
+Texas,Lee,19.0,86.0,16.0,90.0,Non-Metro
+Texas,Leon,16.0,135.0,14.0,117.0,Non-Metro
+Texas,Limestone,64.0,134.0,38.0,109.0,Non-Metro
+Texas,Lipscomb,1.0,10.0,1.0,7.0,Non-Metro
+Texas,Live Oak,12.0,57.0,15.0,39.0,Non-Metro
+Texas,Llano,35.0,113.0,38.0,103.0,Non-Metro
+Texas,Loving,0.0,30.0,0.0,34.0,Non-Metro
+Texas,Madison,7.0,46.0,13.0,34.0,Non-Metro
+Texas,Matagorda,78.0,207.0,92.0,205.0,Non-Metro
+Texas,McCulloch,1.0,19.0,1.0,12.0,Non-Metro
+Texas,Milam,15.0,54.0,27.0,93.0,Non-Metro
+Texas,Mills,12.0,22.0,10.0,16.0,Non-Metro
+Texas,Montague,18.0,73.0,19.0,54.0,Non-Metro
+Texas,Moore,5.0,49.0,7.0,35.0,Non-Metro
+Texas,Morris,14.0,54.0,33.0,45.0,Non-Metro
+Texas,Motley,1.0,27.0,2.0,2.0,Non-Metro
+Texas,Nacogdoches,36.0,160.0,91.0,208.0,Non-Metro
+Texas,Navarro,46.0,167.0,39.0,171.0,Non-Metro
+Texas,Newton,5.0,27.0,13.0,47.0,Non-Metro
+Texas,Nolan,6.0,37.0,10.0,28.0,Non-Metro
+Texas,Ochiltree,3.0,11.0,11.0,18.0,Non-Metro
+Texas,Palo Pinto,39.0,138.0,24.0,113.0,Non-Metro
+Texas,Panola,17.0,45.0,16.0,88.0,Non-Metro
+Texas,Parmer,3.0,17.0,7.0,15.0,Non-Metro
+Texas,Pecos,17.0,37.0,18.0,52.0,Non-Metro
+Texas,Polk,92.0,422.0,48.0,390.0,Non-Metro
+Texas,Presidio,0.0,0.0,0.0,0.0,Non-Metro
+Texas,Rains,17.0,18.0,2.0,18.0,Non-Metro
+Texas,Reagan,4.0,33.0,3.0,37.0,Non-Metro
+Texas,Real,2.0,32.0,7.0,24.0,Non-Metro
+Texas,Red River,18.0,55.0,20.0,60.0,Non-Metro
+Texas,Reeves,10.0,134.0,12.0,196.0,Non-Metro
+Texas,Refugio,4.0,26.0,5.0,22.0,Non-Metro
+Texas,Roberts,0.0,0.0,0.0,2.0,Non-Metro
+Texas,Runnels,0.0,15.0,2.0,16.0,Non-Metro
+Texas,Sabine,19.0,50.0,16.0,44.0,Non-Metro
+Texas,San Augustine,10.0,37.0,10.0,29.0,Non-Metro
+Texas,Schleicher,3.0,6.0,1.0,12.0,Non-Metro
+Texas,Scurry,5.0,41.0,7.0,23.0,Non-Metro
+Texas,Shackelford,4.0,3.0,6.0,7.0,Non-Metro
+Texas,Shelby,18.0,88.0,19.0,96.0,Non-Metro
+Texas,Somervell,5.0,63.0,3.0,52.0,Non-Metro
+Texas,Starr,74.0,171.0,136.0,227.0,Non-Metro
+Texas,Stephens,5.0,29.0,5.0,21.0,Non-Metro
+Texas,Sterling,2.0,6.0,1.0,2.0,Non-Metro
+Texas,Sutton,0.0,1.0,0.0,2.0,Non-Metro
+Texas,Swisher,0.0,13.0,0.0,6.0,Non-Metro
+Texas,Terrell,0.0,0.0,0.0,0.0,Non-Metro
+Texas,Terry,2.0,28.0,0.0,16.0,Non-Metro
+Texas,Titus,40.0,107.0,17.0,71.0,Non-Metro
+Texas,Trinity,21.0,107.0,13.0,60.0,Non-Metro
+Texas,Tyler,19.0,116.0,8.0,55.0,Non-Metro
+Texas,Uvalde,16.0,65.0,17.0,34.0,Non-Metro
+Texas,Val Verde,50.0,139.0,61.0,78.0,Non-Metro
+Texas,Van Zandt,40.0,203.0,66.0,156.0,Non-Metro
+Texas,Walker,50.0,243.0,29.0,227.0,Non-Metro
+Texas,Ward,11.0,142.0,17.0,130.0,Non-Metro
+Texas,Washington,25.0,86.0,32.0,84.0,Non-Metro
+Texas,Wharton,39.0,255.0,46.0,175.0,Non-Metro
+Texas,Wheeler,11.0,19.0,10.0,12.0,Non-Metro
+Texas,Wilbarger,2.0,9.0,1.0,57.0,Non-Metro
+Texas,Willacy,15.0,40.0,22.0,50.0,Non-Metro
+Texas,Winkler,9.0,54.0,3.0,57.0,Non-Metro
+Texas,Wood,58.0,177.0,31.0,171.0,Non-Metro
+Texas,Yoakum,16.0,31.0,12.0,39.0,Non-Metro
+Texas,Young,4.0,8.0,4.0,0.0,Non-Metro
+Texas,Zapata,7.0,71.0,13.0,60.0,Non-Metro
+Texas,Zavala,22.0,29.0,9.0,24.0,Non-Metro
+Utah,Cache,72.0,222.0,49.0,174.0,Metro
+Utah,Davis,35.0,137.0,18.0,108.0,Metro
+Utah,Tooele,54.0,260.0,76.0,217.0,Metro
+Utah,Utah,79.0,347.0,87.0,208.0,Metro
+Utah,Washington,38.0,102.0,26.0,83.0,Metro
+Utah,Weber,114.0,460.0,78.0,541.0,Metro
+Utah,Beaver,6.0,48.0,12.0,52.0,Non-Metro
+Utah,Box Elder,13.0,82.0,12.0,97.0,Non-Metro
+Utah,Carbon,15.0,33.0,26.0,32.0,Non-Metro
+Utah,Duchesne,56.0,199.0,38.0,140.0,Non-Metro
+Utah,Emery,14.0,59.0,10.0,80.0,Non-Metro
+Utah,Garfield,9.0,31.0,5.0,45.0,Non-Metro
+Utah,Grand,17.0,43.0,15.0,26.0,Non-Metro
+Utah,Iron,39.0,152.0,24.0,78.0,Non-Metro
+Utah,Kane,13.0,15.0,5.0,23.0,Non-Metro
+Utah,Millard,25.0,118.0,30.0,155.0,Non-Metro
+Utah,Sanpete,20.0,46.0,25.0,51.0,Non-Metro
+Utah,Sevier,7.0,37.0,6.0,41.0,Non-Metro
+Utah,Summit,62.0,279.0,74.0,274.0,Non-Metro
+Utah,Uintah,38.0,97.0,36.0,95.0,Non-Metro
+Utah,Wasatch,33.0,75.0,26.0,92.0,Non-Metro
+Vermont,Chittenden,1.0,4.0,0.0,338.0,Metro
+Vermont,Franklin,14.0,188.0,7.0,91.0,Metro
+Vermont,Grand Isle,1.0,17.0,3.0,5.0,Metro
+Vermont,Addison,0.0,3.0,0.0,3.0,Non-Metro
+Vermont,Bennington,0.0,9.0,6.0,14.0,Non-Metro
+Vermont,Caledonia,1.0,1.0,1.0,0.0,Non-Metro
+Vermont,Essex,4.0,2.0,0.0,0.0,Non-Metro
+Vermont,Lamoille,5.0,56.0,7.0,35.0,Non-Metro
+Vermont,Orange,0.0,1.0,0.0,0.0,Non-Metro
+Vermont,Orleans,4.0,57.0,4.0,39.0,Non-Metro
+Vermont,Rutland,3.0,17.0,3.0,26.0,Non-Metro
+Vermont,Washington,0.0,4.0,0.0,0.0,Non-Metro
+Vermont,Windham,1.0,8.0,3.0,19.0,Non-Metro
+Vermont,Windsor,1.0,2.0,1.0,4.0,Non-Metro
+Virginia,Amelia,15.0,123.0,26.0,75.0,Metro
+Virginia,Amherst,75.0,277.0,69.0,294.0,Metro
+Virginia,Appomattox,17.0,83.0,22.0,87.0,Metro
+Virginia,Augusta,75.0,636.0,88.0,544.0,Metro
+Virginia,Bedford,85.0,405.0,91.0,374.0,Metro
+Virginia,Botetourt,48.0,239.0,43.0,221.0,Metro
+Virginia,Campbell,75.0,492.0,61.0,488.0,Metro
+Virginia,Charles City,8.0,35.0,14.0,23.0,Metro
+Virginia,Clarke,2.0,41.0,9.0,57.0,Metro
+Virginia,Craig,5.0,28.0,1.0,28.0,Metro
+Virginia,Culpeper,26.0,103.0,16.0,108.0,Metro
+Virginia,Dinwiddie,101.0,293.0,81.0,237.0,Metro
+Virginia,Fauquier,50.0,184.0,43.0,221.0,Metro
+Virginia,Floyd,9.0,71.0,8.0,47.0,Metro
+Virginia,Fluvanna,40.0,166.0,26.0,131.0,Metro
+Virginia,Franklin,47.0,336.0,70.0,345.0,Metro
+Virginia,Frederick,43.0,811.0,70.0,883.0,Metro
+Virginia,Giles,16.0,63.0,12.0,82.0,Metro
+Virginia,Gloucester,46.0,426.0,26.0,408.0,Metro
+Virginia,Goochland,21.0,164.0,28.0,135.0,Metro
+Virginia,Greene,19.0,148.0,13.0,215.0,Metro
+Virginia,Hanover,199.0,996.0,185.0,824.0,Metro
+Virginia,Isle of Wight,40.0,165.0,45.0,166.0,Metro
+Virginia,King and Queen,8.0,33.0,10.0,30.0,Metro
+Virginia,King William,20.0,60.0,23.0,63.0,Metro
+Virginia,Loudoun,293.0,2535.0,297.0,2327.0,Metro
+Virginia,Mathews,2.0,70.0,9.0,65.0,Metro
+Virginia,Montgomery,66.0,247.0,56.0,192.0,Metro
+Virginia,Nelson,38.0,119.0,22.0,146.0,Metro
+Virginia,New Kent,40.0,178.0,44.0,155.0,Metro
+Virginia,Powhatan,36.0,184.0,41.0,174.0,Metro
+Virginia,Pulaski,33.0,396.0,43.0,339.0,Metro
+Virginia,Rappahannock,14.0,19.0,10.0,22.0,Metro
+Virginia,Rockingham,88.0,271.0,57.0,260.0,Metro
+Virginia,Scott,31.0,227.0,36.0,256.0,Metro
+Virginia,Spotsylvania,340.0,709.0,344.0,889.0,Metro
+Virginia,Stafford,320.0,1434.0,375.0,1275.0,Metro
+Virginia,Surry,7.0,39.0,4.0,39.0,Metro
+Virginia,Sussex,36.0,120.0,25.0,102.0,Metro
+Virginia,Warren,26.0,148.0,36.0,200.0,Metro
+Virginia,Washington,52.0,552.0,53.0,467.0,Metro
+Virginia,York,125.0,1017.0,134.0,937.0,Metro
+Virginia,Accomack,88.0,245.0,44.0,232.0,Non-Metro
+Virginia,Alleghany,30.0,70.0,32.0,71.0,Non-Metro
+Virginia,Brunswick,9.0,76.0,21.0,92.0,Non-Metro
+Virginia,Buchanan,30.0,168.0,24.0,196.0,Non-Metro
+Virginia,Buckingham,12.0,147.0,32.0,145.0,Non-Metro
+Virginia,Caroline,98.0,213.0,62.0,220.0,Non-Metro
+Virginia,Carroll,28.0,179.0,28.0,160.0,Non-Metro
+Virginia,Charlotte,14.0,70.0,8.0,67.0,Non-Metro
+Virginia,Cumberland,14.0,35.0,10.0,26.0,Non-Metro
+Virginia,Dickenson,23.0,85.0,9.0,29.0,Non-Metro
+Virginia,Essex,12.0,56.0,16.0,48.0,Non-Metro
+Virginia,Grayson,23.0,95.0,16.0,95.0,Non-Metro
+Virginia,Greensville,15.0,76.0,19.0,68.0,Non-Metro
+Virginia,Halifax,23.0,137.0,27.0,169.0,Non-Metro
+Virginia,Henry,147.0,579.0,97.0,573.0,Non-Metro
+Virginia,Highland,1.0,20.0,1.0,17.0,Non-Metro
+Virginia,King George,35.0,222.0,37.0,244.0,Non-Metro
+Virginia,Lancaster,27.0,65.0,35.0,51.0,Non-Metro
+Virginia,Lee,29.0,227.0,30.0,212.0,Non-Metro
+Virginia,Louisa,30.0,284.0,27.0,272.0,Non-Metro
+Virginia,Lunenburg,15.0,29.0,13.0,32.0,Non-Metro
+Virginia,Madison,15.0,79.0,21.0,92.0,Non-Metro
+Virginia,Mecklenburg,47.0,107.0,43.0,113.0,Non-Metro
+Virginia,Middlesex,15.0,77.0,12.0,92.0,Non-Metro
+Virginia,Northampton,16.0,46.0,20.0,33.0,Non-Metro
+Virginia,Northumberland,28.0,86.0,15.0,77.0,Non-Metro
+Virginia,Nottoway,18.0,58.0,14.0,50.0,Non-Metro
+Virginia,Orange,70.0,149.0,62.0,123.0,Non-Metro
+Virginia,Page,18.0,131.0,18.0,75.0,Non-Metro
+Virginia,Patrick,43.0,216.0,41.0,174.0,Non-Metro
+Virginia,Pittsylvania,55.0,362.0,64.0,334.0,Non-Metro
+Virginia,Prince Edward,37.0,56.0,36.0,88.0,Non-Metro
+Virginia,Richmond,5.0,14.0,12.0,15.0,Non-Metro
+Virginia,Rockbridge,42.0,216.0,39.0,196.0,Non-Metro
+Virginia,Russell,39.0,150.0,61.0,152.0,Non-Metro
+Virginia,Shenandoah,35.0,164.0,44.0,169.0,Non-Metro
+Virginia,Smyth,21.0,136.0,24.0,113.0,Non-Metro
+Virginia,Southampton,26.0,157.0,20.0,167.0,Non-Metro
+Virginia,Tazewell,48.0,347.0,38.0,253.0,Non-Metro
+Virginia,Westmoreland,26.0,100.0,20.0,63.0,Non-Metro
+Virginia,Wise,57.0,234.0,43.0,171.0,Non-Metro
+Washington,Asotin,20.0,119.0,10.0,74.0,Metro
+Washington,Benton,81.0,410.0,68.0,506.0,Metro
+Washington,Chelan,42.0,283.0,36.0,240.0,Metro
+Washington,Clark,340.0,3130.0,345.0,2245.0,Metro
+Washington,Cowlitz,97.0,291.0,56.0,250.0,Metro
+Washington,Douglas,25.0,217.0,19.0,177.0,Metro
+Washington,Franklin,54.0,113.0,46.0,141.0,Metro
+Washington,King,605.0,3947.0,490.0,3374.0,Metro
+Washington,Kitsap,534.0,2803.0,489.0,2428.0,Metro
+Washington,Pierce,1470.0,7993.0,1193.0,5826.0,Metro
+Washington,Skagit,85.0,670.0,121.0,501.0,Metro
+Washington,Skamania,12.0,88.0,7.0,87.0,Metro
+Washington,Snohomish,475.0,3647.0,442.0,3243.0,Metro
+Washington,Spokane,213.0,2617.0,230.0,2272.0,Metro
+Washington,Stevens,45.0,286.0,54.0,250.0,Metro
+Washington,Thurston,230.0,1150.0,191.0,847.0,Metro
+Washington,Walla Walla,38.0,139.0,32.0,109.0,Metro
+Washington,Whatcom,133.0,613.0,113.0,494.0,Metro
+Washington,Yakima,196.0,1098.0,162.0,1028.0,Metro
+Washington,Clallam,72.0,280.0,74.0,358.0,Non-Metro
+Washington,Columbia,6.0,33.0,8.0,29.0,Non-Metro
+Washington,Garfield,21.0,25.0,44.0,30.0,Non-Metro
+Washington,Grant,82.0,747.0,109.0,687.0,Non-Metro
+Washington,Grays Harbor,60.0,225.0,56.0,209.0,Non-Metro
+Washington,Island,49.0,463.0,56.0,398.0,Non-Metro
+Washington,Jefferson,30.0,232.0,23.0,184.0,Non-Metro
+Washington,Kittitas,15.0,186.0,19.0,174.0,Non-Metro
+Washington,Lewis,75.0,369.0,93.0,371.0,Non-Metro
+Washington,Lincoln,16.0,100.0,14.0,84.0,Non-Metro
+Washington,Mason,88.0,618.0,133.0,593.0,Non-Metro
+Washington,Pend Oreille,10.0,166.0,12.0,144.0,Non-Metro
+Washington,San Juan,9.0,116.0,6.0,102.0,Non-Metro
+Washington,Whitman,10.0,59.0,3.0,36.0,Non-Metro
+West Virginia,Berkeley,121.0,258.0,112.0,234.0,Metro
+West Virginia,Cabell,34.0,475.0,52.0,483.0,Metro
+West Virginia,Fayette,46.0,176.0,41.0,184.0,Metro
+West Virginia,Jefferson,24.0,199.0,16.0,178.0,Metro
+West Virginia,Kanawha,390.0,1037.0,273.0,982.0,Metro
+West Virginia,Marshall,5.0,60.0,7.0,28.0,Metro
+West Virginia,Monongalia,51.0,242.0,47.0,238.0,Metro
+West Virginia,Morgan,13.0,41.0,16.0,43.0,Metro
+West Virginia,Putnam,20.0,134.0,37.0,213.0,Metro
+West Virginia,Raleigh,81.0,537.0,127.0,580.0,Metro
+West Virginia,Doddridge,21.0,40.0,16.0,39.0,Non-Metro
+West Virginia,Hardy,3.0,17.0,3.0,21.0,Non-Metro
+West Virginia,Jackson,36.0,22.0,51.0,25.0,Non-Metro
+West Virginia,Logan,21.0,5.0,20.0,4.0,Non-Metro
+West Virginia,Mason,8.0,54.0,10.0,50.0,Non-Metro
+West Virginia,Nicholas,95.0,12.0,118.0,8.0,Non-Metro
+West Virginia,Randolph,63.0,122.0,68.0,145.0,Non-Metro
+West Virginia,Ritchie,2.0,16.0,4.0,30.0,Non-Metro
+West Virginia,Roane,0.0,33.0,1.0,39.0,Non-Metro
+West Virginia,Summers,0.0,16.0,2.0,23.0,Non-Metro
+West Virginia,Upshur,6.0,2.0,5.0,0.0,Non-Metro
+West Virginia,Wetzel,32.0,26.0,14.0,33.0,Non-Metro
+West Virginia,Wyoming,31.0,40.0,34.0,17.0,Non-Metro
+Wisconsin,Brown,102.0,815.0,64.0,693.0,Metro
+Wisconsin,Calumet,13.0,69.0,19.0,61.0,Metro
+Wisconsin,Chippewa,32.0,138.0,52.0,124.0,Metro
+Wisconsin,Columbia,39.0,108.0,43.0,140.0,Metro
+Wisconsin,Dane,58.0,409.0,52.0,434.0,Metro
+Wisconsin,Douglas,12.0,125.0,12.0,147.0,Metro
+Wisconsin,Eau Claire,20.0,147.0,5.0,99.0,Metro
+Wisconsin,Fond du Lac,48.0,118.0,18.0,76.0,Metro
+Wisconsin,Green,4.0,61.0,2.0,47.0,Metro
+Wisconsin,Kenosha,81.0,595.0,86.0,353.0,Metro
+Wisconsin,Kewaunee,18.0,23.0,17.0,28.0,Metro
+Wisconsin,La Crosse,15.0,141.0,6.0,103.0,Metro
+Wisconsin,Marathon,89.0,295.0,84.0,193.0,Metro
+Wisconsin,Milwaukee,176.0,140.0,157.0,149.0,Metro
+Wisconsin,Oconto,35.0,125.0,20.0,135.0,Metro
+Wisconsin,Outagamie,31.0,200.0,38.0,167.0,Metro
+Wisconsin,Ozaukee,19.0,66.0,18.0,166.0,Metro
+Wisconsin,Pierce,8.0,56.0,12.0,42.0,Metro
+Wisconsin,Racine,49.0,149.0,38.0,109.0,Metro
+Wisconsin,Rock,30.0,179.0,40.0,163.0,Metro
+Wisconsin,Sheboygan,34.0,203.0,41.0,207.0,Metro
+Wisconsin,Vernon,15.0,32.0,19.0,50.0,Metro
+Wisconsin,Washington,29.0,144.0,24.0,116.0,Metro
+Wisconsin,Waukesha,56.0,322.0,49.0,222.0,Metro
+Wisconsin,Winnebago,21.0,208.0,26.0,101.0,Metro
+Wisconsin,Adams,18.0,88.0,49.0,64.0,Non-Metro
+Wisconsin,Barron,17.0,76.0,16.0,79.0,Non-Metro
+Wisconsin,Buffalo,12.0,19.0,7.0,10.0,Non-Metro
+Wisconsin,Burnett,32.0,153.0,33.0,183.0,Non-Metro
+Wisconsin,Clark,49.0,69.0,32.0,88.0,Non-Metro
+Wisconsin,Crawford,26.0,168.0,15.0,143.0,Non-Metro
+Wisconsin,Dodge,44.0,115.0,45.0,78.0,Non-Metro
+Wisconsin,Door,8.0,42.0,18.0,64.0,Non-Metro
+Wisconsin,Grant,17.0,109.0,18.0,70.0,Non-Metro
+Wisconsin,Green Lake,0.0,27.0,0.0,26.0,Non-Metro
+Wisconsin,Jackson,25.0,95.0,13.0,112.0,Non-Metro
+Wisconsin,Jefferson,22.0,82.0,14.0,130.0,Non-Metro
+Wisconsin,Juneau,35.0,118.0,41.0,74.0,Non-Metro
+Wisconsin,Lafayette,6.0,48.0,4.0,29.0,Non-Metro
+Wisconsin,Lincoln,59.0,105.0,30.0,53.0,Non-Metro
+Wisconsin,Manitowoc,25.0,91.0,32.0,80.0,Non-Metro
+Wisconsin,Marinette,47.0,90.0,38.0,104.0,Non-Metro
+Wisconsin,Marquette,6.0,43.0,7.0,34.0,Non-Metro
+Wisconsin,Menominee,0.0,27.0,3.0,7.0,Non-Metro
+Wisconsin,Oneida,36.0,86.0,42.0,65.0,Non-Metro
+Wisconsin,Polk,30.0,137.0,49.0,103.0,Non-Metro
+Wisconsin,Portage,39.0,132.0,46.0,76.0,Non-Metro
+Wisconsin,Price,11.0,56.0,8.0,39.0,Non-Metro
+Wisconsin,Richland,14.0,26.0,10.0,25.0,Non-Metro
+Wisconsin,Rusk,25.0,35.0,20.0,38.0,Non-Metro
+Wisconsin,Sauk,34.0,170.0,23.0,171.0,Non-Metro
+Wisconsin,Sawyer,49.0,100.0,27.0,71.0,Non-Metro
+Wisconsin,Shawano,21.0,197.0,29.0,170.0,Non-Metro
+Wisconsin,Taylor,13.0,61.0,8.0,49.0,Non-Metro
+Wisconsin,Trempealeau,25.0,38.0,6.0,81.0,Non-Metro
+Wisconsin,Vilas,3.0,61.0,5.0,68.0,Non-Metro
+Wisconsin,Walworth,7.0,145.0,20.0,106.0,Non-Metro
+Wisconsin,Washburn,5.0,58.0,14.0,67.0,Non-Metro
+Wisconsin,Waupaca,18.0,27.0,18.0,23.0,Non-Metro
+Wisconsin,Waushara,9.0,95.0,5.0,82.0,Non-Metro
+Wisconsin,Wood,35.0,83.0,36.0,59.0,Non-Metro
+Wyoming,Laramie,28.0,302.0,53.0,268.0,Metro
+Wyoming,Natrona,10.0,54.0,5.0,51.0,Metro
+Wyoming,Albany,10.0,66.0,6.0,39.0,Non-Metro
+Wyoming,Campbell,40.0,112.0,32.0,91.0,Non-Metro
+Wyoming,Converse,3.0,32.0,4.0,29.0,Non-Metro
+Wyoming,Crook,5.0,14.0,3.0,18.0,Non-Metro
+Wyoming,Goshen,3.0,21.0,2.0,21.0,Non-Metro
+Wyoming,Hot Springs,0.0,4.0,0.0,3.0,Non-Metro
+Wyoming,Johnson,6.0,19.0,4.0,36.0,Non-Metro
+Wyoming,Lincoln,14.0,56.0,7.0,39.0,Non-Metro
+Wyoming,Niobrara,4.0,6.0,4.0,13.0,Non-Metro
+Wyoming,Park,19.0,77.0,17.0,50.0,Non-Metro
+Wyoming,Sheridan,3.0,50.0,10.0,19.0,Non-Metro
+Wyoming,Sublette,6.0,22.0,9.0,30.0,Non-Metro
+Wyoming,Sweetwater,9.0,85.0,11.0,87.0,Non-Metro
+Wyoming,Teton,2.0,38.0,5.0,21.0,Non-Metro
+Wyoming,Uinta,9.0,42.0,4.0,22.0,Non-Metro
+Wyoming,Washakie,0.0,18.0,2.0,7.0,Non-Metro
+Wyoming,Weston,4.0,17.0,2.0,25.0,Non-Metro

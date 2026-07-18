@@ -1,0 +1,1049 @@
+fips_code,state,county,population,poverty_pct,bachelors_pct,median_income,2023_violent_crime,2023_property_crime,2024_violent_crime,2024_property_crime,metro_status,_merge
+1013,Alabama,Butler,18807,21.0,13.8,44881,,,,,,left_only
+1037,Alabama,Coosa,10323,11.6,14.9,57063,,,,,,left_only
+1053,Alabama,Escambia,36695,21.2,12.5,44447,,,,,,left_only
+1061,Alabama,Geneva,26726,19.1,13.3,50951,,,,,,left_only
+1065,Alabama,Hale,14749,23.9,16.8,41325,,,,,,left_only
+1071,Alabama,Jackson,52839,16.8,15.6,49454,,,,,,left_only
+1083,Alabama,Limestone,107577,10.1,30.4,83534,,,,,,left_only
+1085,Alabama,Lowndes,10008,29.6,13.9,35160,,,,,,left_only
+1091,Alabama,Marengo,19027,22.6,20.4,44205,,,,,,left_only
+1103,Alabama,Morgan,123742,13.6,23.2,64858,,,,,,left_only
+1105,Alabama,Perry,8231,31.2,16.8,34368,,,,,,left_only
+1113,Alabama,Russell,58858,22.2,16.9,50046,,,,,,left_only
+1117,Alabama,Shelby,226955,6.9,46.2,93543,,,,,,left_only
+1119,Alabama,Sumter,12020,28.1,19.0,37981,,,,,,left_only
+1131,Alabama,Wilcox,10347,29.0,12.3,42236,,,,,,left_only
+2013,Alaska,Aleutians East,3423,12.4,18.1,72692,,,,,,left_only
+2016,Alaska,Aleutians West,5178,9.2,17.5,107344,,,,,,left_only
+2020,Alaska,Anchorage,289069,9.3,37.7,98152,,,,,,left_only
+2050,Alaska,Bethel,18487,24.0,10.4,70616,,,,,,left_only
+2060,Alaska,Bristol Bay,878,9.7,25.1,100625,,,,,,left_only
+2063,Alaska,Chugach,6964,4.8,29.6,88565,,,,,,left_only
+2066,Alaska,Copper River,2626,11.4,28.4,75053,,,,,,left_only
+2068,Alaska,Denali,2029,6.6,23.6,88935,,,,,,left_only
+2070,Alaska,Dillingham,4780,16.3,19.4,74250,,,,,,left_only
+2090,Alaska,Fairbanks North Star,95555,6.2,33.7,84722,,,,,,left_only
+2100,Alaska,Haines,2077,6.1,36.9,72607,,,,,,left_only
+2105,Alaska,Hoonah-Angoon,2313,12.6,23.3,62500,,,,,,left_only
+2110,Alaska,Juneau,31969,8.2,40.5,100513,,,,,,left_only
+2122,Alaska,Kenai Peninsula,59843,11.6,29.4,77722,,,,,,left_only
+2130,Alaska,Ketchikan Gateway,13870,9.5,27.0,89155,,,,,,left_only
+2150,Alaska,Kodiak Island,12878,7.7,28.6,83716,,,,,,left_only
+2158,Alaska,Kusilvak,8277,31.2,5.8,48233,,,,,,left_only
+2164,Alaska,Lake and Peninsula,1007,15.2,18.4,64000,,,,,,left_only
+2170,Alaska,Matanuska-Susitna,110677,10.3,24.3,90625,,,,,,left_only
+2180,Alaska,Nome,9925,21.1,17.5,76643,,,,,,left_only
+2185,Alaska,North Slope,10891,8.3,14.9,86313,,,,,,left_only
+2188,Alaska,Northwest Arctic,7611,18.4,12.4,81298,,,,,,left_only
+2195,Alaska,Petersburg,3394,5.7,27.5,77026,,,,,,left_only
+2198,Alaska,Prince of Wales-Hyder,5730,15.1,17.0,59079,,,,,,left_only
+2220,Alaska,Sitka,8393,8.4,34.4,101207,,,,,,left_only
+2230,Alaska,Skagway,1308,6.2,27.7,78594,,,,,,left_only
+2240,Alaska,Southeast Fairbanks,6936,13.3,19.6,74223,,,,,,left_only
+2275,Alaska,Wrangell,2106,10.9,18.9,64545,,,,,,left_only
+2282,Alaska,Yakutat,506,7.8,14.8,80625,,,,,,left_only
+2290,Alaska,Yukon-Koyukuk,5271,20.8,12.8,52642,,,,,,left_only
+4003,Arizona,Cochise,125458,15.5,27.7,58970,,,,,,left_only
+4005,Arizona,Coconino,144643,17.7,39.6,69748,,,,,,left_only
+4011,Arizona,Greenlee,9452,10.8,20.4,75239,,,,,,left_only
+4012,Arizona,La Paz,16605,18.4,13.9,49506,,,,,,left_only
+4013,Arizona,Maricopa,4491987,11.3,35.9,85518,,,,,,left_only
+4023,Arizona,Santa Cruz,48209,20.2,24.1,53614,,,,,,left_only
+5011,Arkansas,Bradley,10354,20.1,15.8,39565,,,,,,left_only
+5037,Arkansas,Cross,16681,20.1,14.8,47012,,,,,,left_only
+5039,Arkansas,Dallas,6351,11.2,11.1,44694,,,,,,left_only
+5045,Arkansas,Faulkner,126001,15.0,33.2,65071,,,,,,left_only
+5059,Arkansas,Hot Spring,33142,17.1,15.8,52644,,,,,,left_only
+5077,Arkansas,Lee,8511,27.7,6.9,36860,,,,,,left_only
+5095,Arkansas,Monroe,6681,22.2,15.6,43955,,,,,,left_only
+5099,Arkansas,Nevada,8228,28.5,11.7,41761,,,,,,left_only
+5103,Arkansas,Ouachita,22317,17.9,15.1,49838,,,,,,left_only
+5107,Arkansas,Phillips,15910,28.7,14.5,38874,,,,,,left_only
+5123,Arkansas,St. Francis,22740,27.8,12.9,41784,,,,,,left_only
+5135,Arkansas,Sharp,17597,17.3,11.9,42950,,,,,,left_only
+6045,California,Mendocino,90709,15.2,24.9,64688,,,,,,left_only
+6063,California,Plumas,19607,10.7,20.5,64946,,,,,,left_only
+6071,California,San Bernardino,2187816,13.6,22.9,82184,,,,,,left_only
+6075,California,San Francisco,836321,10.6,60.1,141446,,,,,,left_only
+6089,California,Shasta,181554,13.0,23.3,71931,,,,,,left_only
+6095,California,Solano,450824,9.7,28.4,99994,,,,,,left_only
+8009,Colorado,Baca,3460,24.1,24.1,40380,,,,,,left_only
+8014,Colorado,Broomfield,75110,5.0,58.6,121025,,,,,,left_only
+8017,Colorado,Cheyenne,1732,11.4,24.4,67768,,,,,,left_only
+8019,Colorado,Clear Creek,9358,6.8,56.3,96667,,,,,,left_only
+8021,Colorado,Conejos,7536,13.8,23.3,47209,,,,,,left_only
+8023,Colorado,Costilla,3571,22.3,27.8,36519,,,,,,left_only
+8027,Colorado,Custer,5073,9.7,35.3,72700,,,,,,left_only
+8031,Colorado,Denver,713734,11.2,55.6,91681,,,,,,left_only
+8039,Colorado,Elbert,27152,5.3,35.2,129477,,,,,,left_only
+8043,Colorado,Fremont,49394,14.0,21.0,61027,,,,,,left_only
+8049,Colorado,Grand,15794,9.0,41.8,84558,,,,,,left_only
+8051,Colorado,Gunnison,17158,13.1,59.3,77358,,,,,,left_only
+8053,Colorado,Hinsdale,939,4.5,47.1,64327,,,,,,left_only
+8055,Colorado,Huerfano,6946,17.5,27.1,52139,,,,,,left_only
+8057,Colorado,Jackson,1422,18.2,27.5,41809,,,,,,left_only
+8065,Colorado,Lake,7411,7.2,46.1,93655,,,,,,left_only
+8073,Colorado,Lincoln,5561,10.3,25.7,54257,,,,,,left_only
+8079,Colorado,Mineral,799,13.0,54.5,52455,,,,,,left_only
+8081,Colorado,Moffat,13258,11.7,21.0,70975,,,,,,left_only
+8093,Colorado,Park,17739,7.2,38.8,95450,,,,,,left_only
+8101,Colorado,Pueblo,168726,15.4,25.0,62250,,,,,,left_only
+8111,Colorado,San Juan,690,16.8,47.2,73889,,,,,,left_only
+8115,Colorado,Sedgwick,2346,14.5,27.4,52833,,,,,,left_only
+8119,Colorado,Teller,24774,7.6,37.8,80666,,,,,,left_only
+8123,Colorado,Weld,340711,9.0,32.0,93287,,,,,,left_only
+9110,Connecticut,Capitol,969029,10.3,41.5,91541,,,,,,left_only
+9120,Connecticut,Greater Bridgeport,326296,13.2,41.7,87135,,,,,,left_only
+9130,Connecticut,Lower Connecticut River Valley,174983,6.9,45.5,101117,,,,,,left_only
+9140,Connecticut,Naugatuck Valley,452303,10.3,33.8,86365,,,,,,left_only
+9150,Connecticut,Northeastern Connecticut,95829,8.6,26.2,87564,,,,,,left_only
+9160,Connecticut,Northwest Hills,112848,9.2,39.4,91035,,,,,,left_only
+9170,Connecticut,South Central Connecticut,566803,11.6,41.1,86266,,,,,,left_only
+9180,Connecticut,Southeastern Connecticut,279025,10.6,34.6,84185,,,,,,left_only
+9190,Connecticut,Western Connecticut,621232,7.4,55.0,124553,,,,,,left_only
+10001,Delaware,Kent,185043,11.3,26.7,72872,,,,,,left_only
+10003,Delaware,New Castle,573030,10.2,39.2,89901,,,,,,left_only
+10005,Delaware,Sussex,247799,11.5,32.6,78162,,,,,,left_only
+11001,District of Columbia,District of,672079,14.5,63.6,106287,,,,,,left_only
+12007,Florida,Bradford,27888,19.1,15.0,59740,,,,,,left_only
+12009,Florida,Brevard,620533,9.9,33.5,75817,,,,,,left_only
+12011,Florida,Broward,1946127,12.2,35.8,74534,,,,,,left_only
+12013,Florida,Calhoun,13593,21.2,13.1,46901,,,,,,left_only
+12017,Florida,Citrus,158693,15.5,20.4,55355,,,,,,left_only
+12027,Florida,DeSoto,34719,23.1,11.0,50868,,,,,,left_only
+12029,Florida,Dixie,16952,19.3,8.1,47655,,,,,,left_only
+12031,Florida,Duval,1007189,14.6,33.1,68447,,,,,,left_only
+12033,Florida,Escambia,323275,14.5,28.9,65715,,,,,,left_only
+12037,Florida,Franklin,12418,17.3,25.3,62734,,,,,,left_only
+12039,Florida,Gadsden,43642,27.7,20.1,46047,,,,,,left_only
+12041,Florida,Gilchrist,18494,11.2,14.5,61070,,,,,,left_only
+12043,Florida,Glades,12324,21.2,12.7,38905,,,,,,left_only
+12045,Florida,Gulf,14772,11.6,24.5,67361,,,,,,left_only
+12047,Florida,Hamilton,13445,27.3,11.2,47696,,,,,,left_only
+12055,Florida,Highlands,103808,15.4,19.7,55581,,,,,,left_only
+12057,Florida,Hillsborough,1489634,13.2,37.2,75011,,,,,,left_only
+12059,Florida,Holmes,19626,14.4,12.1,48236,,,,,,left_only
+12061,Florida,Indian River,163856,11.4,33.4,71049,,,,,,left_only
+12063,Florida,Jackson,47652,18.8,14.6,47327,,,,,,left_only
+12067,Florida,Lafayette,8035,17.8,7.9,60692,,,,,,left_only
+12069,Florida,Lake,398696,9.5,26.8,69956,,,,,,left_only
+12075,Florida,Levy,44276,17.2,16.2,53805,,,,,,left_only
+12077,Florida,Liberty,7650,20.8,15.8,53824,,,,,,left_only
+12081,Florida,Manatee,416020,10.4,34.3,75792,,,,,,left_only
+12091,Florida,Okaloosa,214281,9.3,34.2,79097,,,,,,left_only
+12095,Florida,Orange,1440471,13.0,38.4,77011,,,,,,left_only
+12097,Florida,Osceola,406943,12.5,28.3,68711,,,,,,left_only
+12101,Florida,Pasco,588758,11.1,28.0,67384,,,,,,left_only
+12109,Florida,St. Johns,292243,6.7,48.6,106169,,,,,,left_only
+12111,Florida,St. Lucie,346237,11.6,25.4,69027,,,,,,left_only
+12119,Florida,Sumter,137536,9.1,35.1,73297,,,,,,left_only
+12121,Florida,Suwannee,44484,14.2,16.4,55479,,,,,,left_only
+12125,Florida,Union,15551,18.7,10.0,64922,,,,,,left_only
+12127,Florida,Volusia,568229,12.2,27.2,66581,,,,,,left_only
+12133,Florida,Washington,25259,18.9,12.5,52723,,,,,,left_only
+13001,Georgia,Appling,18426,23.8,9.9,43728,,,,,,left_only
+13005,Georgia,Bacon,11129,20.9,11.0,50310,,,,,,left_only
+13007,Georgia,Baker,2830,29.4,16.9,44405,,,,,,left_only
+13011,Georgia,Banks,18757,12.8,17.3,68830,,,,,,left_only
+13021,Georgia,Bibb,156543,24.8,26.0,50747,,,,,,left_only
+13025,Georgia,Brantley,18171,16.9,10.9,47801,,,,,,left_only
+13037,Georgia,Calhoun,5528,22.7,12.1,55714,,,,,,left_only
+13039,Georgia,Camden,56036,15.0,22.4,72399,,,,,,left_only
+13049,Georgia,Charlton,12711,22.5,11.4,48534,,,,,,left_only
+13051,Georgia,Chatham,298143,14.3,36.8,69575,,,,,,left_only
+13053,Georgia,Chattahoochee,9181,16.2,27.6,59221,,,,,,left_only
+13063,Georgia,Clayton,298771,16.8,21.3,58507,,,,,,left_only
+13067,Georgia,Cobb,769152,8.5,50.4,98712,,,,,,left_only
+13071,Georgia,Colquitt,45907,23.9,15.7,49691,,,,,,left_only
+13083,Georgia,Dade,16196,8.5,19.0,58936,,,,,,left_only
+13091,Georgia,Dodge,19909,22.2,15.2,50152,,,,,,left_only
+13093,Georgia,Dooly,11026,19.7,13.4,56545,,,,,,left_only
+13101,Georgia,Echols,3705,12.4,14.4,61723,,,,,,left_only
+13105,Georgia,Elbert,19725,20.6,14.9,49727,,,,,,left_only
+13107,Georgia,Emanuel,22961,24.7,12.8,50053,,,,,,left_only
+13109,Georgia,Evans,10740,18.4,15.1,53908,,,,,,left_only
+13119,Georgia,Franklin,23840,20.4,16.9,52264,,,,,,left_only
+13127,Georgia,Glynn,84987,16.3,30.4,68546,,,,,,left_only
+13131,Georgia,Grady,26056,20.6,15.3,54312,,,,,,left_only
+13141,Georgia,Hancock,8630,31.5,8.4,33182,,,,,,left_only
+13153,Georgia,Houston,166902,10.1,32.3,80743,,,,,,left_only
+13157,Georgia,Jackson,80640,8.3,27.3,85012,,,,,,left_only
+13159,Georgia,Jasper,15345,14.0,19.9,59574,,,,,,left_only
+13161,Georgia,Jeff Davis,14838,26.6,11.5,40879,,,,,,left_only
+13163,Georgia,Jefferson,15468,18.8,11.2,46561,,,,,,left_only
+13165,Georgia,Jenkins,8674,23.6,7.8,36906,,,,,,left_only
+13167,Georgia,Johnson,9192,17.5,9.1,54183,,,,,,left_only
+13169,Georgia,Jones,28526,13.5,18.4,68259,,,,,,left_only
+13171,Georgia,Lamar,19098,10.5,19.5,68457,,,,,,left_only
+13179,Georgia,Liberty,66826,14.5,19.9,59013,,,,,,left_only
+13181,Georgia,Lincoln,7773,18.1,16.1,50688,,,,,,left_only
+13183,Georgia,Long,17512,16.0,12.8,64747,,,,,,left_only
+13193,Georgia,Macon,11953,25.5,11.0,37177,,,,,,left_only
+13201,Georgia,Miller,5873,24.1,21.9,58407,,,,,,left_only
+13209,Georgia,Montgomery,8675,16.4,20.2,51188,,,,,,left_only
+13211,Georgia,Morgan,20614,7.4,30.1,85692,,,,,,left_only
+13215,Georgia,Muscogee,204383,18.8,29.7,56622,,,,,,left_only
+13221,Georgia,Oglethorpe,15221,11.2,24.5,69784,,,,,,left_only
+13235,Georgia,Pulaski,9893,18.3,12.0,47688,,,,,,left_only
+13239,Georgia,Quitman,2092,15.5,9.0,36838,,,,,,left_only
+13243,Georgia,Randolph,6270,26.8,15.0,25425,,,,,,left_only
+13245,Georgia,Richmond,206040,21.1,24.1,53197,,,,,,left_only
+13249,Georgia,Schley,4539,13.2,19.0,59647,,,,,,left_only
+13251,Georgia,Screven,14057,18.1,14.7,53017,,,,,,left_only
+13253,Georgia,Seminole,9117,19.0,15.8,49559,,,,,,left_only
+13255,Georgia,Spalding,68215,18.7,17.9,60217,,,,,,left_only
+13257,Georgia,Stephens,26842,13.9,14.9,52264,,,,,,left_only
+13259,Georgia,Stewart,4978,27.8,12.3,35000,,,,,,left_only
+13265,Georgia,Taliaferro,1740,21.4,9.9,48036,,,,,,left_only
+13269,Georgia,Taylor,7786,29.4,18.1,41743,,,,,,left_only
+13271,Georgia,Telfair,12174,31.0,10.1,44948,,,,,,left_only
+13273,Georgia,Terrell,8941,33.0,11.5,43812,,,,,,left_only
+13279,Georgia,Toombs,26943,19.7,19.5,54130,,,,,,left_only
+13281,Georgia,Towns,12739,12.9,32.8,58400,,,,,,left_only
+13283,Georgia,Treutlen,6387,25.0,12.8,43750,,,,,,left_only
+13295,Georgia,Walker,68449,13.8,20.1,55887,,,,,,left_only
+13301,Georgia,Warren,5175,21.8,12.7,46776,,,,,,left_only
+13303,Georgia,Washington,19893,15.5,17.5,44009,,,,,,left_only
+13305,Georgia,Wayne,30519,20.5,14.0,49562,,,,,,left_only
+13307,Georgia,Webster,2348,26.4,11.3,40764,,,,,,left_only
+13309,Georgia,Wheeler,7434,21.5,12.2,45262,,,,,,left_only
+13315,Georgia,Wilcox,8784,23.1,14.1,48036,,,,,,left_only
+13319,Georgia,Wilkinson,8795,20.3,12.7,46673,,,,,,left_only
+15001,Hawaii,Hawaii,203684,14.6,30.9,77215,,,,,,left_only
+15003,Hawaii,Honolulu,1003666,9.1,37.7,104264,,,,,,left_only
+15005,Hawaii,Kalawao,43,31.7,32.6,86250,,,,,,left_only
+15007,Hawaii,Kauai,73610,8.8,30.2,93612,,,,,,left_only
+15009,Hawaii,Maui,164632,9.8,30.1,95076,,,,,,left_only
+16005,Idaho,Bannock,88457,12.2,30.2,64080,,,,,,left_only
+16023,Idaho,Butte,2654,21.3,13.8,43281,,,,,,left_only
+16025,Idaho,Camas,1155,6.7,27.4,55536,,,,,,left_only
+16029,Idaho,Caribou,7118,7.3,15.5,66653,,,,,,left_only
+16033,Idaho,Clark,776,12.7,17.3,52083,,,,,,left_only
+16035,Idaho,Clearwater,8921,12.5,19.4,57961,,,,,,left_only
+16045,Idaho,Gem,19854,10.4,22.3,66245,,,,,,left_only
+16059,Idaho,Lemhi,8166,11.8,22.9,52057,,,,,,left_only
+16061,Idaho,Lewis,3649,17.4,20.0,49643,,,,,,left_only
+16067,Idaho,Minidoka,21922,14.9,16.8,70060,,,,,,left_only
+16073,Idaho,Owyhee,12284,13.4,13.7,59773,,,,,,left_only
+16077,Idaho,Power,8018,8.1,16.7,59760,,,,,,left_only
+17003,Illinois,Alexander,5042,21.0,12.6,43523,,,,,,left_only
+17009,Illinois,Brown,6320,8.9,15.1,72288,,,,,,left_only
+17021,Illinois,Christian,33684,11.1,16.5,59253,,,,,,left_only
+17025,Illinois,Clay,13173,16.7,15.6,57266,,,,,,left_only
+17039,Illinois,De Witt,15461,10.1,21.4,64802,,,,,,left_only
+17041,Illinois,Douglas,19686,8.9,20.2,74186,,,,,,left_only
+17055,Illinois,Franklin,37541,16.9,17.1,53471,,,,,,left_only
+17057,Illinois,Fulton,33259,12.6,17.6,58617,,,,,,left_only
+17059,Illinois,Gallatin,4857,15.6,15.3,54626,,,,,,left_only
+17069,Illinois,Hardin,3623,10.5,12.2,57155,,,,,,left_only
+17087,Illinois,Johnson,13350,16.7,18.8,65203,,,,,,left_only
+17089,Illinois,Kane,516097,8.3,37.5,100678,,,,,,left_only
+17095,Illinois,Knox,49294,15.9,20.3,53291,,,,,,left_only
+17097,Illinois,Lake,711885,8.1,47.0,108917,,,,,,left_only
+17099,Illinois,LaSalle,109049,13.5,18.7,72281,,,,,,left_only
+17103,Illinois,Lee,34058,11.7,19.4,68459,,,,,,left_only
+17109,Illinois,McDonough,27102,19.9,31.8,50434,,,,,,left_only
+17115,Illinois,Macon,102591,14.6,24.1,62449,,,,,,left_only
+17127,Illinois,Massac,13958,14.9,16.3,62584,,,,,,left_only
+17129,Illinois,Menard,12169,9.8,26.5,81334,,,,,,left_only
+17131,Illinois,Mercer,15619,7.9,18.9,71710,,,,,,left_only
+17141,Illinois,Ogle,51536,8.9,24.0,79244,,,,,,left_only
+17151,Illinois,Pope,3757,14.3,16.8,62500,,,,,,left_only
+17159,Illinois,Richland,15675,11.9,18.9,60404,,,,,,left_only
+17169,Illinois,Schuyler,6826,19.3,18.9,66059,,,,,,left_only
+17175,Illinois,Stark,5324,12.0,19.3,62284,,,,,,left_only
+17181,Illinois,Union,16972,19.4,20.9,56420,,,,,,left_only
+17185,Illinois,Wabash,11199,14.1,18.7,53650,,,,,,left_only
+17189,Illinois,Washington,13682,7.8,24.4,75652,,,,,,left_only
+17199,Illinois,Williamson,66902,14.3,27.5,65521,,,,,,left_only
+17203,Illinois,Woodford,38348,7.6,36.1,85629,,,,,,left_only
+18001,Indiana,Adams,35995,12.4,15.2,63128,,,,,,left_only
+18007,Indiana,Benton,8708,12.1,18.8,61811,,,,,,left_only
+18009,Indiana,Blackford,12007,17.5,13.5,47560,,,,,,left_only
+18011,Indiana,Boone,72827,5.1,50.5,104865,,,,,,left_only
+18013,Indiana,Brown,15543,8.6,26.0,72644,,,,,,left_only
+18015,Indiana,Carroll,20443,8.4,15.5,64003,,,,,,left_only
+18017,Indiana,Cass,37703,12.7,15.6,56525,,,,,,left_only
+18021,Indiana,Clay,26431,10.7,17.0,67676,,,,,,left_only
+18025,Indiana,Crawford,10494,23.8,11.1,48993,,,,,,left_only
+18027,Indiana,Daviess,33442,10.4,15.1,68561,,,,,,left_only
+18029,Indiana,Dearborn,50828,8.1,26.0,82693,,,,,,left_only
+18031,Indiana,Decatur,26411,9.3,20.1,74228,,,,,,left_only
+18037,Indiana,Dubois,43563,9.5,24.3,71918,,,,,,left_only
+18041,Indiana,Fayette,23390,16.7,16.4,56659,,,,,,left_only
+18043,Indiana,Floyd,80512,10.0,31.3,78179,,,,,,left_only
+18045,Indiana,Fountain,16546,12.4,13.7,62526,,,,,,left_only
+18049,Indiana,Fulton,20411,12.6,16.2,62878,,,,,,left_only
+18051,Indiana,Gibson,32986,10.2,19.0,67763,,,,,,left_only
+18055,Indiana,Greene,30954,13.3,14.6,59753,,,,,,left_only
+18065,Indiana,Henry,48896,13.0,16.7,60144,,,,,,left_only
+18069,Indiana,Huntington,36757,10.1,23.1,62734,,,,,,left_only
+18073,Indiana,Jasper,33198,6.9,18.1,79634,,,,,,left_only
+18075,Indiana,Jay,20281,13.2,12.7,54114,,,,,,left_only
+18077,Indiana,Jefferson,33074,11.2,18.1,59987,,,,,,left_only
+18087,Indiana,LaGrange,40596,5.7,11.1,83741,,,,,,left_only
+18091,Indiana,LaPorte,112141,14.0,21.7,70452,,,,,,left_only
+18097,Indiana,Marion,971822,15.1,34.1,63450,,,,,,left_only
+18099,Indiana,Marshall,46225,10.9,20.4,68041,,,,,,left_only
+18101,Indiana,Martin,9854,16.4,13.2,65345,,,,,,left_only
+18103,Indiana,Miami,35772,15.2,16.1,61130,,,,,,left_only
+18109,Indiana,Morgan,72202,8.5,20.6,79088,,,,,,left_only
+18111,Indiana,Newton,13859,13.5,13.7,68596,,,,,,left_only
+18115,Indiana,Ohio,5993,8.9,19.0,67942,,,,,,left_only
+18117,Indiana,Orange,19746,13.3,15.2,64758,,,,,,left_only
+18119,Indiana,Owen,21434,11.9,17.0,59586,,,,,,left_only
+18121,Indiana,Parke,16346,17.2,14.2,66776,,,,,,left_only
+18125,Indiana,Pike,12187,12.2,15.7,66250,,,,,,left_only
+18131,Indiana,Pulaski,12441,11.8,13.7,59956,,,,,,left_only
+18133,Indiana,Putnam,37091,8.1,19.9,76182,,,,,,left_only
+18135,Indiana,Randolph,24425,15.0,14.4,61121,,,,,,left_only
+18137,Indiana,Ripley,29039,9.6,19.4,71084,,,,,,left_only
+18139,Indiana,Rush,16734,13.0,16.8,64393,,,,,,left_only
+18143,Indiana,Scott,24468,14.7,12.4,54583,,,,,,left_only
+18147,Indiana,Spencer,19871,6.6,21.2,70890,,,,,,left_only
+18149,Indiana,Starke,23300,14.8,12.6,62933,,,,,,left_only
+18153,Indiana,Sullivan,20766,13.5,14.3,54985,,,,,,left_only
+18155,Indiana,Switzerland,9914,11.1,10.0,65148,,,,,,left_only
+18159,Indiana,Tipton,15329,11.5,24.9,78309,,,,,,left_only
+18161,Indiana,Union,7028,6.4,20.6,79500,,,,,,left_only
+18165,Indiana,Vermillion,15452,13.3,17.2,59363,,,,,,left_only
+18169,Indiana,Wabash,30901,10.7,21.6,68414,,,,,,left_only
+18171,Indiana,Warren,8469,12.7,17.2,74635,,,,,,left_only
+18177,Indiana,Wayne,66377,16.9,20.2,56652,,,,,,left_only
+18181,Indiana,White,24709,10.0,18.3,66143,,,,,,left_only
+18183,Indiana,Whitley,34388,10.7,22.8,75790,,,,,,left_only
+19009,Iowa,Audubon,5622,11.8,20.6,54152,,,,,,left_only
+19025,Iowa,Calhoun,9858,8.6,21.5,66875,,,,,,left_only
+19053,Iowa,Decatur,7669,15.2,24.3,57146,,,,,,left_only
+19059,Iowa,Dickinson,17844,6.3,32.3,74570,,,,,,left_only
+19085,Iowa,Harrison,14645,7.5,21.2,77027,,,,,,left_only
+19089,Iowa,Howard,9459,8.4,18.7,67336,,,,,,left_only
+19109,Iowa,Kossuth,14610,9.6,22.2,65656,,,,,,left_only
+19127,Iowa,Marshall,39971,11.1,21.4,72785,,,,,,left_only
+19135,Iowa,Monroe,7546,9.2,20.0,72518,,,,,,left_only
+19137,Iowa,Montgomery,10254,12.0,18.7,63190,,,,,,left_only
+19159,Iowa,Ringgold,4664,9.0,25.2,69821,,,,,,left_only
+19179,Iowa,Wapello,35265,16.7,19.4,60034,,,,,,left_only
+19189,Iowa,Winnebago,10648,9.8,25.1,63719,,,,,,left_only
+20019,Kansas,Chautauqua,3370,16.9,18.3,54592,,,,,,left_only
+20029,Kansas,Cloud,8973,10.2,22.4,57333,,,,,,left_only
+20033,Kansas,Comanche,1685,11.2,19.2,49417,,,,,,left_only
+20039,Kansas,Decatur,2746,13.0,27.8,52030,,,,,,left_only
+20043,Kansas,Doniphan,7492,9.8,21.5,72833,,,,,,left_only
+20049,Kansas,Elk,2464,16.7,20.6,56087,,,,,,left_only
+20065,Kansas,Graham,2406,11.3,27.4,52909,,,,,,left_only
+20067,Kansas,Grant,7284,5.4,25.6,72484,,,,,,left_only
+20071,Kansas,Greeley,1296,10.0,33.5,78819,,,,,,left_only
+20075,Kansas,Hamilton,2485,3.7,20.8,61929,,,,,,left_only
+20081,Kansas,Haskell,3695,10.8,22.2,69138,,,,,,left_only
+20083,Kansas,Hodgeman,1676,6.0,28.4,63125,,,,,,left_only
+20089,Kansas,Jewell,2909,12.8,18.8,52344,,,,,,left_only
+20093,Kansas,Kearny,3910,6.1,14.6,74135,,,,,,left_only
+20095,Kansas,Kingman,7284,9.4,23.8,59819,,,,,,left_only
+20097,Kansas,Kiowa,2422,5.7,27.6,73214,,,,,,left_only
+20099,Kansas,Labette,19949,16.1,21.1,55439,,,,,,left_only
+20101,Kansas,Lane,1497,8.1,24.6,53042,,,,,,left_only
+20105,Kansas,Lincoln,2924,11.9,21.5,53546,,,,,,left_only
+20109,Kansas,Logan,2720,13.2,26.7,71389,,,,,,left_only
+20111,Kansas,Lyon,32145,15.2,27.7,59078,,,,,,left_only
+20113,Kansas,McPherson,30130,9.1,33.1,77701,,,,,,left_only
+20119,Kansas,Meade,3949,6.6,22.8,74868,,,,,,left_only
+20123,Kansas,Mitchell,5767,12.5,25.4,58233,,,,,,left_only
+20127,Kansas,Morris,5388,12.8,27.3,56716,,,,,,left_only
+20129,Kansas,Morton,2647,14.8,16.6,65625,,,,,,left_only
+20135,Kansas,Ness,2659,11.4,23.0,66107,,,,,,left_only
+20137,Kansas,Norton,5392,8.5,19.4,50305,,,,,,left_only
+20139,Kansas,Osage,15780,11.0,21.0,70216,,,,,,left_only
+20141,Kansas,Osborne,3473,12.5,23.0,59408,,,,,,left_only
+20143,Kansas,Ottawa,5782,12.1,24.3,76755,,,,,,left_only
+20145,Kansas,Pawnee,6220,11.2,18.8,63625,,,,,,left_only
+20147,Kansas,Phillips,4874,13.8,22.3,61235,,,,,,left_only
+20151,Kansas,Pratt,9120,9.5,26.6,64348,,,,,,left_only
+20153,Kansas,Rawlins,2533,10.1,17.3,65000,,,,,,left_only
+20157,Kansas,Republic,4662,14.6,25.4,53611,,,,,,left_only
+20159,Kansas,Rice,9389,7.4,24.3,63947,,,,,,left_only
+20161,Kansas,Riley,71710,22.0,48.0,59560,,,,,,left_only
+20173,Kansas,Sedgwick,524810,14.0,31.6,67675,,,,,,left_only
+20175,Kansas,Seward,21640,13.0,12.7,62269,,,,,,left_only
+20179,Kansas,Sheridan,2442,10.4,24.3,70000,,,,,,left_only
+20181,Kansas,Sherman,5919,10.0,25.1,64444,,,,,,left_only
+20183,Kansas,Smith,3579,7.8,24.6,57024,,,,,,left_only
+20185,Kansas,Stafford,4004,10.8,26.3,63786,,,,,,left_only
+20187,Kansas,Stanton,2018,12.9,23.7,70361,,,,,,left_only
+20189,Kansas,Stevens,5212,15.3,16.2,61909,,,,,,left_only
+20195,Kansas,Trego,2778,5.5,28.7,73375,,,,,,left_only
+20199,Kansas,Wallace,1459,12.8,22.7,60263,,,,,,left_only
+20203,Kansas,Wichita,2115,16.3,18.8,71282,,,,,,left_only
+20205,Kansas,Wilson,8559,15.8,21.3,57056,,,,,,left_only
+22003,Louisiana,Allen,22552,20.4,11.6,51138,,,,,,left_only
+22007,Louisiana,Assumption,20720,13.9,13.7,52546,,,,,,left_only
+22009,Louisiana,Avoyelles,39176,27.4,10.9,39439,,,,,,left_only
+22037,Louisiana,East Feliciana,19378,13.5,17.0,72899,,,,,,left_only
+22045,Louisiana,Iberia,69194,22.6,14.7,57811,,,,,,left_only
+22049,Louisiana,Jackson,14939,24.3,13.4,43345,,,,,,left_only
+22059,Louisiana,LaSalle,14804,15.5,17.4,67077,,,,,,left_only
+22069,Louisiana,Natchitoches,37047,24.1,25.6,46798,,,,,,left_only
+22071,Louisiana,Orleans,376035,22.6,42.0,55339,,,,,,left_only
+22077,Louisiana,Pointe Coupee,20438,17.8,15.5,59351,,,,,,left_only
+22081,Louisiana,Red River,7529,29.4,11.2,44539,,,,,,left_only
+22083,Louisiana,Richland,19908,23.5,18.1,52960,,,,,,left_only
+22085,Louisiana,Sabine,22085,22.7,14.5,52047,,,,,,left_only
+22097,Louisiana,St. Landry,82128,24.0,14.3,45637,,,,,,left_only
+22111,Louisiana,Union,20914,28.6,16.0,45743,,,,,,left_only
+22115,Louisiana,Vernon,47764,18.3,19.1,58281,,,,,,left_only
+24003,Maryland,Anne Arundel,590936,5.5,45.2,120324,,,,,,left_only
+24005,Maryland,Baltimore,849586,10.0,41.4,90904,,,,,,left_only
+24009,Maryland,Calvert,93791,4.0,35.3,132059,,,,,,left_only
+24029,Maryland,Kent,19265,9.5,37.9,74402,,,,,,left_only
+24033,Maryland,Prince George's,955584,10.2,36.1,100708,,,,,,left_only
+24039,Maryland,Somerset,24685,20.1,17.1,52462,,,,,,left_only
+24510,Maryland,Baltimore,577193,20.1,35.4,59623,,,,,,left_only
+25001,Massachusetts,Barnstable,230073,7.4,47.4,94452,,,,,,left_only
+25003,Massachusetts,Berkshire,128047,11.0,38.3,72565,,,,,,left_only
+25005,Massachusetts,Bristol,578436,11.6,30.6,84198,,,,,,left_only
+25007,Massachusetts,Dukes,20751,5.4,49.0,102348,,,,,,left_only
+25009,Massachusetts,Essex,807258,9.4,42.3,99431,,,,,,left_only
+25011,Massachusetts,Franklin,70922,12.2,40.3,72584,,,,,,left_only
+25013,Massachusetts,Hampden,462853,15.7,28.9,70535,,,,,,left_only
+25015,Massachusetts,Hampshire,156595,10.9,51.1,86391,,,,,,left_only
+25017,Massachusetts,Middlesex,1622896,7.5,59.0,126779,,,,,,left_only
+25019,Massachusetts,Nantucket,14299,3.0,58.4,119750,,,,,,left_only
+25021,Massachusetts,Norfolk,724540,6.6,57.6,126497,,,,,,left_only
+25023,Massachusetts,Plymouth,531889,7.1,41.2,109698,,,,,,left_only
+25025,Massachusetts,Suffolk,782172,16.5,49.9,92859,,,,,,left_only
+25027,Massachusetts,Worcester,861664,10.3,39.0,93561,,,,,,left_only
+26009,Michigan,Antrim,23876,9.4,34.3,71421,,,,,,left_only
+26013,Michigan,Baraga,8249,13.5,16.1,55117,,,,,,left_only
+26015,Michigan,Barry,62982,8.1,24.3,77873,,,,,,left_only
+26023,Michigan,Branch,44914,15.4,16.9,61958,,,,,,left_only
+26035,Michigan,Clare,31109,21.1,13.0,49805,,,,,,left_only
+26043,Michigan,Dickinson,25940,9.8,24.3,61882,,,,,,left_only
+26055,Michigan,Grand Traverse,95757,8.6,40.3,79486,,,,,,left_only
+26067,Michigan,Ionia,66706,11.4,18.0,73436,,,,,,left_only
+26071,Michigan,Iron,11650,16.9,20.6,53614,,,,,,left_only
+26079,Michigan,Kalkaska,18116,14.1,18.2,60365,,,,,,left_only
+26083,Michigan,Keweenaw,2106,8.7,43.6,53893,,,,,,left_only
+26085,Michigan,Lake,12393,20.6,12.5,49680,,,,,,left_only
+26107,Michigan,Mecosta,40321,19.2,22.7,57774,,,,,,left_only
+26109,Michigan,Menominee,23295,12.2,18.0,55688,,,,,,left_only
+26115,Michigan,Monroe,155001,11.1,23.4,75272,,,,,,left_only
+26123,Michigan,Newaygo,50414,14.3,18.4,61931,,,,,,left_only
+26133,Michigan,Osceola,23122,15.8,16.4,57050,,,,,,left_only
+26145,Michigan,Saginaw,189210,18.1,23.4,58347,,,,,,left_only
+26153,Michigan,Schoolcraft,8093,14.8,20.7,57708,,,,,,left_only
+26159,Michigan,Van Buren,75681,13.8,22.9,66902,,,,,,left_only
+26165,Michigan,Wexford,33868,12.9,21.2,63123,,,,,,left_only
+27051,Minnesota,Grant,6108,10.7,19.1,72957,,,,,,left_only
+27077,Minnesota,Lake of the Woods,3800,8.2,21.4,70091,,,,,,left_only
+27133,Minnesota,Rock,9628,9.5,26.3,70698,,,,,,left_only
+27135,Minnesota,Roseau,15301,11.0,20.5,73611,,,,,,left_only
+28001,Mississippi,Adams,29098,28.2,19.3,40250,,,,,,left_only
+28005,Mississippi,Amite,12611,27.0,8.0,35385,,,,,,left_only
+28009,Mississippi,Benton,7592,17.6,12.1,42139,,,,,,left_only
+28011,Mississippi,Bolivar,30163,33.7,26.6,37315,,,,,,left_only
+28015,Mississippi,Carroll,9828,22.4,18.5,55275,,,,,,left_only
+28017,Mississippi,Chickasaw,16994,24.1,12.4,43041,,,,,,left_only
+28019,Mississippi,Choctaw,8172,15.9,18.6,48321,,,,,,left_only
+28021,Mississippi,Claiborne,8908,27.2,20.6,34371,,,,,,left_only
+28023,Mississippi,Clarke,15424,19.2,15.1,46054,,,,,,left_only
+28025,Mississippi,Clay,18462,24.8,18.2,39904,,,,,,left_only
+28029,Mississippi,Copiah,27994,23.0,20.3,47994,,,,,,left_only
+28031,Mississippi,Covington,18226,17.7,15.9,47001,,,,,,left_only
+28037,Mississippi,Franklin,7655,23.3,18.1,45618,,,,,,left_only
+28041,Mississippi,Greene,13595,20.5,11.9,55838,,,,,,left_only
+28049,Mississippi,Hinds,222494,21.6,31.1,49966,,,,,,left_only
+28051,Mississippi,Holmes,16491,38.0,13.7,29434,,,,,,left_only
+28053,Mississippi,Humphreys,7570,26.4,19.4,32976,,,,,,left_only
+28055,Mississippi,Issaquena,1095,17.2,4.4,29271,,,,,,left_only
+28057,Mississippi,Itawamba,23942,10.8,14.8,59508,,,,,,left_only
+28059,Mississippi,Jackson,144437,14.1,24.9,64756,,,,,,left_only
+28063,Mississippi,Jefferson,7127,28.5,19.9,36207,,,,,,left_only
+28065,Mississippi,Jefferson Davis,11183,25.0,13.5,37183,,,,,,left_only
+28067,Mississippi,Jones,66839,20.8,20.0,51143,,,,,,left_only
+28073,Mississippi,Lamar,65081,16.1,33.2,69106,,,,,,left_only
+28075,Mississippi,Lauderdale,71984,25.1,21.7,50033,,,,,,left_only
+28077,Mississippi,Lawrence,11883,23.8,12.7,43368,,,,,,left_only
+28083,Mississippi,Leflore,27432,31.9,20.0,33188,,,,,,left_only
+28093,Mississippi,Marshall,33899,22.8,14.5,51875,,,,,,left_only
+28097,Mississippi,Montgomery,9708,25.6,20.6,45057,,,,,,left_only
+28101,Mississippi,Newton,21151,22.0,17.5,50426,,,,,,left_only
+28107,Mississippi,Panola,32965,24.1,15.5,43990,,,,,,left_only
+28109,Mississippi,Pearl River,56781,16.4,16.0,56535,,,,,,left_only
+28111,Mississippi,Perry,11459,18.1,11.4,50435,,,,,,left_only
+28119,Mississippi,Quitman,5908,33.5,15.2,32131,,,,,,left_only
+28121,Mississippi,Rankin,158218,10.0,32.8,77454,,,,,,left_only
+28123,Mississippi,Scott,27754,20.7,12.1,48492,,,,,,left_only
+28125,Mississippi,Sharkey,3848,31.8,15.4,35741,,,,,,left_only
+28127,Mississippi,Simpson,25817,19.4,16.5,54111,,,,,,left_only
+28139,Mississippi,Tippah,21621,18.9,16.4,51141,,,,,,left_only
+28149,Mississippi,Warren,43623,20.3,26.5,56648,,,,,,left_only
+28151,Mississippi,Washington,43674,28.8,20.5,40117,,,,,,left_only
+28157,Mississippi,Wilkinson,8376,28.2,11.6,35930,,,,,,left_only
+28161,Mississippi,Yalobusha,12439,22.7,12.3,49171,,,,,,left_only
+28163,Mississippi,Yazoo,26837,31.4,13.3,40974,,,,,,left_only
+29001,Missouri,Adair,25224,21.2,35.0,56583,,,,,,left_only
+29003,Missouri,Andrew,18086,7.4,26.9,74007,,,,,,left_only
+29005,Missouri,Atchison,5216,12.5,22.0,59260,,,,,,left_only
+29015,Missouri,Benton,19887,16.7,15.2,52200,,,,,,left_only
+29033,Missouri,Carroll,8459,10.8,20.2,61712,,,,,,left_only
+29035,Missouri,Carter,5269,19.2,13.3,45083,,,,,,left_only
+29037,Missouri,Cass,109393,6.5,28.8,87413,,,,,,left_only
+29049,Missouri,Clinton,21259,12.8,22.7,70625,,,,,,left_only
+29051,Missouri,Cole,76924,9.3,37.5,73273,,,,,,left_only
+29053,Missouri,Cooper,16835,10.8,24.0,67548,,,,,,left_only
+29055,Missouri,Crawford,22890,13.6,12.8,56345,,,,,,left_only
+29059,Missouri,Dallas,17344,21.4,14.8,53177,,,,,,left_only
+29063,Missouri,DeKalb,11176,8.7,14.8,69093,,,,,,left_only
+29067,Missouri,Douglas,11850,16.9,15.5,49828,,,,,,left_only
+29073,Missouri,Gasconade,14774,11.3,18.6,65096,,,,,,left_only
+29075,Missouri,Gentry,6224,15.6,20.5,57458,,,,,,left_only
+29081,Missouri,Harrison,8198,16.1,17.6,53364,,,,,,left_only
+29087,Missouri,Holt,4254,9.8,20.5,58516,,,,,,left_only
+29093,Missouri,Iron,9482,20.7,18.3,51161,,,,,,left_only
+29103,Missouri,Knox,3760,14.7,16.9,53333,,,,,,left_only
+29115,Missouri,Linn,11850,16.2,20.1,61975,,,,,,left_only
+29121,Missouri,Macon,15163,10.0,18.5,58318,,,,,,left_only
+29123,Missouri,Madison,12665,14.0,15.3,58435,,,,,,left_only
+29125,Missouri,Maries,8435,14.9,16.0,61359,,,,,,left_only
+29127,Missouri,Marion,28493,13.6,25.7,63908,,,,,,left_only
+29129,Missouri,Mercer,3501,14.7,17.9,60357,,,,,,left_only
+29131,Missouri,Miller,25081,14.6,21.0,55172,,,,,,left_only
+29135,Missouri,Moniteau,15303,10.4,17.2,65161,,,,,,left_only
+29141,Missouri,Morgan,21430,17.0,14.9,49663,,,,,,left_only
+29149,Missouri,Oregon,8704,21.9,14.4,44259,,,,,,left_only
+29155,Missouri,Pemiscot,15232,27.4,12.8,40748,,,,,,left_only
+29169,Missouri,Pulaski,53850,12.8,27.9,66435,,,,,,left_only
+29171,Missouri,Putnam,4675,16.2,19.3,56875,,,,,,left_only
+29179,Missouri,Reynolds,6058,17.9,15.4,44357,,,,,,left_only
+29189,Missouri,St. Louis,996618,9.6,46.9,81340,,,,,,left_only
+29199,Missouri,Scotland,4698,7.1,14.5,67568,,,,,,left_only
+29201,Missouri,Scott,37967,14.5,21.7,58847,,,,,,left_only
+29203,Missouri,Shannon,7137,16.7,14.6,59000,,,,,,left_only
+29205,Missouri,Shelby,6011,15.6,18.0,52127,,,,,,left_only
+29211,Missouri,Sullivan,5903,14.7,14.7,55500,,,,,,left_only
+29219,Missouri,Warren,36467,9.3,19.6,77989,,,,,,left_only
+29221,Missouri,Washington,23483,18.2,12.4,51886,,,,,,left_only
+29227,Missouri,Worth,1956,17.6,17.6,46167,,,,,,left_only
+29510,Missouri,St. Louis,293109,19.8,40.2,55279,,,,,,left_only
+30005,Montana,Blaine,6997,20.2,25.8,65050,,,,,,left_only
+30017,Montana,Custer,11938,11.7,29.8,63585,,,,,,left_only
+30019,Montana,Daniels,1524,11.9,27.5,58000,,,,,,left_only
+30023,Montana,Deer Lodge,9512,18.1,22.3,49533,,,,,,left_only
+30025,Montana,Fallon,2817,12.1,16.5,72284,,,,,,left_only
+30033,Montana,Garfield,938,12.2,21.3,61750,,,,,,left_only
+30059,Montana,Meagher,1979,10.7,28.5,56215,,,,,,left_only
+30093,Montana,Silver Bow,35589,16.2,27.7,57504,,,,,,left_only
+30109,Montana,Wibaux,1148,15.9,25.8,64792,,,,,,left_only
+31003,Nebraska,Antelope,6302,10.0,19.9,63750,,,,,,left_only
+31005,Nebraska,Arthur,540,9.6,32.7,67500,,,,,,left_only
+31007,Nebraska,Banner,657,9.4,32.6,71250,,,,,,left_only
+31009,Nebraska,Blaine,385,10.6,25.6,61250,,,,,,left_only
+31011,Nebraska,Boone,5366,9.2,18.9,71367,,,,,,left_only
+31013,Nebraska,Box Butte,10754,10.0,20.1,68778,,,,,,left_only
+31015,Nebraska,Boyd,1704,10.2,19.6,58984,,,,,,left_only
+31017,Nebraska,Brown,2739,12.1,21.2,51538,,,,,,left_only
+31021,Nebraska,Burt,6730,13.7,25.7,57303,,,,,,left_only
+31023,Nebraska,Butler,8413,7.6,25.2,82603,,,,,,left_only
+31029,Nebraska,Chase,3639,7.8,24.1,62782,,,,,,left_only
+31031,Nebraska,Cherry,5468,7.2,24.2,63750,,,,,,left_only
+31035,Nebraska,Clay,6084,8.1,22.9,75938,,,,,,left_only
+31039,Nebraska,Cuming,8976,7.8,24.8,70708,,,,,,left_only
+31047,Nebraska,Dawson,24020,12.3,17.5,65383,,,,,,left_only
+31049,Nebraska,Deuel,1865,9.1,22.5,61438,,,,,,left_only
+31053,Nebraska,Dodge,37146,9.3,21.5,71294,,,,,,left_only
+31057,Nebraska,Dundy,1811,12.0,23.3,56563,,,,,,left_only
+31059,Nebraska,Fillmore,5551,7.9,21.9,76354,,,,,,left_only
+31061,Nebraska,Franklin,2868,14.1,20.0,57692,,,,,,left_only
+31063,Nebraska,Frontier,2562,12.1,26.1,68207,,,,,,left_only
+31067,Nebraska,Gage,21646,13.2,22.1,64426,,,,,,left_only
+31069,Nebraska,Garden,1620,14.1,20.7,44777,,,,,,left_only
+31071,Nebraska,Garfield,1797,11.7,32.7,68611,,,,,,left_only
+31075,Nebraska,Grant,695,10.8,29.4,69063,,,,,,left_only
+31077,Nebraska,Greeley,2211,11.2,18.4,58894,,,,,,left_only
+31081,Nebraska,Hamilton,9438,6.7,29.6,79884,,,,,,left_only
+31083,Nebraska,Harlan,3006,7.2,24.2,70536,,,,,,left_only
+31085,Nebraska,Hayes,854,12.3,15.9,60313,,,,,,left_only
+31087,Nebraska,Hitchcock,2601,11.6,19.8,52016,,,,,,left_only
+31089,Nebraska,Holt,10093,10.8,27.0,67225,,,,,,left_only
+31091,Nebraska,Hooker,613,7.7,20.7,45854,,,,,,left_only
+31093,Nebraska,Howard,6492,5.4,23.0,74508,,,,,,left_only
+31097,Nebraska,Johnson,5263,6.8,19.0,59457,,,,,,left_only
+31099,Nebraska,Kearney,6697,6.7,32.9,79167,,,,,,left_only
+31103,Nebraska,Keya Paha,939,10.4,25.7,60313,,,,,,left_only
+31105,Nebraska,Kimball,3348,11.1,14.3,59438,,,,,,left_only
+31107,Nebraska,Knox,8362,13.2,19.7,64821,,,,,,left_only
+31111,Nebraska,Lincoln,34122,12.8,20.4,64342,,,,,,left_only
+31113,Nebraska,Logan,812,8.2,26.7,71650,,,,,,left_only
+31115,Nebraska,Loup,564,8.2,26.0,60156,,,,,,left_only
+31117,Nebraska,McPherson,463,7.1,24.4,61316,,,,,,left_only
+31121,Nebraska,Merrick,7696,8.7,17.6,62849,,,,,,left_only
+31125,Nebraska,Nance,3342,16.1,18.4,65438,,,,,,left_only
+31127,Nebraska,Nemaha,7035,13.0,29.2,60132,,,,,,left_only
+31129,Nebraska,Nuckolls,4089,7.4,26.6,70201,,,,,,left_only
+31133,Nebraska,Pawnee,2539,14.1,20.4,54926,,,,,,left_only
+31135,Nebraska,Perkins,2835,7.7,25.7,67500,,,,,,left_only
+31137,Nebraska,Phelps,8983,13.6,26.7,65988,,,,,,left_only
+31141,Nebraska,Platte,34358,8.7,24.1,72335,,,,,,left_only
+31149,Nebraska,Rock,1335,10.5,29.0,57500,,,,,,left_only
+31157,Nebraska,Scotts Bluff,35937,13.9,25.9,60960,,,,,,left_only
+31161,Nebraska,Sheridan,5058,10.7,21.7,56900,,,,,,left_only
+31163,Nebraska,Sherman,2974,9.5,18.8,61935,,,,,,left_only
+31165,Nebraska,Sioux,1197,11.4,25.1,54076,,,,,,left_only
+31173,Nebraska,Thurston,6666,18.0,20.2,64838,,,,,,left_only
+31175,Nebraska,Valley,4094,9.3,27.6,58902,,,,,,left_only
+31177,Nebraska,Washington,20989,6.9,36.5,90188,,,,,,left_only
+31179,Nebraska,Wayne,9786,13.2,29.4,67687,,,,,,left_only
+31181,Nebraska,Webster,3385,9.9,21.9,65197,,,,,,left_only
+31183,Nebraska,Wheeler,785,5.2,29.6,55893,,,,,,left_only
+32003,Nevada,Clark,2293764,13.2,27.3,73845,,,,,,left_only
+32017,Nevada,Lincoln,4452,6.6,19.0,69496,,,,,,left_only
+32027,Nevada,Pershing,6505,8.1,9.3,72007,,,,,,left_only
+32029,Nevada,Storey,4139,7.1,31.6,96000,,,,,,left_only
+32510,Nevada,Carson,58364,11.1,24.5,71809,,,,,,left_only
+33007,New Hampshire,Coos,31386,12.9,20.2,58439,,,,,,left_only
+33009,New Hampshire,Grafton,91759,10.1,44.8,84021,,,,,,left_only
+33011,New Hampshire,Hillsborough,424732,6.5,40.6,100436,,,,,,left_only
+33019,New Hampshire,Sullivan,43529,10.8,30.5,75929,,,,,,left_only
+34027,New Jersey,Morris,510375,5.1,57.2,134929,,,,,,left_only
+34029,New Jersey,Ocean,646434,10.4,33.7,86411,,,,,,left_only
+34039,New Jersey,Union,572549,8.9,38.6,100117,,,,,,left_only
+35003,New Mexico,Catron,3685,21.2,20.7,46439,,,,,,left_only
+35006,New Mexico,Cibola,27059,27.6,18.8,51765,,,,,,left_only
+35007,New Mexico,Colfax,12336,17.0,24.0,52690,,,,,,left_only
+35013,New Mexico,Doña Ana,221665,22.2,31.4,55663,,,,,,left_only
+35015,New Mexico,Eddy,61114,12.4,19.8,79605,,,,,,left_only
+35017,New Mexico,Grant,27856,19.5,28.8,45921,,,,,,left_only
+35021,New Mexico,Harding,748,18.7,30.3,41250,,,,,,left_only
+35027,New Mexico,Lincoln,20227,16.0,28.8,51643,,,,,,left_only
+35028,New Mexico,Los Alamos,19374,2.9,68.2,143188,,,,,,left_only
+35029,New Mexico,Luna,25420,26.1,14.7,37917,,,,,,left_only
+35035,New Mexico,Otero,68235,20.0,21.6,52717,,,,,,left_only
+35037,New Mexico,Quay,8616,25.4,20.4,43698,,,,,,left_only
+35039,New Mexico,Rio Arriba,40165,20.1,18.8,53901,,,,,,left_only
+35041,New Mexico,Roosevelt,19002,21.6,21.3,52445,,,,,,left_only
+35043,New Mexico,Sandoval,151538,10.0,33.4,84053,,,,,,left_only
+35047,New Mexico,San Miguel,27036,22.0,26.2,47400,,,,,,left_only
+35051,New Mexico,Sierra,11511,24.9,16.3,37840,,,,,,left_only
+35055,New Mexico,Taos,34516,14.4,37.1,58908,,,,,,left_only
+35059,New Mexico,Union,4039,19.5,18.1,45319,,,,,,left_only
+36001,New York,Albany,315374,12.9,45.2,83149,,,,,,left_only
+36003,New York,Allegany,47027,16.8,24.6,61233,,,,,,left_only
+36005,New York,Bronx,1419250,26.9,22.0,49036,,,,,,left_only
+36011,New York,Cayuga,75464,13.8,23.9,66583,,,,,,left_only
+36017,New York,Chenango,46685,12.2,19.2,62093,,,,,,left_only
+36019,New York,Clinton,78961,13.8,26.8,69208,,,,,,left_only
+36021,New York,Columbia,61245,11.4,38.1,83619,,,,,,left_only
+36031,New York,Essex,37077,11.8,31.3,70215,,,,,,left_only
+36033,New York,Franklin,47066,16.5,23.8,63747,,,,,,left_only
+36041,New York,Hamilton,5102,10.0,26.9,68950,,,,,,left_only
+36047,New York,Kings,2646306,18.9,41.3,78548,,,,,,left_only
+36061,New York,New York,1627788,15.8,64.0,104553,,,,,,left_only
+36071,New York,Orange,403840,13.0,32.2,96497,,,,,,left_only
+36073,New York,Orleans,39686,13.0,17.5,63838,,,,,,left_only
+36081,New York,Queens,2330124,12.2,35.3,84961,,,,,,left_only
+36085,New York,Richmond,492734,10.9,35.8,98290,,,,,,left_only
+36087,New York,Rockland,338936,15.6,42.1,110631,,,,,,left_only
+36115,New York,Washington,60883,10.8,21.2,72342,,,,,,left_only
+36119,New York,Westchester,996888,8.9,52.5,118411,,,,,,left_only
+37005,North Carolina,Alleghany,11075,17.4,22.8,44272,,,,,,left_only
+37013,North Carolina,Beaufort,44597,18.0,20.6,57997,,,,,,left_only
+37015,North Carolina,Bertie,17482,19.8,17.8,45931,,,,,,left_only
+37035,North Carolina,Catawba,162051,12.8,24.9,64544,,,,,,left_only
+37047,North Carolina,Columbus,50453,18.8,15.1,48184,,,,,,left_only
+37051,North Carolina,Cumberland,336749,17.2,27.2,58780,,,,,,left_only
+37057,North Carolina,Davidson,171063,13.8,20.7,62426,,,,,,left_only
+37061,North Carolina,Duplin,49053,17.9,17.5,51880,,,,,,left_only
+37063,North Carolina,Durham,329405,12.0,53.5,79501,,,,,,left_only
+37069,North Carolina,Franklin,71962,10.1,24.4,71386,,,,,,left_only
+37075,North Carolina,Graham,8041,8.7,16.8,49038,,,,,,left_only
+37079,North Carolina,Greene,20421,22.4,12.2,50904,,,,,,left_only
+37095,North Carolina,Hyde,4625,22.4,13.7,47338,,,,,,left_only
+37099,North Carolina,Jackson,43089,19.3,30.0,53479,,,,,,left_only
+37103,North Carolina,Jones,9245,21.3,17.9,55659,,,,,,left_only
+37107,North Carolina,Lenoir,54917,22.5,15.8,44795,,,,,,left_only
+37113,North Carolina,Macon,37533,14.4,24.6,53298,,,,,,left_only
+37119,North Carolina,Mecklenburg,1130906,10.4,48.6,83765,,,,,,left_only
+37121,North Carolina,Mitchell,14973,13.0,23.1,58089,,,,,,left_only
+37127,North Carolina,Nash,95451,14.0,21.7,60704,,,,,,left_only
+37131,North Carolina,Northampton,17212,20.0,19.0,47935,,,,,,left_only
+37133,North Carolina,Onslow,208537,11.7,26.1,64568,,,,,,left_only
+37151,North Carolina,Randolph,145322,14.8,17.6,59047,,,,,,left_only
+37167,North Carolina,Stanly,63557,14.2,19.7,61631,,,,,,left_only
+37169,North Carolina,Stokes,44889,12.0,18.5,60039,,,,,,left_only
+37171,North Carolina,Surry,71407,16.7,19.4,56095,,,,,,left_only
+37181,North Carolina,Vance,42361,19.0,18.5,46943,,,,,,left_only
+37187,North Carolina,Washington,10905,24.7,12.2,41750,,,,,,left_only
+38001,North Dakota,Adams,2179,14.5,20.8,55417,,,,,,left_only
+38005,North Dakota,Benson,5861,22.2,22.1,68049,,,,,,left_only
+38009,North Dakota,Bottineau,6390,7.6,27.4,83460,,,,,,left_only
+38011,North Dakota,Bowman,2935,9.5,27.3,83773,,,,,,left_only
+38013,North Dakota,Burke,2163,5.1,23.5,96339,,,,,,left_only
+38021,North Dakota,Dickey,4959,10.8,27.1,63125,,,,,,left_only
+38023,North Dakota,Divide,2174,7.3,20.4,89297,,,,,,left_only
+38027,North Dakota,Eddy,2319,12.8,28.2,55389,,,,,,left_only
+38031,North Dakota,Foster,3372,9.1,27.2,83412,,,,,,left_only
+38033,North Dakota,Golden Valley,1679,18.0,18.0,76528,,,,,,left_only
+38037,North Dakota,Grant,2276,17.4,21.2,56750,,,,,,left_only
+38039,North Dakota,Griggs,2340,10.1,27.4,64737,,,,,,left_only
+38041,North Dakota,Hettinger,2453,9.3,18.7,70827,,,,,,left_only
+38043,North Dakota,Kidder,2374,10.3,21.3,61850,,,,,,left_only
+38045,North Dakota,LaMoure,4107,10.8,24.2,70263,,,,,,left_only
+38047,North Dakota,Logan,1848,11.5,26.2,61339,,,,,,left_only
+38063,North Dakota,Nelson,3015,10.0,28.2,68051,,,,,,left_only
+38065,North Dakota,Oliver,1821,4.7,20.5,76953,,,,,,left_only
+38069,North Dakota,Pierce,3961,12.2,27.9,63214,,,,,,left_only
+38071,North Dakota,Ramsey,11563,16.3,27.6,61319,,,,,,left_only
+38075,North Dakota,Renville,2277,7.1,22.0,76311,,,,,,left_only
+38085,North Dakota,Sioux,3789,42.7,11.2,41676,,,,,,left_only
+38087,North Dakota,Slope,795,6.4,22.8,62500,,,,,,left_only
+38091,North Dakota,Steele,1731,13.3,29.6,80313,,,,,,left_only
+38103,North Dakota,Wells,3942,10.5,22.3,61346,,,,,,left_only
+39011,Ohio,Auglaize,46209,7.5,20.8,76454,,,,,,left_only
+39015,Ohio,Brown,43710,17.4,15.8,69990,,,,,,left_only
+39019,Ohio,Carroll,26731,12.5,14.0,64675,,,,,,left_only
+39023,Ohio,Clark,135445,15.6,18.5,60846,,,,,,left_only
+39035,Ohio,Cuyahoga,1249418,16.2,35.9,62823,,,,,,left_only
+39051,Ohio,Fulton,42434,8.7,18.8,72866,,,,,,left_only
+39055,Ohio,Geauga,95479,5.8,38.7,100783,,,,,,left_only
+39059,Ohio,Guernsey,38283,15.8,15.3,55756,,,,,,left_only
+39065,Ohio,Hardin,30527,18.2,18.9,58001,,,,,,left_only
+39073,Ohio,Hocking,27938,17.1,14.4,61366,,,,,,left_only
+39077,Ohio,Huron,58412,12.0,16.9,65972,,,,,,left_only
+39081,Ohio,Jefferson,64855,16.9,20.6,56983,,,,,,left_only
+39083,Ohio,Knox,62888,11.0,24.3,73988,,,,,,left_only
+39085,Ohio,Lake,232101,8.2,30.5,77952,,,,,,left_only
+39087,Ohio,Lawrence,57385,17.5,18.6,54842,,,,,,left_only
+39089,Ohio,Licking,180311,10.1,29.3,81033,,,,,,left_only
+39091,Ohio,Logan,46140,11.3,18.3,69183,,,,,,left_only
+39093,Ohio,Lorain,314588,12.8,27.9,70693,,,,,,left_only
+39101,Ohio,Marion,65145,15.3,13.7,57306,,,,,,left_only
+39119,Ohio,Muskingum,86382,15.6,20.3,59203,,,,,,left_only
+39121,Ohio,Noble,14252,11.7,13.7,55360,,,,,,left_only
+39123,Ohio,Ottawa,40161,8.4,28.5,75728,,,,,,left_only
+39137,Ohio,Putnam,34352,7.1,26.3,82785,,,,,,left_only
+39143,Ohio,Sandusky,58770,13.2,19.1,62500,,,,,,left_only
+39169,Ohio,Wayne,116618,8.7,24.7,71769,,,,,,left_only
+39171,Ohio,Williams,36862,11.9,14.2,61834,,,,,,left_only
+39175,Ohio,Wyandot,21699,7.5,20.7,71878,,,,,,left_only
+41011,Oregon,Coos,64832,15.6,21.7,60313,,,,,,left_only
+41015,Oregon,Curry,23463,13.3,24.2,64769,,,,,,left_only
+41023,Oregon,Grant,7238,15.2,19.7,59800,,,,,,left_only
+41025,Oregon,Harney,7515,12.8,15.6,48338,,,,,,left_only
+41037,Oregon,Lake,8254,17.8,20.9,61222,,,,,,left_only
+41045,Oregon,Malheur,31701,17.8,15.5,49902,,,,,,left_only
+41063,Oregon,Wallowa,7532,7.8,36.9,65559,,,,,,left_only
+41069,Oregon,Wheeler,1434,10.0,20.4,51250,,,,,,left_only
+42001,Pennsylvania,Adams,105183,8.4,24.8,81071,,,,,,left_only
+42005,Pennsylvania,Armstrong,65069,11.3,18.9,64295,,,,,,left_only
+42007,Pennsylvania,Beaver,166993,10.1,28.3,70156,,,,,,left_only
+42009,Pennsylvania,Bedford,47503,11.0,16.3,60302,,,,,,left_only
+42011,Pennsylvania,Berks,429989,11.7,27.2,77684,,,,,,left_only
+42013,Pennsylvania,Blair,121854,13.0,24.1,60594,,,,,,left_only
+42017,Pennsylvania,Bucks,645993,6.1,43.9,111951,,,,,,left_only
+42019,Pennsylvania,Butler,195870,8.0,38.6,86775,,,,,,left_only
+42021,Pennsylvania,Cambria,132355,14.2,23.0,56292,,,,,,left_only
+42023,Pennsylvania,Cameron,4475,16.0,11.3,47681,,,,,,left_only
+42025,Pennsylvania,Carbon,65191,12.0,18.3,67877,,,,,,left_only
+42027,Pennsylvania,Centre,158041,16.9,46.5,72748,,,,,,left_only
+42029,Pennsylvania,Chester,540896,5.9,56.6,123041,,,,,,left_only
+42031,Pennsylvania,Clarion,37297,13.9,23.3,60668,,,,,,left_only
+42033,Pennsylvania,Clearfield,78902,13.8,20.1,60181,,,,,,left_only
+42035,Pennsylvania,Clinton,37707,14.2,21.3,58842,,,,,,left_only
+42037,Pennsylvania,Columbia,65055,15.7,24.9,61992,,,,,,left_only
+42039,Pennsylvania,Crawford,83189,12.8,21.2,60254,,,,,,left_only
+42041,Pennsylvania,Cumberland,264422,7.8,39.6,85634,,,,,,left_only
+42043,Pennsylvania,Dauphin,287484,12.3,34.3,74159,,,,,,left_only
+42045,Pennsylvania,Delaware,576195,10.2,41.6,88576,,,,,,left_only
+42047,Pennsylvania,Elk,30703,9.1,19.9,64103,,,,,,left_only
+42049,Pennsylvania,Erie,269544,15.4,29.6,61476,,,,,,left_only
+42051,Pennsylvania,Fayette,126967,17.4,18.9,56093,,,,,,left_only
+42053,Pennsylvania,Forest,6785,14.7,12.1,50061,,,,,,left_only
+42057,Pennsylvania,Fulton,14545,11.7,17.1,64798,,,,,,left_only
+42061,Pennsylvania,Huntingdon,43844,11.0,18.2,65429,,,,,,left_only
+42063,Pennsylvania,Indiana,83213,12.8,26.9,58739,,,,,,left_only
+42065,Pennsylvania,Jefferson,44099,15.3,17.5,56898,,,,,,left_only
+42067,Pennsylvania,Juniata,23419,10.0,15.0,63923,,,,,,left_only
+42069,Pennsylvania,Lackawanna,215834,14.0,30.1,64691,,,,,,left_only
+42071,Pennsylvania,Lancaster,555151,8.7,31.0,83703,,,,,,left_only
+42073,Pennsylvania,Lawrence,85423,11.6,22.8,60779,,,,,,left_only
+42075,Pennsylvania,Lebanon,143592,10.6,24.0,76350,,,,,,left_only
+42079,Pennsylvania,Luzerne,325978,15.4,25.0,62321,,,,,,left_only
+42083,Pennsylvania,McKean,40149,13.7,20.3,61705,,,,,,left_only
+42087,Pennsylvania,Mifflin,46074,16.0,13.2,61415,,,,,,left_only
+42089,Pennsylvania,Monroe,167784,11.3,27.9,82374,,,,,,left_only
+42093,Pennsylvania,Montour,18079,8.8,36.6,72926,,,,,,left_only
+42099,Pennsylvania,Perry,45988,8.0,18.6,78824,,,,,,left_only
+42101,Pennsylvania,Philadelphia,1582432,22.0,34.6,60698,,,,,,left_only
+42105,Pennsylvania,Potter,16276,11.7,17.1,59840,,,,,,left_only
+42111,Pennsylvania,Somerset,73255,11.2,17.3,59378,,,,,,left_only
+42113,Pennsylvania,Sullivan,5849,11.0,19.7,64758,,,,,,left_only
+42115,Pennsylvania,Susquehanna,38349,10.9,19.8,66930,,,,,,left_only
+42121,Pennsylvania,Venango,50096,12.8,19.7,61626,,,,,,left_only
+44001,Rhode Island,Bristol,50568,6.8,51.8,110926,,,,,,left_only
+44003,Rhode Island,Kent,170658,7.4,34.3,91278,,,,,,left_only
+44005,Rhode Island,Newport,85095,8.6,53.0,100859,,,,,,left_only
+44007,Rhode Island,Providence,658977,13.0,32.2,78204,,,,,,left_only
+44009,Rhode Island,Washington,130073,8.0,50.5,102478,,,,,,left_only
+45017,South Carolina,Calhoun,14150,16.3,21.8,56690,,,,,,left_only
+45043,South Carolina,Georgetown,64200,14.4,32.5,66734,,,,,,left_only
+45055,South Carolina,Kershaw,66924,14.1,22.8,64343,,,,,,left_only
+45087,South Carolina,Union,26990,22.7,13.5,41200,,,,,,left_only
+46003,South Dakota,Aurora,2573,8.4,18.7,74130,,,,,,left_only
+46005,South Dakota,Beadle,19279,13.8,26.4,63082,,,,,,left_only
+46007,South Dakota,Bennett,3354,31.9,20.3,44569,,,,,,left_only
+46013,South Dakota,Brown,38079,10.6,33.2,70239,,,,,,left_only
+46015,South Dakota,Brule,5261,10.5,30.2,74043,,,,,,left_only
+46017,South Dakota,Buffalo,1757,32.5,7.0,47000,,,,,,left_only
+46019,South Dakota,Butte,10538,7.2,19.4,67692,,,,,,left_only
+46021,South Dakota,Campbell,1481,8.5,29.5,65000,,,,,,left_only
+46023,South Dakota,Charles Mix,9281,22.8,25.1,64850,,,,,,left_only
+46025,South Dakota,Clark,3876,11.1,16.2,62885,,,,,,left_only
+46041,South Dakota,Dewey,5230,32.3,17.3,57928,,,,,,left_only
+46043,South Dakota,Douglas,2823,13.7,22.9,78125,,,,,,left_only
+46045,South Dakota,Edmunds,4033,8.5,29.5,77266,,,,,,left_only
+46049,South Dakota,Faulk,2137,25.6,18.3,58000,,,,,,left_only
+46051,South Dakota,Grant,7544,11.2,25.5,73818,,,,,,left_only
+46053,South Dakota,Gregory,3993,11.0,20.9,52432,,,,,,left_only
+46055,South Dakota,Haakon,1708,8.2,19.5,59231,,,,,,left_only
+46059,South Dakota,Hand,3045,6.6,26.2,72054,,,,,,left_only
+46061,South Dakota,Hanson,3473,6.2,21.5,86375,,,,,,left_only
+46063,South Dakota,Harding,1092,5.6,30.4,74766,,,,,,left_only
+46067,South Dakota,Hutchinson,7393,10.0,25.7,74459,,,,,,left_only
+46069,South Dakota,Hyde,1305,8.2,21.1,74279,,,,,,left_only
+46071,South Dakota,Jackson,2826,37.5,11.4,26686,,,,,,left_only
+46073,South Dakota,Jerauld,1845,10.4,21.1,75417,,,,,,left_only
+46075,South Dakota,Jones,1030,15.8,25.3,64688,,,,,,left_only
+46085,South Dakota,Lyman,3717,24.6,25.3,61169,,,,,,left_only
+46095,South Dakota,Mellette,2043,46.2,16.3,51364,,,,,,left_only
+46102,South Dakota,Oglala Lakota,13587,52.8,9.8,34769,,,,,,left_only
+46107,South Dakota,Potter,2430,7.7,26.6,71726,,,,,,left_only
+46111,South Dakota,Sanborn,2370,11.4,19.2,69870,,,,,,left_only
+46117,South Dakota,Stanley,3012,2.1,25.4,77000,,,,,,left_only
+46119,South Dakota,Sully,1481,7.9,20.9,70250,,,,,,left_only
+46121,South Dakota,Todd,9293,49.0,16.6,39148,,,,,,left_only
+46123,South Dakota,Tripp,5607,18.9,19.9,58854,,,,,,left_only
+46125,South Dakota,Turner,8772,8.5,26.2,75283,,,,,,left_only
+46129,South Dakota,Walworth,5298,15.3,31.1,62722,,,,,,left_only
+46137,South Dakota,Ziebach,2410,38.2,14.1,47333,,,,,,left_only
+47025,Tennessee,Claiborne,32221,18.2,17.3,46587,,,,,,left_only
+47037,Tennessee,Davidson,709846,13.9,47.3,75664,,,,,,left_only
+47137,Tennessee,Pickett,5062,25.8,17.2,44591,,,,,,left_only
+47169,Tennessee,Trousdale,11805,10.3,10.1,63190,,,,,,left_only
+48001,Texas,Anderson,57825,17.1,14.5,58846,,,,,,left_only
+48009,Texas,Archer,8734,11.7,25.2,71958,,,,,,left_only
+48035,Texas,Bosque,18546,9.1,20.7,69339,,,,,,left_only
+48067,Texas,Cass,28582,17.3,17.6,54328,,,,,,left_only
+48081,Texas,Coke,3315,14.1,21.1,46431,,,,,,left_only
+48083,Texas,Coleman,7765,15.0,17.9,52364,,,,,,left_only
+48101,Texas,Cottle,1302,22.8,21.8,58819,,,,,,left_only
+48109,Texas,Culberson,2181,17.7,16.3,42672,,,,,,left_only
+48125,Texas,Dickens,1641,14.5,19.1,50417,,,,,,left_only
+48131,Texas,Duval,9824,29.0,7.0,50081,,,,,,left_only
+48145,Texas,Falls,17063,14.6,15.0,55372,,,,,,left_only
+48187,Texas,Guadalupe,178368,8.8,30.9,93776,,,,,,left_only
+48189,Texas,Hale,32247,19.0,15.6,52788,,,,,,left_only
+48243,Texas,Jeff Davis,1740,31.2,30.4,32625,,,,,,left_only
+48263,Texas,Kent,727,8.4,26.9,71420,,,,,,left_only
+48275,Texas,Knox,3322,11.4,15.6,56304,,,,,,left_only
+48283,Texas,La Salle,6946,22.0,8.1,55469,,,,,,left_only
+48311,Texas,McMullen,623,9.1,15.0,45833,,,,,,left_only
+48315,Texas,Marion,9631,18.4,16.0,47447,,,,,,left_only
+48319,Texas,Mason,3951,6.4,40.1,68750,,,,,,left_only
+48327,Texas,Menard,1964,21.1,22.9,48191,,,,,,left_only
+48335,Texas,Mitchell,8989,13.2,13.9,56033,,,,,,left_only
+48409,Texas,San Patricio,69519,15.1,17.2,67512,,,,,,left_only
+48411,Texas,San Saba,5802,14.5,21.7,54855,,,,,,left_only
+48421,Texas,Sherman,2434,6.3,25.6,74167,,,,,,left_only
+48433,Texas,Stonewall,1244,8.7,14.1,61250,,,,,,left_only
+48447,Texas,Throckmorton,1589,14.0,25.0,58864,,,,,,left_only
+48459,Texas,Upshur,41864,13.3,17.5,62794,,,,,,left_only
+48461,Texas,Upton,3227,17.1,8.8,52321,,,,,,left_only
+49009,Utah,Daggett,747,10.1,11.6,58750,,,,,,left_only
+49023,Utah,Juab,12273,9.0,20.2,89803,,,,,,left_only
+49029,Utah,Morgan,12585,1.7,38.8,126092,,,,,,left_only
+49031,Utah,Piute,1705,11.1,19.0,44650,,,,,,left_only
+49033,Utah,Rich,2588,9.5,24.5,76875,,,,,,left_only
+49035,Utah,Salt Lake,1184689,8.4,38.6,94658,,,,,,left_only
+49037,Utah,San Juan,14466,18.4,20.2,54890,,,,,,left_only
+49055,Utah,Wayne,2557,9.1,25.2,70074,,,,,,left_only
+51003,Virginia,Albemarle,113683,6.8,60.6,102617,,,,,,left_only
+51013,Virginia,Arlington,235463,7.1,77.1,140160,,,,,,left_only
+51017,Virginia,Bath,4123,21.1,15.6,61709,,,,,,left_only
+51021,Virginia,Bland,6211,12.7,15.4,61375,,,,,,left_only
+51036,Virginia,Charles,6686,11.4,16.0,70339,,,,,,left_only
+51041,Virginia,Chesterfield,371610,6.8,42.7,98910,,,,,,left_only
+51059,Virginia,Fairfax,1144474,5.9,64.3,150113,,,,,,left_only
+51087,Virginia,Henrico,334434,8.4,45.7,86397,,,,,,left_only
+51095,Virginia,James,80046,6.5,50.2,107046,,,,,,left_only
+51149,Virginia,Prince George,42873,8.0,24.0,88225,,,,,,left_only
+51153,Virginia,Prince William,484625,6.1,44.5,128873,,,,,,left_only
+51161,Virginia,Roanoke,96793,7.3,37.4,82931,,,,,,left_only
+51197,Virginia,Wythe,28219,15.6,19.7,55359,,,,,,left_only
+51510,Virginia,Alexandria,156788,8.4,65.8,113638,,,,,,left_only
+51520,Virginia,Bristol,17024,18.3,23.9,44706,,,,,,left_only
+51530,Virginia,Buena Vista,6612,22.0,24.7,54458,,,,,,left_only
+51540,Virginia,Charlottesville,45863,22.6,60.6,69829,,,,,,left_only
+51550,Virginia,Chesapeake,251153,8.7,36.4,94189,,,,,,left_only
+51570,Virginia,Colonial Heights,18210,9.6,29.5,76250,,,,,,left_only
+51580,Virginia,Covington,5671,23.6,9.6,42724,,,,,,left_only
+51590,Virginia,Danville,42239,25.0,18.3,42778,,,,,,left_only
+51595,Virginia,Emporia,5633,13.5,15.2,49375,,,,,,left_only
+51600,Virginia,Fairfax,24478,9.9,62.3,132774,,,,,,left_only
+51610,Virginia,Falls Church,14593,3.6,79.7,154734,,,,,,left_only
+51630,Virginia,Fredericksburg,28383,16.4,46.8,85368,,,,,,left_only
+51640,Virginia,Galax,6698,23.4,18.3,41438,,,,,,left_only
+51650,Virginia,Hampton,137334,13.0,27.5,67758,,,,,,left_only
+51660,Virginia,Harrisonburg,51492,25.6,36.7,59752,,,,,,left_only
+51670,Virginia,Hopewell,22944,23.8,12.5,48681,,,,,,left_only
+51678,Virginia,Lexington,7420,15.9,57.3,89598,,,,,,left_only
+51680,Virginia,Lynchburg,79255,17.4,38.5,59808,,,,,,left_only
+51683,Virginia,Manassas,42674,6.7,33.2,117919,,,,,,left_only
+51685,Virginia,Manassas Park,16923,5.8,25.5,100668,,,,,,left_only
+51690,Virginia,Martinsville,13584,21.8,21.2,42434,,,,,,left_only
+51700,Virginia,Newport News,184774,15.1,29.1,66718,,,,,,left_only
+51710,Virginia,Norfolk,235037,17.3,32.7,64017,,,,,,left_only
+51720,Virginia,Norton,3620,25.7,16.6,38497,,,,,,left_only
+51730,Virginia,Petersburg,33365,21.1,25.0,50741,,,,,,left_only
+51735,Virginia,Poquoson,12556,5.8,40.1,120919,,,,,,left_only
+51740,Virginia,Portsmouth,97299,17.6,23.2,58972,,,,,,left_only
+51750,Virginia,Radford,16505,33.7,39.8,52791,,,,,,left_only
+51770,Virginia,Roanoke,98677,19.7,28.9,52671,,,,,,left_only
+51775,Virginia,Salem,25477,10.9,31.1,66716,,,,,,left_only
+51790,Virginia,Staunton,25765,12.6,35.1,62586,,,,,,left_only
+51800,Virginia,Suffolk,96638,9.9,32.4,90089,,,,,,left_only
+51810,Virginia,Virginia Beach,457066,8.4,40.4,90685,,,,,,left_only
+51820,Virginia,Waynesboro,22574,11.7,26.3,56364,,,,,,left_only
+51830,Virginia,Williamsburg,15564,14.1,48.5,70206,,,,,,left_only
+51840,Virginia,Winchester,27981,19.3,31.6,64648,,,,,,left_only
+53001,Washington,Adams,20690,20.5,15.4,65042,,,,,,left_only
+53019,Washington,Ferry,7326,15.6,18.3,54650,,,,,,left_only
+53039,Washington,Klickitat,23082,13.7,31.2,70400,,,,,,left_only
+53047,Washington,Okanogan,42811,18.5,24.0,60293,,,,,,left_only
+53049,Washington,Pacific,23750,11.6,23.4,62350,,,,,,left_only
+53069,Washington,Wahkiakum,4573,15.7,22.3,57091,,,,,,left_only
+54001,West Virginia,Barbour,15454,20.8,12.2,48347,,,,,,left_only
+54005,West Virginia,Boone,21312,17.3,11.9,56152,,,,,,left_only
+54007,West Virginia,Braxton,12345,18.8,11.9,44449,,,,,,left_only
+54009,West Virginia,Brooke,22053,12.1,21.9,52116,,,,,,left_only
+54013,West Virginia,Calhoun,6158,33.4,10.1,41421,,,,,,left_only
+54015,West Virginia,Clay,7946,24.9,11.8,42790,,,,,,left_only
+54021,West Virginia,Gilmer,7376,12.9,19.9,50991,,,,,,left_only
+54023,West Virginia,Grant,10972,13.4,17.9,61530,,,,,,left_only
+54025,West Virginia,Greenbrier,32688,20.7,22.1,48662,,,,,,left_only
+54027,West Virginia,Hampshire,23340,14.2,16.3,60299,,,,,,left_only
+54029,West Virginia,Hancock,28658,15.0,20.2,61017,,,,,,left_only
+54033,West Virginia,Harrison,65407,13.6,25.9,58326,,,,,,left_only
+54041,West Virginia,Lewis,16808,19.4,17.5,52279,,,,,,left_only
+54043,West Virginia,Lincoln,20170,20.6,8.4,48593,,,,,,left_only
+54047,West Virginia,McDowell,18413,30.9,5.7,29980,,,,,,left_only
+54049,West Virginia,Marion,56042,13.6,25.8,67537,,,,,,left_only
+54055,West Virginia,Mercer,59062,18.0,20.7,47799,,,,,,left_only
+54057,West Virginia,Mineral,26922,14.3,22.8,68049,,,,,,left_only
+54059,West Virginia,Mingo,22979,29.9,8.3,39527,,,,,,left_only
+54063,West Virginia,Monroe,12401,15.7,15.4,54508,,,,,,left_only
+54069,West Virginia,Ohio,41904,15.7,32.5,57867,,,,,,left_only
+54071,West Virginia,Pendleton,6111,16.3,20.5,61738,,,,,,left_only
+54073,West Virginia,Pleasants,7572,8.0,14.6,61038,,,,,,left_only
+54075,West Virginia,Pocahontas,7855,20.8,15.8,41200,,,,,,left_only
+54077,West Virginia,Preston,34204,14.1,17.9,61373,,,,,,left_only
+54091,West Virginia,Taylor,16543,14.7,17.4,56807,,,,,,left_only
+54093,West Virginia,Tucker,6698,13.2,24.2,53475,,,,,,left_only
+54095,West Virginia,Tyler,8181,17.7,15.7,58293,,,,,,left_only
+54099,West Virginia,Wayne,38498,15.7,17.7,55539,,,,,,left_only
+54101,West Virginia,Webster,8253,22.1,12.6,42061,,,,,,left_only
+54105,West Virginia,Wirt,5131,18.3,16.2,54688,,,,,,left_only
+54107,West Virginia,Wood,83829,14.8,22.9,56193,,,,,,left_only
+55003,Wisconsin,Ashland,16050,16.4,22.1,57645,,,,,,left_only
+55007,Wisconsin,Bayfield,16410,8.9,35.0,69609,,,,,,left_only
+55033,Wisconsin,Dunn,45349,10.7,29.2,71785,,,,,,left_only
+55037,Wisconsin,Florence,4617,8.5,23.1,62786,,,,,,left_only
+55041,Wisconsin,Forest,9261,15.0,15.5,59727,,,,,,left_only
+55049,Wisconsin,Iowa,23832,7.7,28.5,83372,,,,,,left_only
+55051,Wisconsin,Iron,6164,11.6,23.4,59058,,,,,,left_only
+55067,Wisconsin,Langlade,19473,12.1,16.2,57258,,,,,,left_only
+55081,Wisconsin,Monroe,46169,11.8,20.0,68213,,,,,,left_only
+55091,Wisconsin,Pepin,7372,7.9,23.6,74536,,,,,,left_only
+55109,Wisconsin,St. Croix,94819,6.6,39.4,102482,,,,,,left_only
+56003,Wyoming,Big Horn,11737,12.0,20.9,60547,,,,,,left_only
+56007,Wyoming,Carbon,14549,12.6,22.8,66721,,,,,,left_only
+56013,Wyoming,Fremont,39472,12.4,25.3,64646,,,,,,left_only
+56031,Wyoming,Platte,8606,10.2,19.5,66299,,,,,,left_only
+72001,Puerto Rico,Adjuntas,17975,61.9,17.0,18605,,,,,,left_only
+72003,Puerto Rico,Aguada,37904,46.5,23.6,21694,,,,,,left_only
+72005,Puerto Rico,Aguadilla,54486,47.9,25.5,19826,,,,,,left_only
+72007,Puerto Rico,Aguas Buenas,23888,43.6,20.4,22361,,,,,,left_only
+72009,Puerto Rico,Aibonito,24610,44.6,23.4,21714,,,,,,left_only
+72011,Puerto Rico,Añasco,25316,44.9,23.2,23591,,,,,,left_only
+72013,Puerto Rico,Arecibo,86875,42.9,27.5,23175,,,,,,left_only
+72015,Puerto Rico,Arroyo,15573,54.4,26.6,18931,,,,,,left_only
+72017,Puerto Rico,Barceloneta,22565,45.4,24.1,21750,,,,,,left_only
+72019,Puerto Rico,Barranquitas,28984,49.6,22.3,22167,,,,,,left_only
+72021,Puerto Rico,Bayamón,183456,34.4,32.1,30729,,,,,,left_only
+72023,Puerto Rico,Cabo Rojo,46955,38.5,28.6,25720,,,,,,left_only
+72025,Puerto Rico,Caguas,126239,36.6,34.8,30113,,,,,,left_only
+72027,Puerto Rico,Camuy,32753,39.0,21.2,26094,,,,,,left_only
+72029,Puerto Rico,Canóvanas,42037,33.9,27.5,27278,,,,,,left_only
+72031,Puerto Rico,Carolina,153226,29.3,34.8,35126,,,,,,left_only
+72033,Puerto Rico,Cataño,22768,44.2,22.8,24307,,,,,,left_only
+72035,Puerto Rico,Cayey,41231,37.9,29.0,28461,,,,,,left_only
+72037,Puerto Rico,Ceiba,11128,41.6,21.5,23204,,,,,,left_only
+72039,Puerto Rico,Ciales,16874,58.2,17.0,20614,,,,,,left_only
+72041,Puerto Rico,Cidra,39765,36.2,26.2,27149,,,,,,left_only
+72043,Puerto Rico,Coamo,34294,52.0,22.7,20797,,,,,,left_only
+72045,Puerto Rico,Comerío,18775,53.0,18.0,17254,,,,,,left_only
+72047,Puerto Rico,Corozal,34474,44.2,21.9,23933,,,,,,left_only
+72049,Puerto Rico,Culebra,1281,20.8,16.2,27614,,,,,,left_only
+72051,Puerto Rico,Dorado,35816,29.2,36.3,33388,,,,,,left_only
+72053,Puerto Rico,Fajardo,31756,41.5,29.9,25170,,,,,,left_only
+72054,Puerto Rico,Florida,11624,50.6,19.0,21213,,,,,,left_only
+72055,Puerto Rico,Guánica,13266,64.7,15.5,16210,,,,,,left_only
+72057,Puerto Rico,Guayama,35845,48.6,22.5,20273,,,,,,left_only
+72059,Puerto Rico,Guayanilla,17418,50.2,25.0,21400,,,,,,left_only
+72061,Puerto Rico,Guaynabo,89503,24.3,49.1,46048,,,,,,left_only
+72063,Puerto Rico,Gurabo,40383,32.0,33.8,39532,,,,,,left_only
+72065,Puerto Rico,Hatillo,38266,36.4,31.4,28001,,,,,,left_only
+72067,Puerto Rico,Hormigueros,15520,40.1,30.3,24862,,,,,,left_only
+72069,Puerto Rico,Humacao,50441,38.5,26.8,26083,,,,,,left_only
+72071,Puerto Rico,Isabela,42878,46.7,25.4,20484,,,,,,left_only
+72073,Puerto Rico,Jayuya,14653,54.9,20.3,18413,,,,,,left_only
+72075,Puerto Rico,Juana Díaz,46276,42.9,27.9,23823,,,,,,left_only
+72077,Puerto Rico,Juncos,36895,34.0,22.7,28196,,,,,,left_only
+72079,Puerto Rico,Lajas,23133,53.0,21.0,18920,,,,,,left_only
+72081,Puerto Rico,Lares,27944,54.9,21.3,19323,,,,,,left_only
+72083,Puerto Rico,Las Marías,8790,54.0,16.6,16170,,,,,,left_only
+72085,Puerto Rico,Las Piedras,35034,37.5,28.9,25697,,,,,,left_only
+72087,Puerto Rico,Loíza,23176,44.8,18.5,22500,,,,,,left_only
+72089,Puerto Rico,Luquillo,17631,43.8,23.5,23769,,,,,,left_only
+72091,Puerto Rico,Manatí,39152,45.9,23.8,20352,,,,,,left_only
+72093,Puerto Rico,Maricao,5176,52.6,11.5,20541,,,,,,left_only
+72095,Puerto Rico,Maunabo,10482,52.8,12.7,19363,,,,,,left_only
+72097,Puerto Rico,Mayagüez,71824,53.0,27.5,17963,,,,,,left_only
+72099,Puerto Rico,Moca,37402,46.0,24.8,21415,,,,,,left_only
+72101,Puerto Rico,Morovis,28534,48.7,20.7,23010,,,,,,left_only
+72103,Puerto Rico,Naguabo,23205,48.0,23.7,21416,,,,,,left_only
+72105,Puerto Rico,Naranjito,29246,50.5,19.8,21399,,,,,,left_only
+72107,Puerto Rico,Orocovis,21351,52.5,18.5,19062,,,,,,left_only
+72109,Puerto Rico,Patillas,15753,47.8,22.1,23422,,,,,,left_only
+72111,Puerto Rico,Peñuelas,20082,51.0,25.7,20959,,,,,,left_only
+72113,Puerto Rico,Ponce,134676,50.9,30.5,18827,,,,,,left_only
+72115,Puerto Rico,Quebradillas,23486,45.1,21.2,23624,,,,,,left_only
+72117,Puerto Rico,Rincón,15276,44.6,24.5,25223,,,,,,left_only
+72119,Puerto Rico,Río Grande,46478,37.0,26.2,26745,,,,,,left_only
+72121,Puerto Rico,Sabana Grande,22541,44.5,29.1,20564,,,,,,left_only
+72123,Puerto Rico,Salinas,25397,48.0,19.3,21611,,,,,,left_only
+72125,Puerto Rico,San Germán,31514,51.9,24.3,17921,,,,,,left_only
+72127,Puerto Rico,San Juan,338661,39.5,42.2,26981,,,,,,left_only
+72129,Puerto Rico,San Lorenzo,37515,44.6,19.9,21320,,,,,,left_only
+72131,Puerto Rico,San Sebastián,39168,52.4,22.8,17834,,,,,,left_only
+72133,Puerto Rico,Santa Isabel,20064,45.7,28.8,23197,,,,,,left_only
+72135,Puerto Rico,Toa Alta,66536,33.8,28.4,33349,,,,,,left_only
+72137,Puerto Rico,Toa Baja,73987,33.8,27.7,29648,,,,,,left_only
+72139,Puerto Rico,Trujillo Alto,67329,28.2,39.9,38773,,,,,,left_only
+72141,Puerto Rico,Utuado,27896,53.5,22.7,17624,,,,,,left_only
+72143,Puerto Rico,Vega Alta,35114,41.3,24.7,25235,,,,,,left_only
+72145,Puerto Rico,Vega Baja,54058,42.3,24.9,23877,,,,,,left_only
+72147,Puerto Rico,Vieques,8147,59.5,12.4,17531,,,,,,left_only
+72149,Puerto Rico,Villalba,21778,41.8,22.5,24882,,,,,,left_only
+72151,Puerto Rico,Yabucoa,29868,49.7,18.4,21279,,,,,,left_only
+72153,Puerto Rico,Yauco,33509,44.6,27.1,21918,,,,,,left_only
